@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "running",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "name": "swimming",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "name": "resting",
+    "completed": false
+  }
+]
