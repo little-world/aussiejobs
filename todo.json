@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "running",
+    "title": "running",
     "completed": false
   },
   {
     "id": 2,
-    "name": "swimming",
+    "title": "swimming",
     "completed": false
   },
   {
     "id": 3,
-    "name": "resting",
+    "title": "resting",
     "completed": false
   }
 ]
