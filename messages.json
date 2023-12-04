@@ -1,18 +1,33 @@
 [
   {
-    "title": "my-mymessage",
+    "title": "first message",
     "user": {
       "uuid": "123-345-456-567",
-      "name": "my-user1"
+      "name": "user1"
     },
     "replies": [
       {
-        "title": "my-reply",
+        "title": "first-reply-to-first-message",
         "user": {
           "uuid": "123-345-456-567",
-          "name": "my-user1"
+          "name": "user1"
+        }
+      },
+      {
+        "title": "second-reply-to-first-message",
+        "user": {
+          "uuid": "124-345-456-567",
+          "name": "user2"
         }
       }
     ]
+  },
+  {
+    "title": "second message",
+    "user": {
+      "uuid": "123-345-456-567",
+      "name": "user1"
+    },
+    "replies": []
   }
 ]
