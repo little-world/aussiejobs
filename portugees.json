@@ -1,0 +1,2434 @@
+[
+  {
+    "portugees": "Bom dia",
+    "nederlands": "Goedemorgen",
+    "uitspraak": "bom DJEE-ah",
+    "zin_p": "Bom dia, como vai?",
+    "zin_nl": "Goedemorgen, hoe gaat het?",
+    "categorie": "Groeten en basiszinnen"
+  },
+  {
+    "portugees": "Boa tarde",
+    "nederlands": "Goedemiddag",
+    "uitspraak": "BOH-ah TAR-dje",
+    "zin_p": "Boa tarde, senhor.",
+    "zin_nl": "Goedemiddag, meneer.",
+    "categorie": "Groeten en basiszinnen"
+  },
+  {
+    "portugees": "Boa noite",
+    "nederlands": "Goedenavond/nacht",
+    "uitspraak": "BOH-ah NOJ-tje",
+    "zin_p": "Boa noite, até amanhã!",
+    "zin_nl": "Goedenavond, tot morgen!",
+    "categorie": "Groeten en basiszinnen"
+  },
+  {
+    "portugees": "Adeus",
+    "nederlands": "Tot ziens",
+    "uitspraak": "ah-DEH-oos",
+    "zin_p": "Adeus, até breve.",
+    "zin_nl": "Tot ziens, tot snel.",
+    "categorie": "Groeten en basiszinnen"
+  },
+  {
+    "portugees": "Por favor",
+    "nederlands": "Alstublieft",
+    "uitspraak": "por fah-VOR",
+    "zin_p": "Pode me ajudar, por favor?",
+    "zin_nl": "Kunt u me helpen, alstublieft?",
+    "categorie": "Groeten en basiszinnen"
+  },
+  {
+    "portugees": "Obrigado/a",
+    "nederlands": "Dank u / Dank je",
+    "uitspraak": "oh-bree-GAH-do/ah",
+    "zin_p": "Obrigado pela ajuda!",
+    "zin_nl": "Dank je voor de hulp!",
+    "categorie": "Groeten en basiszinnen"
+  },
+  {
+    "portugees": "Sim",
+    "nederlands": "Ja",
+    "uitspraak": "seem",
+    "zin_p": "Sim, eu entendo.",
+    "zin_nl": "Ja, ik begrijp het.",
+    "categorie": "Groeten en basiszinnen"
+  },
+  {
+    "portugees": "Não",
+    "nederlands": "Nee",
+    "uitspraak": "nowN",
+    "zin_p": "Não, não quero.",
+    "zin_nl": "Nee, ik wil niet.",
+    "categorie": "Groeten en basiszinnen"
+  },
+  {
+    "portugees": "Desculpe",
+    "nederlands": "Sorry",
+    "uitspraak": "des-KOOL-peh",
+    "zin_p": "Desculpe, não ouvi.",
+    "zin_nl": "Sorry, ik hoorde het niet.",
+    "categorie": "Groeten en basiszinnen"
+  },
+  {
+    "portugees": "Pai",
+    "nederlands": "Vader",
+    "uitspraak": "pie",
+    "zin_p": "Meu pai trabalha muito.",
+    "zin_nl": "Mijn vader werkt hard.",
+    "categorie": "Familie"
+  },
+  {
+    "portugees": "Irmão",
+    "nederlands": "Broer",
+    "uitspraak": "eer-MAH-o",
+    "zin_p": "Meu irmão gosta de futebol.",
+    "zin_nl": "Mijn broer houdt van voetbal.",
+    "categorie": "Familie"
+  },
+  {
+    "portugees": "Irmã",
+    "nederlands": "Zus",
+    "uitspraak": "eer-MAH",
+    "zin_p": "Minha irmã é professora.",
+    "zin_nl": "Mijn zus is lerares.",
+    "categorie": "Familie"
+  },
+  {
+    "portugees": "Filho",
+    "nederlands": "Zoon",
+    "uitspraak": "FEE-lyo",
+    "zin_p": "Meu filho tem cinco anos.",
+    "zin_nl": "Mijn zoon is vijf jaar oud.",
+    "categorie": "Familie"
+  },
+  {
+    "portugees": "Filha",
+    "nederlands": "Dochter",
+    "uitspraak": "FEE-lyah",
+    "zin_p": "Minha filha está na escola.",
+    "zin_nl": "Mijn dochter is op school.",
+    "categorie": "Familie"
+  },
+  {
+    "portugees": "Terça-feira",
+    "nederlands": "Dinsdag",
+    "uitspraak": "TEHR-sah FAY-rah",
+    "zin_p": "Terça-feira é o meu dia livre.",
+    "zin_nl": "Dinsdag is mijn vrije dag.",
+    "categorie": "Dagen van de week"
+  },
+  {
+    "portugees": "Quarta-feira",
+    "nederlands": "Woensdag",
+    "uitspraak": "KWAHR-tah FAY-rah",
+    "zin_p": "Na quarta-feira temos reunião.",
+    "zin_nl": "Op woensdag hebben we een vergadering.",
+    "categorie": "Dagen van de week"
+  },
+  {
+    "portugees": "Pão",
+    "nederlands": "Brood",
+    "uitspraak": "PowN",
+    "zin_p": "O pão está fresco.",
+    "zin_nl": "Het brood is vers.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Leite",
+    "nederlands": "Melk",
+    "uitspraak": "LAY-tje",
+    "zin_p": "O leite está na geladeira.",
+    "zin_nl": "De melk staat in de koelkast.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Café",
+    "nederlands": "Koffie",
+    "uitspraak": "kah-FEH",
+    "zin_p": "Eu gosto de café forte.",
+    "zin_nl": "Ik hou van sterke koffie.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Arroz",
+    "nederlands": "Rijst",
+    "uitspraak": "ah-HOHS",
+    "zin_p": "O arroz é muito popular no Brasil.",
+    "zin_nl": "Rijst is erg populair in Brazilië.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Fruta",
+    "nederlands": "Fruit",
+    "uitspraak": "FROO-tah",
+    "zin_p": "A maçã é uma fruta saudável.",
+    "zin_nl": "De appel is een gezond fruit.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Carne",
+    "nederlands": "Vlees",
+    "uitspraak": "KAR-neh",
+    "zin_p": "Eu gosto de carne assada.",
+    "zin_nl": "Ik hou van geroosterd vlees.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Queijo",
+    "nederlands": "Kaas",
+    "uitspraak": "KAY-zjoe",
+    "zin_p": "O queijo suíço é delicioso.",
+    "zin_nl": "Zwitserse kaas is heerlijk.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Peixe",
+    "nederlands": "Vis",
+    "uitspraak": "PAY-shee",
+    "zin_p": "Peixe é saudável para o coração.",
+    "zin_nl": "Vis is gezond voor het hart.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Ovo",
+    "nederlands": "Ei",
+    "uitspraak": "OH-voh",
+    "zin_p": "Eu comi um ovo no café da manhã.",
+    "zin_nl": "Ik at een ei als ontbijt.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Dois",
+    "nederlands": "Twee",
+    "uitspraak": "DOY-s",
+    "zin_p": "Eu quero dois cafés.",
+    "zin_nl": "Ik wil twee koffies.",
+    "categorie": "Getallen"
+  },
+  {
+    "portugees": "Três",
+    "nederlands": "Drie",
+    "uitspraak": "TREH-s",
+    "zin_p": "Três pessoas estão na sala.",
+    "zin_nl": "Drie mensen zijn in de kamer.",
+    "categorie": "Getallen"
+  },
+  {
+    "portugees": "Quatro",
+    "nederlands": "Vier",
+    "uitspraak": "KWAH-tro",
+    "zin_p": "Quatro amigos vieram para a festa.",
+    "zin_nl": "Vier vrienden kwamen naar het feest.",
+    "categorie": "Getallen"
+  },
+  {
+    "portugees": "Cinco",
+    "nederlands": "Vijf",
+    "uitspraak": "SEEN-ko",
+    "zin_p": "Ele comprou cinco livros.",
+    "zin_nl": "Hij kocht vijf boeken.",
+    "categorie": "Getallen"
+  },
+  {
+    "portugees": "Dez",
+    "nederlands": "Tien",
+    "uitspraak": "DES",
+    "zin_p": "Eu conto até dez.",
+    "zin_nl": "Ik tel tot tien.",
+    "categorie": "Getallen"
+  },
+  {
+    "portugees": "Cem",
+    "nederlands": "Honderd",
+    "uitspraak": "SEHN",
+    "zin_p": "Cem pessoas estão na reunião.",
+    "zin_nl": "Honderd mensen zijn op de vergadering.",
+    "categorie": "Getallen"
+  },
+  {
+    "portugees": "Mil",
+    "nederlands": "Duizend",
+    "uitspraak": "MEEL",
+    "zin_p": "A cidade tem mil habitantes.",
+    "zin_nl": "De stad heeft duizend inwoners.",
+    "categorie": "Getallen"
+  },
+  {
+    "portugees": "Escritório",
+    "nederlands": "Kantoor",
+    "uitspraak": "es-kree-TOH-reeo",
+    "zin_p": "O escritório é grande.",
+    "zin_nl": "Het kantoor is groot.",
+    "categorie": "Werk en studie"
+  },
+  {
+    "portugees": "Faculdade",
+    "nederlands": "Universiteit",
+    "uitspraak": "fah-koo-DAH-jee",
+    "zin_p": "Eu estudo na faculdade.",
+    "zin_nl": "Ik studeer aan de universiteit.",
+    "categorie": "Werk en studie"
+  },
+  {
+    "portugees": "Tarefa",
+    "nederlands": "Taak",
+    "uitspraak": "tah-REH-fah",
+    "zin_p": "Minha tarefa é urgente.",
+    "zin_nl": "Mijn taak is dringend.",
+    "categorie": "Werk en studie"
+  },
+  {
+    "portugees": "Professor",
+    "nederlands": "Leraar",
+    "uitspraak": "pro-fes-SOR",
+    "zin_p": "O professor é muito experiente.",
+    "zin_nl": "De leraar is erg ervaren.",
+    "categorie": "Werk en studie"
+  },
+  {
+    "portugees": "Aluno",
+    "nederlands": "Student",
+    "uitspraak": "ah-LOO-no",
+    "zin_p": "O aluno fez a lição de casa.",
+    "zin_nl": "De student heeft het huiswerk gedaan.",
+    "categorie": "Werk en studie"
+  },
+  {
+    "portugees": "Reunião",
+    "nederlands": "Vergadering",
+    "uitspraak": "hay-oo-nee-AHN",
+    "zin_p": "A reunião foi longa.",
+    "zin_nl": "De vergadering was lang.",
+    "categorie": "Werk en studie"
+  },
+  {
+    "portugees": "Horário",
+    "nederlands": "Rooster",
+    "uitspraak": "oh-RAH-reeo",
+    "zin_p": "Qual é o seu horário de trabalho?",
+    "zin_nl": "Wat is je werkrooster?",
+    "categorie": "Werk en studie"
+  },
+  {
+    "portugees": "Azul",
+    "nederlands": "Blauw",
+    "uitspraak": "ah-ZOOL",
+    "zin_p": "O céu está azul.",
+    "zin_nl": "De lucht is blauw.",
+    "categorie": "Kleuren"
+  },
+  {
+    "portugees": "Verde",
+    "nederlands": "Groen",
+    "uitspraak": "VEHR-jee",
+    "zin_p": "A grama é verde.",
+    "zin_nl": "Het gras is groen.",
+    "categorie": "Kleuren"
+  },
+  {
+    "portugees": "Amarelo",
+    "nederlands": "Geel",
+    "uitspraak": "ah-mah-REH-lo",
+    "zin_p": "O sol é amarelo.",
+    "zin_nl": "De zon is geel.",
+    "categorie": "Kleuren"
+  },
+  {
+    "portugees": "Preto",
+    "nederlands": "Zwart",
+    "uitspraak": "PREH-toh",
+    "zin_p": "O carro é preto.",
+    "zin_nl": "De auto is zwart.",
+    "categorie": "Kleuren"
+  },
+  {
+    "portugees": "Branco",
+    "nederlands": "Wit",
+    "uitspraak": "BRAN-koh",
+    "zin_p": "A camisa é branca.",
+    "zin_nl": "Het overhemd is wit.",
+    "categorie": "Kleuren"
+  },
+  {
+    "portugees": "Bicicleta",
+    "nederlands": "Fiets",
+    "uitspraak": "bee-see-KLEH-tah",
+    "zin_p": "Eu vou ao parque de bicicleta.",
+    "zin_nl": "Ik ga naar het park met de fiets.",
+    "categorie": "Vervoer"
+  },
+  {
+    "portugees": "Ônibus",
+    "nederlands": "Bus",
+    "uitspraak": "OH-nee-boos",
+    "zin_p": "O ônibus chega às oito.",
+    "zin_nl": "De bus komt om acht uur aan.",
+    "categorie": "Vervoer"
+  },
+  {
+    "portugees": "Trem",
+    "nederlands": "Trein",
+    "uitspraak": "TREH-m",
+    "zin_p": "O trem está atrasado.",
+    "zin_nl": "De trein is vertraagd.",
+    "categorie": "Vervoer"
+  },
+  {
+    "portugees": "Avião",
+    "nederlands": "Vliegtuig",
+    "uitspraak": "ah-vee-AH-o",
+    "zin_p": "O avião está no aeroporto.",
+    "zin_nl": "Het vliegtuig is op de luchthaven.",
+    "categorie": "Vervoer"
+  },
+  {
+    "portugees": "Barco",
+    "nederlands": "Boot",
+    "uitspraak": "BAR-koh",
+    "zin_p": "O barco está no rio.",
+    "zin_nl": "De boot is op de rivier.",
+    "categorie": "Vervoer"
+  },
+  {
+    "portugees": "Rua",
+    "nederlands": "Straat",
+    "uitspraak": "HOO-ah",
+    "zin_p": "Minha casa fica nessa rua.",
+    "zin_nl": "Mijn huis ligt in deze straat.",
+    "categorie": "Vervoer"
+  },
+  {
+    "portugees": "Estrada",
+    "nederlands": "Weg",
+    "uitspraak": "es-TRAH-dah",
+    "zin_p": "A estrada está vazia.",
+    "zin_nl": "De weg is leeg.",
+    "categorie": "Vervoer"
+  },
+  {
+    "portugees": "Metrô",
+    "nederlands": "Metro",
+    "uitspraak": "meh-TROH",
+    "zin_p": "O metrô é muito rápido.",
+    "zin_nl": "De metro is erg snel.",
+    "categorie": "Vervoer"
+  },
+  {
+    "portugees": "Minuto",
+    "nederlands": "Minuut",
+    "uitspraak": "mee-NOO-toh",
+    "zin_p": "Faltam cinco minutos.",
+    "zin_nl": "Er zijn nog vijf minuten over.",
+    "categorie": "Tijd"
+  },
+  {
+    "portugees": "Segundo",
+    "nederlands": "Seconde",
+    "uitspraak": "seh-GOON-doo",
+    "zin_p": "O relógio marca os segundos.",
+    "zin_nl": "De klok geeft de seconden aan.",
+    "categorie": "Tijd"
+  },
+  {
+    "portugees": "Ontem",
+    "nederlands": "Gisteren",
+    "uitspraak": "ON-tem",
+    "zin_p": "Ontem foi um dia bonito.",
+    "zin_nl": "Gisteren was een mooie dag.",
+    "categorie": "Tijd"
+  },
+  {
+    "portugees": "Hoje",
+    "nederlands": "Vandaag",
+    "uitspraak": "OH-zjee",
+    "zin_p": "Hoje temos muito trabalho.",
+    "zin_nl": "Vandaag hebben we veel werk.",
+    "categorie": "Tijd"
+  },
+  {
+    "portugees": "Amanhã",
+    "nederlands": "Morgen",
+    "uitspraak": "ah-mahn-YAH",
+    "zin_p": "Amanhã será feriado.",
+    "zin_nl": "Morgen is een feestdag.",
+    "categorie": "Tijd"
+  },
+  {
+    "portugees": "Semana",
+    "nederlands": "Week",
+    "uitspraak": "seh-MAH-nah",
+    "zin_p": "A semana está cheia de compromissos.",
+    "zin_nl": "De week zit vol afspraken.",
+    "categorie": "Tijd"
+  },
+  {
+    "portugees": "Ano",
+    "nederlands": "Jaar",
+    "uitspraak": "AH-noh",
+    "zin_p": "Este ano foi muito bom.",
+    "zin_nl": "Dit jaar was erg goed.",
+    "categorie": "Tijd"
+  },
+  {
+    "portugees": "Triste",
+    "nederlands": "Verdrietig",
+    "uitspraak": "TREE-steh",
+    "zin_p": "Ela está triste com a notícia.",
+    "zin_nl": "Ze is verdrietig over het nieuws.",
+    "categorie": "Emoties"
+  },
+  {
+    "portugees": "Bravo",
+    "nederlands": "Boos",
+    "uitspraak": "BRAH-voh",
+    "zin_p": "Ele ficou bravo comigo.",
+    "zin_nl": "Hij was boos op mij.",
+    "categorie": "Emoties"
+  },
+  {
+    "portugees": "Cansado",
+    "nederlands": "Moe",
+    "uitspraak": "kan-SAH-doh",
+    "zin_p": "Estou cansado depois do trabalho.",
+    "zin_nl": "Ik ben moe na het werk.",
+    "categorie": "Emoties"
+  },
+  {
+    "portugees": "Nervoso",
+    "nederlands": "Nerveus",
+    "uitspraak": "ner-VOH-zoo",
+    "zin_p": "Estou nervoso antes da prova.",
+    "zin_nl": "Ik ben nerveus voor het examen.",
+    "categorie": "Emoties"
+  },
+  {
+    "portugees": "Calmo",
+    "nederlands": "Kalm",
+    "uitspraak": "KAHL-moh",
+    "zin_p": "O ambiente está calmo.",
+    "zin_nl": "De omgeving is rustig.",
+    "categorie": "Emoties"
+  },
+  {
+    "portugees": "Surpreso",
+    "nederlands": "Verrast",
+    "uitspraak": "soor-PREH-zoh",
+    "zin_p": "Fiquei surpreso com o resultado.",
+    "zin_nl": "Ik was verrast door het resultaat.",
+    "categorie": "Emoties"
+  },
+  {
+    "portugees": "Janela",
+    "nederlands": "Raam",
+    "uitspraak": "zjah-NEH-lah",
+    "zin_p": "A janela está aberta.",
+    "zin_nl": "Het raam is open.",
+    "categorie": "Praktische objecten"
+  },
+  {
+    "portugees": "Porta",
+    "nederlands": "Deur",
+    "uitspraak": "POR-tah",
+    "zin_p": "Feche a porta, por favor.",
+    "zin_nl": "Sluit de deur, alstublieft.",
+    "categorie": "Praktische objecten"
+  },
+  {
+    "portugees": "Mesa",
+    "nederlands": "Tafel",
+    "uitspraak": "MEH-zah",
+    "zin_p": "A comida está na mesa.",
+    "zin_nl": "Het eten staat op tafel.",
+    "categorie": "Praktische objecten"
+  },
+  {
+    "portugees": "Cadeira",
+    "nederlands": "Stoel",
+    "uitspraak": "kah-DEH-rah",
+    "zin_p": "Sente-se na cadeira.",
+    "zin_nl": "Ga zitten op de stoel.",
+    "categorie": "Praktische objecten"
+  },
+  {
+    "portugees": "Telefone",
+    "nederlands": "Telefoon",
+    "uitspraak": "teh-leh-FOH-nee",
+    "zin_p": "Meu telefone está tocando.",
+    "zin_nl": "Mijn telefoon gaat over.",
+    "categorie": "Praktische objecten"
+  },
+  {
+    "portugees": "Dinheiro",
+    "nederlands": "Geld",
+    "uitspraak": "djee-NYEH-roh",
+    "zin_p": "Ele tem muito dinheiro.",
+    "zin_nl": "Hij heeft veel geld.",
+    "categorie": "Praktische objecten"
+  },
+  {
+    "portugees": "Chuva",
+    "nederlands": "Regen",
+    "uitspraak": "SHOO-vah",
+    "zin_p": "A chuva está forte.",
+    "zin_nl": "De regen is hard.",
+    "categorie": "Weer"
+  },
+  {
+    "portugees": "Frio",
+    "nederlands": "Koud",
+    "uitspraak": "FREE-oh",
+    "zin_p": "Está muito frio hoje.",
+    "zin_nl": "Het is erg koud vandaag.",
+    "categorie": "Weer"
+  },
+  {
+    "portugees": "Calor",
+    "nederlands": "Warmte",
+    "uitspraak": "kah-LOR",
+    "zin_p": "O calor está insuportável.",
+    "zin_nl": "De hitte is ondraaglijk.",
+    "categorie": "Weer"
+  },
+  {
+    "portugees": "Vento",
+    "nederlands": "Wind",
+    "uitspraak": "VEN-toh",
+    "zin_p": "O vento está forte.",
+    "zin_nl": "De wind is sterk.",
+    "categorie": "Weer"
+  },
+  {
+    "portugees": "Neve",
+    "nederlands": "Sneeuw",
+    "uitspraak": "NEH-veh",
+    "zin_p": "A neve cobre as montanhas.",
+    "zin_nl": "De sneeuw bedekt de bergen.",
+    "categorie": "Weer"
+  },
+  {
+    "portugees": "Olhos",
+    "nederlands": "Ogen",
+    "uitspraak": "OHL-yos",
+    "zin_p": "Meus olhos estão cansados.",
+    "zin_nl": "Mijn ogen zijn moe.",
+    "categorie": "Lichaamsdelen"
+  },
+  {
+    "portugees": "Boca",
+    "nederlands": "Mond",
+    "uitspraak": "BOH-kah",
+    "zin_p": "Ele abriu a boca para falar.",
+    "zin_nl": "Hij opende zijn mond om te spreken.",
+    "categorie": "Lichaamsdelen"
+  },
+  {
+    "portugees": "Mão",
+    "nederlands": "Hand",
+    "uitspraak": "MOWN",
+    "zin_p": "Minha mão está fria.",
+    "zin_nl": "Mijn hand is koud.",
+    "categorie": "Lichaamsdelen"
+  },
+  {
+    "portugees": "Braço",
+    "nederlands": "Arm",
+    "uitspraak": "BRAH-soh",
+    "zin_p": "Ele quebrou o braço.",
+    "zin_nl": "Hij brak zijn arm.",
+    "categorie": "Lichaamsdelen"
+  },
+  {
+    "portugees": "Perna",
+    "nederlands": "Been",
+    "uitspraak": "PEHR-nah",
+    "zin_p": "Minha perna dói depois de correr.",
+    "zin_nl": "Mijn been doet pijn na het rennen.",
+    "categorie": "Lichaamsdelen"
+  },
+  {
+    "portugees": "Coração",
+    "nederlands": "Hart",
+    "uitspraak": "koh-rah-SOWN",
+    "zin_p": "Meu coração bate rápido.",
+    "zin_nl": "Mijn hart klopt snel.",
+    "categorie": "Lichaamsdelen"
+  },
+  {
+    "portugees": "Loja",
+    "nederlands": "Winkel",
+    "uitspraak": "LOH-zhah",
+    "zin_p": "A loja está cheia hoje.",
+    "zin_nl": "De winkel is druk vandaag.",
+    "categorie": "Winkels en diensten"
+  },
+  {
+    "portugees": "Restaurante",
+    "nederlands": "Restaurant",
+    "uitspraak": "hehs-tah-oo-RAN-tchee",
+    "zin_p": "Vamos ao restaurante italiano.",
+    "zin_nl": "Laten we naar het Italiaanse restaurant gaan.",
+    "categorie": "Winkels en diensten"
+  },
+  {
+    "portugees": "Farmácia",
+    "nederlands": "Apotheek",
+    "uitspraak": "fahr-MAH-see-ah",
+    "zin_p": "Preciso comprar remédios na farmácia.",
+    "zin_nl": "Ik moet medicijnen kopen bij de apotheek.",
+    "categorie": "Winkels en diensten"
+  },
+  {
+    "portugees": "Banco",
+    "nederlands": "Bank",
+    "uitspraak": "BAHN-koh",
+    "zin_p": "O banco está aberto até às 16h.",
+    "zin_nl": "De bank is open tot 16.00 uur.",
+    "categorie": "Winkels en diensten"
+  },
+  {
+    "portugees": "Padaria",
+    "nederlands": "Bakkerij",
+    "uitspraak": "pah-dah-REE-ah",
+    "zin_p": "A padaria vende pão fresco.",
+    "zin_nl": "De bakkerij verkoopt vers brood.",
+    "categorie": "Winkels en diensten"
+  },
+  {
+    "portugees": "Shopping",
+    "nederlands": "Winkelcentrum",
+    "uitspraak": "SHOH-peeng",
+    "zin_p": "Fui ao shopping no fim de semana.",
+    "zin_nl": "Ik ging dit weekend naar het winkelcentrum.",
+    "categorie": "Winkels en diensten"
+  },
+  {
+    "portugees": "Flor",
+    "nederlands": "Bloem",
+    "uitspraak": "FLOOR",
+    "zin_p": "A flor é vermelha e bonita.",
+    "zin_nl": "De bloem is rood en mooi.",
+    "categorie": "Natuur"
+  },
+  {
+    "portugees": "Mar",
+    "nederlands": "Zee",
+    "uitspraak": "MAHR",
+    "zin_p": "O mar está calmo hoje.",
+    "zin_nl": "De zee is rustig vandaag.",
+    "categorie": "Natuur"
+  },
+  {
+    "portugees": "Montanha",
+    "nederlands": "Berg",
+    "uitspraak": "mon-TAH-nyah",
+    "zin_p": "A montanha está coberta de neve.",
+    "zin_nl": "De berg is bedekt met sneeuw.",
+    "categorie": "Natuur"
+  },
+  {
+    "portugees": "Rio",
+    "nederlands": "Rivier",
+    "uitspraak": "HEE-oh",
+    "zin_p": "O rio é largo e profundo.",
+    "zin_nl": "De rivier is breed en diep.",
+    "categorie": "Natuur"
+  },
+  {
+    "portugees": "Céu",
+    "nederlands": "Hemel",
+    "uitspraak": "SEH-oo",
+    "zin_p": "O céu está azul e limpo.",
+    "zin_nl": "De hemel is blauw en helder.",
+    "categorie": "Natuur"
+  },
+  {
+    "portugees": "Estrela",
+    "nederlands": "Ster",
+    "uitspraak": "es-TREH-lah",
+    "zin_p": "As estrelas brilham à noite.",
+    "zin_nl": "De sterren schijnen 's nachts.",
+    "categorie": "Natuur"
+  },
+  {
+    "portugees": "Calça",
+    "nederlands": "Broek",
+    "uitspraak": "KAHL-sah",
+    "zin_p": "A calça está muito longa.",
+    "zin_nl": "De broek is erg lang.",
+    "categorie": "Kleding"
+  },
+  {
+    "portugees": "Vestido",
+    "nederlands": "Jurk",
+    "uitspraak": "ves-TCHEE-doo",
+    "zin_p": "O vestido é azul e elegante.",
+    "zin_nl": "De jurk is blauw en elegant.",
+    "categorie": "Kleding"
+  },
+  {
+    "portugees": "Sapato",
+    "nederlands": "Schoen",
+    "uitspraak": "sah-PAH-toh",
+    "zin_p": "Os sapatos estão sujos.",
+    "zin_nl": "De schoenen zijn vies.",
+    "categorie": "Kleding"
+  },
+  {
+    "portugees": "Chapéu",
+    "nederlands": "Hoed",
+    "uitspraak": "shah-PEH-oo",
+    "zin_p": "Ele usa chapéu para o sol.",
+    "zin_nl": "Hij draagt een hoed tegen de zon.",
+    "categorie": "Kleding"
+  },
+  {
+    "portugees": "Jaqueta",
+    "nederlands": "Jas",
+    "uitspraak": "zjah-KEH-tah",
+    "zin_p": "Está frio, vou pegar uma jaqueta.",
+    "zin_nl": "Het is koud, ik pak een jas.",
+    "categorie": "Kleding"
+  },
+  {
+    "portugees": "Televisão",
+    "nederlands": "Televisie",
+    "uitspraak": "teh-leh-vee-ZOWN",
+    "zin_p": "Eu assisto televisão à noite.",
+    "zin_nl": "Ik kijk 's avonds televisie.",
+    "categorie": "Technologie"
+  },
+  {
+    "portugees": "Internet",
+    "nederlands": "Internet",
+    "uitspraak": "een-tehr-NEH-tchee",
+    "zin_p": "A internet está funcionando bem.",
+    "zin_nl": "Het internet werkt goed.",
+    "categorie": "Technologie"
+  },
+  {
+    "portugees": "Celular",
+    "nederlands": "Mobiele telefoon",
+    "uitspraak": "seh-loo-LAR",
+    "zin_p": "O celular está sem bateria.",
+    "zin_nl": "De mobiele telefoon heeft geen batterij.",
+    "categorie": "Technologie"
+  },
+  {
+    "portugees": "Relógio",
+    "nederlands": "Horloge",
+    "uitspraak": "heh-LOH-zjee",
+    "zin_p": "Meu relógio marca a hora certa.",
+    "zin_nl": "Mijn horloge geeft de juiste tijd aan.",
+    "categorie": "Technologie"
+  },
+  {
+    "portugees": "Carregador",
+    "nederlands": "Oplader",
+    "uitspraak": "kah-heh-gah-DOR",
+    "zin_p": "Preciso do carregador do celular.",
+    "zin_nl": "Ik heb de oplader voor mijn telefoon nodig.",
+    "categorie": "Technologie"
+  },
+  {
+    "portugees": "Fone de ouvido",
+    "nederlands": "Koptelefoon",
+    "uitspraak": "FOH-nee dee oh-vee-doo",
+    "zin_p": "Uso fone de ouvido para ouvir música.",
+    "zin_nl": "Ik gebruik een koptelefoon om naar muziek te luisteren.",
+    "categorie": "Technologie"
+  },
+  {
+    "portugees": "Estar",
+    "nederlands": "Zijn (toestand)",
+    "uitspraak": "es-TAHR",
+    "zin_p": "Eu estou feliz.",
+    "zin_nl": "Ik ben blij.",
+    "categorie": "Werkwoorden (Essentieel)"
+  },
+  {
+    "portugees": "Ter",
+    "nederlands": "Hebben",
+    "uitspraak": "TEHR",
+    "zin_p": "Eu tenho um carro.",
+    "zin_nl": "Ik heb een auto.",
+    "categorie": "Werkwoorden (Essentieel)"
+  },
+  {
+    "portugees": "Fazer",
+    "nederlands": "Doen/Maken",
+    "uitspraak": "fah-ZEHR",
+    "zin_p": "Eu faço bolo no fim de semana.",
+    "zin_nl": "Ik maak cake in het weekend.",
+    "categorie": "Werkwoorden (Essentieel)"
+  },
+  {
+    "portugees": "Ir",
+    "nederlands": "Gaan",
+    "uitspraak": "eer",
+    "zin_p": "Eu vou ao mercado.",
+    "zin_nl": "Ik ga naar de markt.",
+    "categorie": "Werkwoorden (Essentieel)"
+  },
+  {
+    "portugees": "Comer",
+    "nederlands": "Eten",
+    "uitspraak": "koh-MEHR",
+    "zin_p": "Eu gosto de comer pizza.",
+    "zin_nl": "Ik hou van pizza eten.",
+    "categorie": "Werkwoorden (Essentieel)"
+  },
+  {
+    "portugees": "Beber",
+    "nederlands": "Drinken",
+    "uitspraak": "beh-BEHR",
+    "zin_p": "Eu bebo água.",
+    "zin_nl": "Ik drink water.",
+    "categorie": "Werkwoorden (Essentieel)"
+  },
+  {
+    "portugees": "Medo",
+    "nederlands": "Angst",
+    "uitspraak": "MEH-doo",
+    "zin_p": "Ele sente medo de altura.",
+    "zin_nl": "Hij is bang voor hoogtes.",
+    "categorie": "Gevoelens en stemmingen"
+  },
+  {
+    "portugees": "Raiva",
+    "nederlands": "Woede",
+    "uitspraak": "HAI-vah",
+    "zin_p": "Ela ficou com raiva por causa do atraso.",
+    "zin_nl": "Ze werd boos vanwege de vertraging.",
+    "categorie": "Gevoelens en stemmingen"
+  },
+  {
+    "portugees": "Saudade",
+    "nederlands": "Heimwee",
+    "uitspraak": "sah-oo-DAH-djee",
+    "zin_p": "Tenho saudade da minha família.",
+    "zin_nl": "Ik heb heimwee naar mijn familie.",
+    "categorie": "Gevoelens en stemmingen"
+  },
+  {
+    "portugees": "Esperança",
+    "nederlands": "Hoop",
+    "uitspraak": "es-peh-RAHN-sah",
+    "zin_p": "Sempre tenha esperança.",
+    "zin_nl": "Heb altijd hoop.",
+    "categorie": "Gevoelens en stemmingen"
+  },
+  {
+    "portugees": "Felicidade",
+    "nederlands": "Geluk",
+    "uitspraak": "feh-lee-see-DAH-djee",
+    "zin_p": "A felicidade está nas pequenas coisas.",
+    "zin_nl": "Geluk zit in de kleine dingen.",
+    "categorie": "Gevoelens en stemmingen"
+  },
+  {
+    "portugees": "Hospital",
+    "nederlands": "Ziekenhuis",
+    "uitspraak": "ohs-pee-TAHL",
+    "zin_p": "Ele foi ao hospital para exames.",
+    "zin_nl": "Hij ging naar het ziekenhuis voor onderzoeken.",
+    "categorie": "Plaatsen"
+  },
+  {
+    "portugees": "Igreja",
+    "nederlands": "Kerk",
+    "uitspraak": "ee-GREH-zhah",
+    "zin_p": "A igreja é antiga e bonita.",
+    "zin_nl": "De kerk is oud en mooi.",
+    "categorie": "Plaatsen"
+  },
+  {
+    "portugees": "Supermercado",
+    "nederlands": "Supermarkt",
+    "uitspraak": "soo-pehr-mehr-KAH-do",
+    "zin_p": "O supermercado abre às 8h.",
+    "zin_nl": "De supermarkt opent om 8 uur.",
+    "categorie": "Plaatsen"
+  },
+  {
+    "portugees": "Aeroporto",
+    "nederlands": "Luchthaven",
+    "uitspraak": "ah-eh-roh-POR-toh",
+    "zin_p": "O aeroporto está lotado.",
+    "zin_nl": "De luchthaven is druk.",
+    "categorie": "Plaatsen"
+  },
+  {
+    "portugees": "Parque",
+    "nederlands": "Park",
+    "uitspraak": "PAR-kee",
+    "zin_p": "Vamos ao parque amanhã.",
+    "zin_nl": "Laten we morgen naar het park gaan.",
+    "categorie": "Plaatsen"
+  },
+  {
+    "portugees": "Praia",
+    "nederlands": "Strand",
+    "uitspraak": "PRAH-yah",
+    "zin_p": "A praia está cheia de turistas.",
+    "zin_nl": "Het strand is vol met toeristen.",
+    "categorie": "Plaatsen"
+  },
+  {
+    "portugees": "Ouvir",
+    "nederlands": "Horen",
+    "uitspraak": "oh-VEEHR",
+    "zin_p": "Eu gosto de ouvir música.",
+    "zin_nl": "Ik hou ervan om naar muziek te luisteren.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Falar",
+    "nederlands": "Praten",
+    "uitspraak": "fah-LAHR",
+    "zin_p": "Ele fala muito rápido.",
+    "zin_nl": "Hij praat erg snel.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Dormir",
+    "nederlands": "Slapen",
+    "uitspraak": "dor-",
+    "zin_p": "Eu preciso dormir cedo.",
+    "zin_nl": "Ik moet vroeg slapen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Aprender",
+    "nederlands": "Leren",
+    "uitspraak": "ah-pren-DEHR",
+    "zin_p": "Quero aprender português.",
+    "zin_nl": "Ik wil Portugees leren.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Trabalhar",
+    "nederlands": "Werken",
+    "uitspraak": "trah-bah-LYAR",
+    "zin_p": "Ele trabalha em um escritório.",
+    "zin_nl": "Hij werkt op een kantoor.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Viajar",
+    "nederlands": "Reizen",
+    "uitspraak": "vee-ah-ZHAR",
+    "zin_p": "Nós vamos viajar no verão.",
+    "zin_nl": "We gaan reizen in de zomer.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Audição",
+    "nederlands": "Gehoor",
+    "uitspraak": "ow-dee-ZOWN",
+    "zin_p": "Ele tem problemas de audição.",
+    "zin_nl": "Hij heeft gehoorproblemen.",
+    "categorie": "Zintuigen"
+  },
+  {
+    "portugees": "Olfato",
+    "nederlands": "Reuk",
+    "uitspraak": "ohl-FAH-toh",
+    "zin_p": "O olfato dela é muito bom.",
+    "zin_nl": "Haar reuk is erg goed.",
+    "categorie": "Zintuigen"
+  },
+  {
+    "portugees": "Tato",
+    "nederlands": "Tastzin",
+    "uitspraak": "TAH-toh",
+    "zin_p": "O tato ajuda a sentir texturas.",
+    "zin_nl": "De tastzin helpt om texturen te voelen.",
+    "categorie": "Zintuigen"
+  },
+  {
+    "portugees": "Paladar",
+    "nederlands": "Smaak",
+    "uitspraak": "pah-lah-DAR",
+    "zin_p": "O paladar dele é refinado.",
+    "zin_nl": "Zijn smaak is verfijnd.",
+    "categorie": "Zintuigen"
+  },
+  {
+    "portugees": "Gato",
+    "nederlands": "Kat",
+    "uitspraak": "GAH-toh",
+    "zin_p": "O gato está dormindo no sofá.",
+    "zin_nl": "De kat ligt te slapen op de bank.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Pássaro",
+    "nederlands": "Vogel",
+    "uitspraak": "PAH-sah-roo",
+    "zin_p": "O pássaro canta todas as manhãs.",
+    "zin_nl": "De vogel zingt elke ochtend.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Cavalo",
+    "nederlands": "Paard",
+    "uitspraak": "kah-VAH-loh",
+    "zin_p": "O cavalo corre rápido.",
+    "zin_nl": "Het paard rent snel.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Coelho",
+    "nederlands": "Konijn",
+    "uitspraak": "koh-EL-yoo",
+    "zin_p": "O coelho come cenoura.",
+    "zin_nl": "Het konijn eet wortels.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Pequeno",
+    "nederlands": "Klein",
+    "uitspraak": "peh-KEH-noh",
+    "zin_p": "O quarto é pequeno.",
+    "zin_nl": "De kamer is klein.",
+    "categorie": "Tegenstellingen"
+  },
+  {
+    "portugees": "Rápido",
+    "nederlands": "Snel",
+    "uitspraak": "RAH-pee-doo",
+    "zin_p": "O carro é muito rápido.",
+    "zin_nl": "De auto is erg snel.",
+    "categorie": "Tegenstellingen"
+  },
+  {
+    "portugees": "Lento",
+    "nederlands": "Langzaam",
+    "uitspraak": "LEHN-toh",
+    "zin_p": "O serviço é lento.",
+    "zin_nl": "De service is traag.",
+    "categorie": "Tegenstellingen"
+  },
+  {
+    "portugees": "Forte",
+    "nederlands": "Sterk",
+    "uitspraak": "FOR-chee",
+    "zin_p": "Ele é muito forte.",
+    "zin_nl": "Hij is erg sterk.",
+    "categorie": "Tegenstellingen"
+  },
+  {
+    "portugees": "Fraco",
+    "nederlands": "Zwak",
+    "uitspraak": "FRAH-koh",
+    "zin_p": "A ponte é fraca.",
+    "zin_nl": "De brug is zwak.",
+    "categorie": "Tegenstellingen"
+  },
+  {
+    "portugees": "Verão",
+    "nederlands": "Zomer",
+    "uitspraak": "veh-ROWN",
+    "zin_p": "O verão é quente no Brasil.",
+    "zin_nl": "De zomer is warm in Brazilië.",
+    "categorie": "Seizoenen"
+  },
+  {
+    "portugees": "Outono",
+    "nederlands": "Herfst",
+    "uitspraak": "ow-TOH-noh",
+    "zin_p": "O outono tem folhas caindo.",
+    "zin_nl": "In de herfst vallen de bladeren.",
+    "categorie": "Seizoenen"
+  },
+  {
+    "portugees": "Inverno",
+    "nederlands": "Winter",
+    "uitspraak": "een-VER-noh",
+    "zin_p": "O inverno é frio na Europa.",
+    "zin_nl": "De winter is koud in Europa.",
+    "categorie": "Seizoenen"
+  },
+  {
+    "portugees": "Sol",
+    "nederlands": "Zon",
+    "uitspraak": "SOHL",
+    "zin_p": "O sol está muito forte hoje.",
+    "zin_nl": "De zon is erg sterk vandaag.",
+    "categorie": "Weer en natuurlijke verschijnselen"
+  },
+  {
+    "portugees": "Relâmpago",
+    "nederlands": "Bliksem",
+    "uitspraak": "reh-LAHM-pah-goo",
+    "zin_p": "O relâmpago iluminou o céu.",
+    "zin_nl": "De bliksem verlichtte de hemel.",
+    "categorie": "Weer en natuurlijke verschijnselen"
+  },
+  {
+    "portugees": "Tempestade",
+    "nederlands": "Storm",
+    "uitspraak": "tem-peh-STAH-djee",
+    "zin_p": "A tempestade está chegando.",
+    "zin_nl": "De storm komt eraan.",
+    "categorie": "Weer en natuurlijke verschijnselen"
+  },
+  {
+    "portugees": "Vidro",
+    "nederlands": "Glas",
+    "uitspraak": "VEE-droh",
+    "zin_p": "O copo é de vidro.",
+    "zin_nl": "Het glas is van glas.",
+    "categorie": "Materialen"
+  },
+  {
+    "portugees": "Plástico",
+    "nederlands": "Plastic",
+    "uitspraak": "PLAS-tchee-koh",
+    "zin_p": "As garrafas são de plástico.",
+    "zin_nl": "De flessen zijn van plastic.",
+    "categorie": "Materialen"
+  },
+  {
+    "portugees": "Ferro",
+    "nederlands": "IJzer",
+    "uitspraak": "FEH-hoh",
+    "zin_p": "O portão é de ferro.",
+    "zin_nl": "De poort is van ijzer.",
+    "categorie": "Materialen"
+  },
+  {
+    "portugees": "Ouro",
+    "nederlands": "Goud",
+    "uitspraak": "OH-roo",
+    "zin_p": "O anel é de ouro.",
+    "zin_nl": "De ring is van goud.",
+    "categorie": "Materialen"
+  },
+  {
+    "portugees": "Enfermeira",
+    "nederlands": "Verpleegster",
+    "uitspraak": "en-fehr-MAY-rah",
+    "zin_p": "A enfermeira é muito atenciosa.",
+    "zin_nl": "De verpleegster is erg zorgzaam.",
+    "categorie": "Gezondheid"
+  },
+  {
+    "portugees": "Remédio",
+    "nederlands": "Medicijn",
+    "uitspraak": "reh-MEH-djee-oh",
+    "zin_p": "Preciso tomar um remédio.",
+    "zin_nl": "Ik moet een medicijn nemen.",
+    "categorie": "Gezondheid"
+  },
+  {
+    "portugees": "Dor",
+    "nederlands": "Pijn",
+    "uitspraak": "DOHR",
+    "zin_p": "Estou com dor de cabeça.",
+    "zin_nl": "Ik heb hoofdpijn.",
+    "categorie": "Gezondheid"
+  },
+  {
+    "portugees": "Saúde",
+    "nederlands": "Gezondheid",
+    "uitspraak": "sah-OO-djee",
+    "zin_p": "Saúde é o que importa.",
+    "zin_nl": "Gezondheid is wat telt.",
+    "categorie": "Gezondheid"
+  },
+  {
+    "portugees": "Tarde",
+    "nederlands": "Middag",
+    "uitspraak": "TAR-djee",
+    "zin_p": "Eu gosto de caminhar à tarde.",
+    "zin_nl": "Ik wandel graag 's middags.",
+    "categorie": "Tijdsaanduidingen"
+  },
+  {
+    "portugees": "Noite",
+    "nederlands": "Nacht",
+    "uitspraak": "NOY-tjee",
+    "zin_p": "Boa noite para todos!",
+    "zin_nl": "Goedenacht iedereen!",
+    "categorie": "Tijdsaanduidingen"
+  },
+  {
+    "portugees": "Geladeira",
+    "nederlands": "Koelkast",
+    "uitspraak": "zjeh-lah-DAY-rah",
+    "zin_p": "A geladeira está cheia de comida.",
+    "zin_nl": "De koelkast zit vol eten.",
+    "categorie": "Meubilair en huiselijke items"
+  },
+  {
+    "portugees": "Cama",
+    "nederlands": "Bed",
+    "uitspraak": "KAH-mah",
+    "zin_p": "A cama está muito macia.",
+    "zin_nl": "Het bed is erg zacht.",
+    "categorie": "Meubilair en huiselijke items"
+  },
+  {
+    "portugees": "Espelho",
+    "nederlands": "Spiegel",
+    "uitspraak": "es-PEH-lyoo",
+    "zin_p": "O espelho está no banheiro.",
+    "zin_nl": "De spiegel hangt in de badkamer.",
+    "categorie": "Meubilair en huiselijke items"
+  },
+  {
+    "portugees": "Estudante",
+    "nederlands": "Student",
+    "uitspraak": "es-too-DAN-tjee",
+    "zin_p": "A estudante é muito dedicada.",
+    "zin_nl": "De student is erg toegewijd.",
+    "categorie": "Mensen en beroepen"
+  },
+  {
+    "portugees": "Motorista",
+    "nederlands": "Chauffeur",
+    "uitspraak": "moh-toh-REE-stah",
+    "zin_p": "O motorista dirige bem.",
+    "zin_nl": "De chauffeur rijdt goed.",
+    "categorie": "Mensen en beroepen"
+  },
+  {
+    "portugees": "Vendedor",
+    "nederlands": "Verkoper",
+    "uitspraak": "ven-deh-DOR",
+    "zin_p": "O vendedor me ajudou muito.",
+    "zin_nl": "De verkoper heeft me erg geholpen.",
+    "categorie": "Mensen en beroepen"
+  },
+  {
+    "portugees": "Advogado",
+    "nederlands": "Advocaat",
+    "uitspraak": "ahd-voh-GAH-doh",
+    "zin_p": "O advogado explicou o caso.",
+    "zin_nl": "De advocaat legde de zaak uit.",
+    "categorie": "Mensen en beroepen"
+  },
+  {
+    "portugees": "Difícil",
+    "nederlands": "Moeilijk",
+    "uitspraak": "djee-FEE-seel",
+    "zin_p": "A prova foi muito difícil.",
+    "zin_nl": "Het examen was erg moeilijk.",
+    "categorie": "Diverse algemene woorden"
+  },
+  {
+    "portugees": "Cheio",
+    "nederlands": "Vol",
+    "uitspraak": "SHAY-oh",
+    "zin_p": "O ônibus está cheio.",
+    "zin_nl": "De bus zit vol.",
+    "categorie": "Diverse algemene woorden"
+  },
+  {
+    "portugees": "Vazio",
+    "nederlands": "Leeg",
+    "uitspraak": "vah-ZEE-oh",
+    "zin_p": "O restaurante está vazio.",
+    "zin_nl": "Het restaurant is leeg.",
+    "categorie": "Diverse algemene woorden"
+  },
+  {
+    "portugees": "Caro",
+    "nederlands": "Duur",
+    "uitspraak": "KAH-roh",
+    "zin_p": "Esse produto é muito caro.",
+    "zin_nl": "Dit product is erg duur.",
+    "categorie": "Diverse algemene woorden"
+  },
+  {
+    "portugees": "Barato",
+    "nederlands": "Goedkoop",
+    "uitspraak": "bah-RAH-toh",
+    "zin_p": "Eu comprei algo barato.",
+    "zin_nl": "Ik kocht iets goedkoop.",
+    "categorie": "Diverse algemene woorden"
+  },
+  {
+    "portugees": "Vender",
+    "nederlands": "Verkopen",
+    "uitspraak": "ven-DEHR",
+    "zin_p": "Ele quer vender o carro.",
+    "zin_nl": "Hij wil de auto verkopen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Cozinhar",
+    "nederlands": "Koken",
+    "uitspraak": "ko-zee-NYAR",
+    "zin_p": "Eu gosto de cozinhar para minha família.",
+    "zin_nl": "Ik hou ervan om voor mijn familie te koken.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Estudar",
+    "nederlands": "Studeren",
+    "uitspraak": "es-too-DAR",
+    "zin_p": "Eu preciso estudar para a prova.",
+    "zin_nl": "Ik moet studeren voor het examen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Ajudar",
+    "nederlands": "Helpen",
+    "uitspraak": "ah-zhoo-DAR",
+    "zin_p": "Posso ajudar você?",
+    "zin_nl": "Kan ik je helpen?",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Brincar",
+    "nederlands": "Spelen (kinderen)",
+    "uitspraak": "breen-KAR",
+    "zin_p": "As crianças gostam de brincar no parque.",
+    "zin_nl": "Kinderen houden ervan om in het park te spelen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Andar",
+    "nederlands": "Lopen",
+    "uitspraak": "ahn-DAR",
+    "zin_p": "Eu gosto de andar na praia.",
+    "zin_nl": "Ik hou ervan om op het strand te lopen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Nadar",
+    "nederlands": "Zwemmen",
+    "uitspraak": "nah-DAR",
+    "zin_p": "Nós vamos nadar no rio.",
+    "zin_nl": "We gaan in de rivier zwemmen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Chorar",
+    "nederlands": "Huilen",
+    "uitspraak": "shoh-RAR",
+    "zin_p": "O bebê começou a chorar.",
+    "zin_nl": "De baby begon te huilen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Sorrir",
+    "nederlands": "Glimlachen",
+    "uitspraak": "soh-RREER",
+    "zin_p": "Ela sempre sorri para mim.",
+    "zin_nl": "Ze glimlacht altijd naar mij.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Doze",
+    "nederlands": "Twaalf",
+    "uitspraak": "DOH-zjee",
+    "zin_p": "Eu li doze livros este ano.",
+    "zin_nl": "Ik heb dit jaar twaalf boeken gelezen.",
+    "categorie": "Getallen 11-100"
+  },
+  {
+    "portugees": "Vinte",
+    "nederlands": "Twintig",
+    "uitspraak": "VEEN-tchee",
+    "zin_p": "A festa tem vinte pessoas.",
+    "zin_nl": "Het feest heeft twintig mensen.",
+    "categorie": "Getallen 11-100"
+  },
+  {
+    "portugees": "Trinta",
+    "nederlands": "Dertig",
+    "uitspraak": "TREEN-tah",
+    "zin_p": "Eu trabalho trinta horas por semana.",
+    "zin_nl": "Ik werk dertig uur per week.",
+    "categorie": "Getallen 11-100"
+  },
+  {
+    "portugees": "Quarenta",
+    "nederlands": "Veertig",
+    "uitspraak": "kwa-REHN-tah",
+    "zin_p": "A viagem dura quarenta minutos.",
+    "zin_nl": "De reis duurt veertig minuten.",
+    "categorie": "Getallen 11-100"
+  },
+  {
+    "portugees": "Cinquenta",
+    "nederlands": "Vijftig",
+    "uitspraak": "seen-KWEN-tah",
+    "zin_p": "Ele ganhou cinquenta reais.",
+    "zin_nl": "Hij won vijftig reais.",
+    "categorie": "Getallen 11-100"
+  },
+  {
+    "portugees": "Sessenta",
+    "nederlands": "Zestig",
+    "uitspraak": "seh-SEHN-tah",
+    "zin_p": "Sessenta pessoas participaram do evento.",
+    "zin_nl": "Zestig mensen namen deel aan het evenement.",
+    "categorie": "Getallen 11-100"
+  },
+  {
+    "portugees": "Setenta",
+    "nederlands": "Zeventig",
+    "uitspraak": "seh-TEN-tah",
+    "zin_p": "O ingresso custa setenta reais.",
+    "zin_nl": "Het ticket kost zeventig reais.",
+    "categorie": "Getallen 11-100"
+  },
+  {
+    "portugees": "Oitenta",
+    "nederlands": "Tachtig",
+    "uitspraak": "oy-TEN-tah",
+    "zin_p": "Eles esperaram oitenta minutos.",
+    "zin_nl": "Ze wachtten tachtig minuten.",
+    "categorie": "Getallen 11-100"
+  },
+  {
+    "portugees": "Noventa",
+    "nederlands": "Negentig",
+    "uitspraak": "noh-VEHN-tah",
+    "zin_p": "O apartamento custa noventa mil.",
+    "zin_nl": "Het appartement kost negentig duizend.",
+    "categorie": "Getallen 11-100"
+  },
+  {
+    "portugees": "Camiseta",
+    "nederlands": "T-shirt",
+    "uitspraak": "kah-mee-ZEH-tah",
+    "zin_p": "Eu comprei uma camiseta nova.",
+    "zin_nl": "Ik kocht een nieuw T-shirt.",
+    "categorie": "Kledingstukken"
+  },
+  {
+    "portugees": "Saia",
+    "nederlands": "Rok",
+    "uitspraak": "SAH-yah",
+    "zin_p": "A saia dela é muito bonita.",
+    "zin_nl": "Haar rok is erg mooi.",
+    "categorie": "Kledingstukken"
+  },
+  {
+    "portugees": "Luvas",
+    "nederlands": "Handschoenen",
+    "uitspraak": "LOO-vahs",
+    "zin_p": "Use luvas no inverno.",
+    "zin_nl": "Draag handschoenen in de winter.",
+    "categorie": "Kledingstukken"
+  },
+  {
+    "portugees": "Cachecol",
+    "nederlands": "Sjaal",
+    "uitspraak": "kah-sheh-KOL",
+    "zin_p": "O cachecol é de lã.",
+    "zin_nl": "De sjaal is van wol.",
+    "categorie": "Kledingstukken"
+  },
+  {
+    "portugees": "Bermuda",
+    "nederlands": "Korte broek",
+    "uitspraak": "behr-MOO-dah",
+    "zin_p": "Ele usa bermuda no verão.",
+    "zin_nl": "Hij draagt een korte broek in de zomer.",
+    "categorie": "Kledingstukken"
+  },
+  {
+    "portugees": "Meias",
+    "nederlands": "Sokken",
+    "uitspraak": "MAY-ahs",
+    "zin_p": "Minhas meias estão sujas.",
+    "zin_nl": "Mijn sokken zijn vies.",
+    "categorie": "Kledingstukken"
+  },
+  {
+    "portugees": "Botas",
+    "nederlands": "Laarzen",
+    "uitspraak": "BOH-tahs",
+    "zin_p": "Eu comprei botas para caminhar na neve.",
+    "zin_nl": "Ik kocht laarzen om in de sneeuw te lopen.",
+    "categorie": "Kledingstukken"
+  },
+  {
+    "portugees": "Ilha",
+    "nederlands": "Eiland",
+    "uitspraak": "EE-lyah",
+    "zin_p": "Nós visitamos uma ilha tropical.",
+    "zin_nl": "We bezochten een tropisch eiland.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Areia",
+    "nederlands": "Zand",
+    "uitspraak": "ah-RAY-ah",
+    "zin_p": "A areia da praia é branca.",
+    "zin_nl": "Het zand van het strand is wit.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Cachoeira",
+    "nederlands": "Waterval",
+    "uitspraak": "kah-shoo-AY-rah",
+    "zin_p": "A cachoeira é muito alta.",
+    "zin_nl": "De waterval is erg hoog.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Floresta",
+    "nederlands": "Bos",
+    "uitspraak": "floh-RES-tah",
+    "zin_p": "A floresta é cheia de animais.",
+    "zin_nl": "Het bos zit vol dieren.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Deserto",
+    "nederlands": "Woestijn",
+    "uitspraak": "deh-ZER-toh",
+    "zin_p": "O deserto é quente durante o dia.",
+    "zin_nl": "De woestijn is heet overdag.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Micro-ondas",
+    "nederlands": "Magnetron",
+    "uitspraak": "mee-kroh-ON-dahs",
+    "zin_p": "O micro-ondas é útil para esquentar comida.",
+    "zin_nl": "De magnetron is handig om eten op te warmen.",
+    "categorie": "Huishoudelijke apparaten"
+  },
+  {
+    "portugees": "Máquina de lavar",
+    "nederlands": "Wasmachine",
+    "uitspraak": "MAH-kee-nah djee lah-VAHR",
+    "zin_p": "A máquina de lavar está quebrada.",
+    "zin_nl": "De wasmachine is kapot.",
+    "categorie": "Huishoudelijke apparaten"
+  },
+  {
+    "portugees": "Ventilador",
+    "nederlands": "Ventilator",
+    "uitspraak": "ven-tee-lah-DOR",
+    "zin_p": "O ventilador está funcionando bem.",
+    "zin_nl": "De ventilator werkt goed.",
+    "categorie": "Huishoudelijke apparaten"
+  },
+  {
+    "portugees": "Aspirador",
+    "nederlands": "Stofzuiger",
+    "uitspraak": "ahs-pee-rah-DOR",
+    "zin_p": "Preciso de um aspirador novo.",
+    "zin_nl": "Ik heb een nieuwe stofzuiger nodig.",
+    "categorie": "Huishoudelijke apparaten"
+  },
+  {
+    "portugees": "Moto",
+    "nederlands": "Motorfiets",
+    "uitspraak": "MOH-toh",
+    "zin_p": "A moto é rápida e econômica.",
+    "zin_nl": "De motorfiets is snel en zuinig.",
+    "categorie": "Transport"
+  },
+  {
+    "portugees": "Caminhão",
+    "nederlands": "Vrachtwagen",
+    "uitspraak": "kah-meen-YOWN",
+    "zin_p": "O caminhão transporta frutas.",
+    "zin_nl": "De vrachtwagen vervoert fruit.",
+    "categorie": "Transport"
+  },
+  {
+    "portugees": "Sobrinha",
+    "nederlands": "Nicht",
+    "uitspraak": "soh-BREE-nyah",
+    "zin_p": "Minha sobrinha é muito estudiosa.",
+    "zin_nl": "Mijn nicht is erg studerend.",
+    "categorie": "Familie en relaties"
+  },
+  {
+    "portugees": "Tio",
+    "nederlands": "Oom",
+    "uitspraak": "CHEE-oh",
+    "zin_p": "Meu tio mora em Lisboa.",
+    "zin_nl": "Mijn oom woont in Lissabon.",
+    "categorie": "Familie en relaties"
+  },
+  {
+    "portugees": "Tia",
+    "nederlands": "Tante",
+    "uitspraak": "CHEE-ah",
+    "zin_p": "Minha tia faz bolos deliciosos.",
+    "zin_nl": "Mijn tante maakt heerlijke taarten.",
+    "categorie": "Familie en relaties"
+  },
+  {
+    "portugees": "Primo",
+    "nederlands": "Neef (zelfde generatie)",
+    "uitspraak": "PREE-moh",
+    "zin_p": "Meu primo vai viajar.",
+    "zin_nl": "Mijn neef gaat op reis.",
+    "categorie": "Familie en relaties"
+  },
+  {
+    "portugees": "Prima",
+    "nederlands": "Nicht (zelfde generatie)",
+    "uitspraak": "PREE-mah",
+    "zin_p": "Minha prima está no Brasil.",
+    "zin_nl": "Mijn nicht is in Brazilië.",
+    "categorie": "Familie en relaties"
+  },
+  {
+    "portugees": "Escrever",
+    "nederlands": "Schrijven",
+    "uitspraak": "es-kreh-VEHR",
+    "zin_p": "Ela gosta de escrever cartas.",
+    "zin_nl": "Ze houdt van brieven schrijven.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Abrir",
+    "nederlands": "Openen",
+    "uitspraak": "ah-BREER",
+    "zin_p": "Você pode abrir a porta?",
+    "zin_nl": "Kun je de deur openen?",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Fechar",
+    "nederlands": "Sluiten",
+    "uitspraak": "feh-SHAR",
+    "zin_p": "Eu vou fechar a janela.",
+    "zin_nl": "Ik ga het raam sluiten.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Pensar",
+    "nederlands": "Denken",
+    "uitspraak": "pen-SAR",
+    "zin_p": "Preciso pensar na solução.",
+    "zin_nl": "Ik moet nadenken over de oplossing.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Amar",
+    "nederlands": "Houden van",
+    "uitspraak": "ah-MAR",
+    "zin_p": "Eu amo minha família.",
+    "zin_nl": "Ik hou van mijn familie.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Gostar",
+    "nederlands": "Leuk vinden",
+    "uitspraak": "goh-STAR",
+    "zin_p": "Eu gosto de música brasileira.",
+    "zin_nl": "Ik hou van Braziliaanse muziek.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Sentir",
+    "nederlands": "Voelen",
+    "uitspraak": "sen-TEER",
+    "zin_p": "Eu sinto muita saudade de casa.",
+    "zin_nl": "Ik mis mijn huis erg.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Descansar",
+    "nederlands": "Uitrusten",
+    "uitspraak": "djes-kan-SAR",
+    "zin_p": "Depois do trabalho, eu descanso.",
+    "zin_nl": "Na het werk rust ik uit.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Lua",
+    "nederlands": "Maan",
+    "uitspraak": "LOO-ah",
+    "zin_p": "A lua está cheia hoje.",
+    "zin_nl": "De maan is vol vandaag.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Nuvem",
+    "nederlands": "Wolk",
+    "uitspraak": "NOO-ven",
+    "zin_p": "Há muitas nuvens no céu.",
+    "zin_nl": "Er zijn veel wolken in de lucht.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Terra",
+    "nederlands": "Aarde",
+    "uitspraak": "TEH-hah",
+    "zin_p": "A terra é fértil nesta região.",
+    "zin_nl": "De aarde is vruchtbaar in deze regio.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Fogo",
+    "nederlands": "Vuur",
+    "uitspraak": "FOH-goo",
+    "zin_p": "O fogo está queimando na lareira.",
+    "zin_nl": "Het vuur brandt in de open haard.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Pedra",
+    "nederlands": "Steen",
+    "uitspraak": "PEH-drah",
+    "zin_p": "A pedra é pesada.",
+    "zin_nl": "De steen is zwaar.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Planeta",
+    "nederlands": "Planeet",
+    "uitspraak": "plah-NEH-tah",
+    "zin_p": "A Terra é um planeta azul.",
+    "zin_nl": "De aarde is een blauwe planeet.",
+    "categorie": "natuurwoorden"
+  },
+  {
+    "portugees": "Quinta-feira",
+    "nederlands": "Donderdag",
+    "uitspraak": "KEEN-tah FAY-rah",
+    "zin_p": "Quinta-feira temos aula de português.",
+    "zin_nl": "Op donderdag hebben we Portugeesles.",
+    "categorie": "Tijdsaanduidingen"
+  },
+  {
+    "portugees": "Sexta-feira",
+    "nederlands": "Vrijdag",
+    "uitspraak": "SEHS-tah FAY-rah",
+    "zin_p": "Sexta-feira é meu dia favorito.",
+    "zin_nl": "Vrijdag is mijn favoriete dag.",
+    "categorie": "Tijdsaanduidingen"
+  },
+  {
+    "portugees": "Sábado",
+    "nederlands": "Zaterdag",
+    "uitspraak": "SAH-bah-doh",
+    "zin_p": "No sábado, vou ao parque.",
+    "zin_nl": "Op zaterdag ga ik naar het park.",
+    "categorie": "Tijdsaanduidingen"
+  },
+  {
+    "portugees": "Domingo",
+    "nederlands": "Zondag",
+    "uitspraak": "doh-MEEN-goo",
+    "zin_p": "Domingo é dia de descanso.",
+    "zin_nl": "Zondag is een rustdag.",
+    "categorie": "Tijdsaanduidingen"
+  },
+  {
+    "portugees": "Feriado",
+    "nederlands": "Feestdag",
+    "uitspraak": "feh-ree-AH-doh",
+    "zin_p": "Amanhã é feriado nacional.",
+    "zin_nl": "Morgen is het een nationale feestdag.",
+    "categorie": "Tijdsaanduidingen"
+  },
+  {
+    "portugees": "Baixo",
+    "nederlands": "Laag",
+    "uitspraak": "BYE-shoo",
+    "zin_p": "O muro é baixo.",
+    "zin_nl": "De muur is laag.",
+    "categorie": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "portugees": "Claro",
+    "nederlands": "Licht",
+    "uitspraak": "KLAH-roh",
+    "zin_p": "A sala está clara com a luz do sol.",
+    "zin_nl": "De kamer is licht door de zon.",
+    "categorie": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "portugees": "Escuro",
+    "nederlands": "Donker",
+    "uitspraak": "es-KOO-roo",
+    "zin_p": "O quarto está escuro à noite.",
+    "zin_nl": "De kamer is donker 's nachts.",
+    "categorie": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "portugees": "Quente",
+    "nederlands": "Warm",
+    "uitspraak": "KEN-tjee",
+    "zin_p": "A comida está quente.",
+    "zin_nl": "Het eten is warm.",
+    "categorie": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "portugees": "Fácil",
+    "nederlands": "Makkelijk",
+    "uitspraak": "FAH-seel",
+    "zin_p": "Este exercício é muito fácil.",
+    "zin_nl": "Deze oefening is erg makkelijk.",
+    "categorie": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "portugees": "Novo",
+    "nederlands": "Nieuw",
+    "uitspraak": "NOH-voh",
+    "zin_p": "O carro é novo.",
+    "zin_nl": "De auto is nieuw.",
+    "categorie": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "portugees": "Velho",
+    "nederlands": "Oud",
+    "uitspraak": "VEH-lyoo",
+    "zin_p": "A casa é muito velha.",
+    "zin_nl": "Het huis is erg oud.",
+    "categorie": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "portugees": "Rosa",
+    "nederlands": "Roze",
+    "uitspraak": "HOH-zah",
+    "zin_p": "As flores são rosas.",
+    "zin_nl": "De bloemen zijn roze.",
+    "categorie": "Kleuren"
+  },
+  {
+    "portugees": "Laranja",
+    "nederlands": "Oranje",
+    "uitspraak": "lah-RAHN-zjah",
+    "zin_p": "A fruta é laranja.",
+    "zin_nl": "Het fruit is oranje.",
+    "categorie": "Kleuren"
+  },
+  {
+    "portugees": "Cinza",
+    "nederlands": "Grijs",
+    "uitspraak": "SEEN-zah",
+    "zin_p": "O céu está cinza.",
+    "zin_nl": "De lucht is grijs.",
+    "categorie": "Kleuren"
+  },
+  {
+    "portugees": "Roxo",
+    "nederlands": "Paars",
+    "uitspraak": "HOH-shoo",
+    "zin_p": "A uva é roxa.",
+    "zin_nl": "De druif is paars.",
+    "categorie": "Kleuren"
+  },
+  {
+    "portugees": "Tomate",
+    "nederlands": "Tomaat",
+    "uitspraak": "toh-MAH-tchee",
+    "zin_p": "O tomate está fresco.",
+    "zin_nl": "De tomaat is vers.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Cenoura",
+    "nederlands": "Wortel",
+    "uitspraak": "seh-NOH-rah",
+    "zin_p": "Eu gosto de cenoura crua.",
+    "zin_nl": "Ik hou van rauwe wortel.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Feijão",
+    "nederlands": "Bonen",
+    "uitspraak": "feh-ZJOWN",
+    "zin_p": "O feijão é parte da feijoada.",
+    "zin_nl": "Bonen maken deel uit van feijoada.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Sorvete",
+    "nederlands": "IJs",
+    "uitspraak": "sor-VEH-tchee",
+    "zin_p": "Eu quero sorvete de chocolate.",
+    "zin_nl": "Ik wil chocolade-ijs.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Sanduíche",
+    "nederlands": "Sandwich",
+    "uitspraak": "sahn-DOO-eeshee",
+    "zin_p": "Ele comeu um sanduíche no almoço.",
+    "zin_nl": "Hij at een sandwich tijdens de lunch.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Água",
+    "nederlands": "Water",
+    "uitspraak": "AH-gwah",
+    "zin_p": "Eu bebo água o dia todo.",
+    "zin_nl": "Ik drink de hele dag water.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Suco",
+    "nederlands": "Sap",
+    "uitspraak": "SOO-koh",
+    "zin_p": "Suco de laranja é delicioso.",
+    "zin_nl": "Sinaasappelsap is heerlijk.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Refrigerante",
+    "nederlands": "Frisdrank",
+    "uitspraak": "reh-free-zheh-RAN-tchee",
+    "zin_p": "Eu não gosto de refrigerante.",
+    "zin_nl": "Ik hou niet van frisdrank.",
+    "categorie": "Eten en drinken"
+  },
+  {
+    "portugees": "Esperar",
+    "nederlands": "Wachten",
+    "uitspraak": "es-peh-RAR",
+    "zin_p": "Eu vou esperar aqui.",
+    "zin_nl": "Ik zal hier wachten.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Ensinar",
+    "nederlands": "Lesgeven",
+    "uitspraak": "en-see-NAR",
+    "zin_p": "Ele gosta de ensinar crianças.",
+    "zin_nl": "Hij houdt van lesgeven aan kinderen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Entrar",
+    "nederlands": "Binnenkomen",
+    "uitspraak": "en-TRAR",
+    "zin_p": "Você pode entrar na sala.",
+    "zin_nl": "Je kunt de kamer binnenkomen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Sair",
+    "nederlands": "Uitgaan",
+    "uitspraak": "sah-EER",
+    "zin_p": "Preciso sair agora.",
+    "zin_nl": "Ik moet nu weggaan.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Subir",
+    "nederlands": "Naar boven gaan",
+    "uitspraak": "soo-BEER",
+    "zin_p": "Vamos subir as escadas.",
+    "zin_nl": "Laten we de trap opgaan.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Descer",
+    "nederlands": "Naar beneden gaan",
+    "uitspraak": "des-SEHR",
+    "zin_p": "Você pode descer aqui.",
+    "zin_nl": "Je kunt hier uitstappen.",
+    "categorie": "werkwoorden"
+  },
+  {
+    "portugees": "Policial",
+    "nederlands": "Agent",
+    "uitspraak": "poh-lee-SEE-ahl",
+    "zin_p": "O policial trabalha na rua.",
+    "zin_nl": "De agent werkt op straat.",
+    "categorie": "Beroepen"
+  },
+  {
+    "portugees": "Bombeiro",
+    "nederlands": "Brandweerman",
+    "uitspraak": "bom-BAY-roh",
+    "zin_p": "O bombeiro apagou o fogo.",
+    "zin_nl": "De brandweerman bluste het vuur.",
+    "categorie": "Beroepen"
+  },
+  {
+    "portugees": "Engenheiro",
+    "nederlands": "Ingenieur",
+    "uitspraak": "en-zjeh-NYAY-ro",
+    "zin_p": "Meu irmão é engenheiro civil.",
+    "zin_nl": "Mijn broer is civiel ingenieur.",
+    "categorie": "Beroepen"
+  },
+  {
+    "portugees": "Cozinheiro",
+    "nederlands": "Kok",
+    "uitspraak": "koh-zee-NYAY-ro",
+    "zin_p": "O cozinheiro faz pratos deliciosos.",
+    "zin_nl": "De kok maakt heerlijke gerechten.",
+    "categorie": "Beroepen"
+  },
+  {
+    "portugees": "Ator",
+    "nederlands": "Acteur",
+    "uitspraak": "ah-TOR",
+    "zin_p": "O ator é famoso.",
+    "zin_nl": "De acteur is beroemd.",
+    "categorie": "Beroepen"
+  },
+  {
+    "portugees": "Atriz",
+    "nederlands": "Actrice",
+    "uitspraak": "ah-TREES",
+    "zin_p": "A atriz ganhou um prêmio.",
+    "zin_nl": "De actrice won een prijs.",
+    "categorie": "Beroepen"
+  },
+  {
+    "portugees": "Dentista",
+    "nederlands": "Tandarts",
+    "uitspraak": "den-TCHEES-tah",
+    "zin_p": "O dentista cuida dos dentes.",
+    "zin_nl": "De tandarts zorgt voor de tanden.",
+    "categorie": "Beroepen"
+  },
+  {
+    "portugees": "Cantor",
+    "nederlands": "Zanger",
+    "uitspraak": "kan-TOR",
+    "zin_p": "O cantor tem uma bela voz.",
+    "zin_nl": "De zanger heeft een mooie stem.",
+    "categorie": "Beroepen"
+  },
+  {
+    "portugees": "Chave",
+    "nederlands": "Sleutel",
+    "uitspraak": "SHAH-veh",
+    "zin_p": "Onde está minha chave?",
+    "zin_nl": "Waar is mijn sleutel?",
+    "categorie": "Voorwerpen (huishouden)"
+  },
+  {
+    "portugees": "Fogão",
+    "nederlands": "Fornuis",
+    "uitspraak": "fo-GOWN",
+    "zin_p": "O fogão é moderno.",
+    "zin_nl": "Het fornuis is modern.",
+    "categorie": "Voorwerpen (huishouden)"
+  },
+  {
+    "portugees": "Lâmpada",
+    "nederlands": "Lamp",
+    "uitspraak": "LAHM-pah-dah",
+    "zin_p": "A lâmpada está quebrada.",
+    "zin_nl": "De lamp is kapot.",
+    "categorie": "Voorwerpen (huishouden)"
+  },
+  {
+    "portugees": "Armário",
+    "nederlands": "Kast",
+    "uitspraak": "ar-MAH-ree-oh",
+    "zin_p": "O armário está cheio de roupas.",
+    "zin_nl": "De kast zit vol met kleding.",
+    "categorie": "Voorwerpen (huishouden)"
+  },
+  {
+    "portugees": "Tigre",
+    "nederlands": "Tijger",
+    "uitspraak": "TEE-gree",
+    "zin_p": "O tigre é muito rápido.",
+    "zin_nl": "De tijger is erg snel.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Elefante",
+    "nederlands": "Olifant",
+    "uitspraak": "eh-leh-FAN-tchee",
+    "zin_p": "O elefante é um animal grande.",
+    "zin_nl": "De olifant is een groot dier.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Ovelha",
+    "nederlands": "Schaap",
+    "uitspraak": "oh-VEH-lyah",
+    "zin_p": "A ovelha dá lã.",
+    "zin_nl": "Het schaap geeft wol.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Jacaré",
+    "nederlands": "Krokodil",
+    "uitspraak": "zjah-kah-REH",
+    "zin_p": "O jacaré vive no rio.",
+    "zin_nl": "De krokodil leeft in de rivier.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Macaco",
+    "nederlands": "Aap",
+    "uitspraak": "mah-KAH-koh",
+    "zin_p": "O macaco gosta de bananas.",
+    "zin_nl": "De aap houdt van bananen.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Galinha",
+    "nederlands": "Kip",
+    "uitspraak": "gah-LEEN-yah",
+    "zin_p": "A galinha botou um ovo.",
+    "zin_nl": "De kip legde een ei.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Lobo",
+    "nederlands": "Wolf",
+    "uitspraak": "LOH-boh",
+    "zin_p": "O lobo vive na floresta.",
+    "zin_nl": "De wolf leeft in het bos.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Rato",
+    "nederlands": "Muis",
+    "uitspraak": "RAH-toh",
+    "zin_p": "O rato está na cozinha.",
+    "zin_nl": "De muis is in de keuken.",
+    "categorie": "Dieren"
+  },
+  {
+    "portugees": "Magro",
+    "nederlands": "Dun",
+    "uitspraak": "MAH-groh",
+    "zin_p": "O modelo é muito magro.",
+    "zin_nl": "Het model is erg dun.",
+    "categorie": "Lichamelijke beschrijvingen"
+  },
+  {
+    "portugees": "Gordo",
+    "nederlands": "Dik",
+    "uitspraak": "GOHR-doh",
+    "zin_p": "O gato está gordo.",
+    "zin_nl": "De kat is dik.",
+    "categorie": "Lichamelijke beschrijvingen"
+  },
+  {
+    "portugees": "Bonito",
+    "nederlands": "Mooi",
+    "uitspraak": "boh-NEE-toh",
+    "zin_p": "A cidade é muito bonita.",
+    "zin_nl": "De stad is erg mooi.",
+    "categorie": "Lichamelijke beschrijvingen"
+  },
+  {
+    "portugees": "Feio",
+    "nederlands": "Lelijk",
+    "uitspraak": "FAY-oh",
+    "zin_p": "O prédio é feio.",
+    "zin_nl": "Het gebouw is lelijk.",
+    "categorie": "Lichamelijke beschrijvingen"
+  },
+  {
+    "portugees": "Jovem",
+    "nederlands": "Jong",
+    "uitspraak": "ZHOH-ven",
+    "zin_p": "Ela é muito jovem para dirigir.",
+    "zin_nl": "Ze is te jong om te rijden.",
+    "categorie": "Lichamelijke beschrijvingen"
+  },
+  {
+    "portugees": "Salada",
+    "nederlands": "Salade",
+    "uitspraak": "sah-LAH-dah",
+    "zin_p": "Salada é saudável.",
+    "zin_nl": "Salade is gezond.",
+    "categorie": "Voedsel en drinken"
+  },
+  {
+    "portugees": "Macarrão",
+    "nederlands": "Pasta",
+    "uitspraak": "mah-kah-ROWN",
+    "zin_p": "O macarrão está delicioso.",
+    "zin_nl": "De pasta is heerlijk.",
+    "categorie": "Voedsel en drinken"
+  },
+  {
+    "portugees": "Pizza",
+    "nederlands": "Pizza",
+    "uitspraak": "PEET-sah",
+    "zin_p": "Vamos pedir uma pizza.",
+    "zin_nl": "Laten we een pizza bestellen.",
+    "categorie": "Voedsel en drinken"
+  },
+  {
+    "portugees": "Tristeza",
+    "nederlands": "Verdriet",
+    "uitspraak": "tree-STAY-zah",
+    "zin_p": "A tristeza foi causada pela notícia.",
+    "zin_nl": "Het verdriet werd veroorzaakt door het nieuws.",
+    "categorie": "Emoties en gevoelens"
+  },
+  {
+    "portugees": "Ansiedade",
+    "nederlands": "Angst",
+    "uitspraak": "ahn-see-eh-DAH-djee",
+    "zin_p": "A ansiedade está aumentando.",
+    "zin_nl": "De angst neemt toe.",
+    "categorie": "Emoties en gevoelens"
+  },
+  {
+    "portugees": "Orgulho",
+    "nederlands": "Trots",
+    "uitspraak": "or-GOOL-yoo",
+    "zin_p": "Tenho orgulho do meu trabalho.",
+    "zin_nl": "Ik ben trots op mijn werk.",
+    "categorie": "Emoties en gevoelens"
+  },
+  {
+    "portugees": "Confiança",
+    "nederlands": "Vertrouwen",
+    "uitspraak": "kon-FEE-ahn-sah",
+    "zin_p": "A confiança é importante nas relações.",
+    "zin_nl": "Vertrouwen is belangrijk in relaties.",
+    "categorie": "Emoties en gevoelens"
+  },
+  {
+    "portugees": "Amor",
+    "nederlands": "Liefde",
+    "uitspraak": "ah-MOR",
+    "zin_p": "O amor é essencial na vida.",
+    "zin_nl": "Liefde is essentieel in het leven.",
+    "categorie": "Emoties en gevoelens"
+  },
+  {
+    "portugees": "Paz",
+    "nederlands": "Vrede",
+    "uitspraak": "PAHZ",
+    "zin_p": "Quero viver em paz.",
+    "zin_nl": "Ik wil in vrede leven.",
+    "categorie": "Emoties en gevoelens"
+  },
+  {
+    "portugees": "Táxi",
+    "nederlands": "Taxi",
+    "uitspraak": "TAH-ksee",
+    "zin_p": "Peguei um táxi para o hotel.",
+    "zin_nl": "Ik nam een taxi naar het hotel.",
+    "categorie": "Transport en reizen"
+  },
+  {
+    "portugees": "Rodoviária",
+    "nederlands": "Busstation",
+    "uitspraak": "roh-doh-VEE-ah-ree-ah",
+    "zin_p": "A rodoviária fica no centro da cidade.",
+    "zin_nl": "Het busstation ligt in het centrum van de stad.",
+    "categorie": "Transport en reizen"
+  },
+  {
+    "portugees": "Passagem",
+    "nederlands": "Ticket",
+    "uitspraak": "pah-SAH-zhem",
+    "zin_p": "Comprei a passagem para Lisboa.",
+    "zin_nl": "Ik kocht een ticket naar Lissabon.",
+    "categorie": "Transport en reizen"
+  },
+  {
+    "portugees": "Museu",
+    "nederlands": "Museum",
+    "uitspraak": "moo-ZAY-oo",
+    "zin_p": "O museu tem uma exposição interessante.",
+    "zin_nl": "Het museum heeft een interessante tentoonstelling.",
+    "categorie": "Plaatsen in de stad"
+  },
+  {
+    "portugees": "Escola",
+    "nederlands": "School",
+    "uitspraak": "es-KOH-lah",
+    "zin_p": "A escola é perto de casa.",
+    "zin_nl": "De school is dichtbij huis.",
+    "categorie": "Plaatsen in de stad"
+  },
+  {
+    "portugees": "Cinema",
+    "nederlands": "Bioscoop",
+    "uitspraak": "see-NEH-mah",
+    "zin_p": "Quero assistir um filme no cinema.",
+    "zin_nl": "Ik wil een film kijken in de bioscoop.",
+    "categorie": "Plaatsen in de stad"
+  },
+  {
+    "portugees": "Esposa",
+    "nederlands": "Echtgenote",
+    "uitspraak": "es-POH-zah",
+    "zin_p": "Minha esposa gosta de viajar.",
+    "zin_nl": "Mijn vrouw houdt van reizen.",
+    "categorie": "Relaties en familie"
+  },
+  {
+    "portugees": "Amigo",
+    "nederlands": "Vriend",
+    "uitspraak": "ah-MEE-goo",
+    "zin_p": "Meu amigo me ajudou muito.",
+    "zin_nl": "Mijn vriend heeft me erg geholpen.",
+    "categorie": "Relaties en familie"
+  },
+  {
+    "portugees": "Amiga",
+    "nederlands": "Vriendin",
+    "uitspraak": "ah-MEE-gah",
+    "zin_p": "Ela é minha melhor amiga.",
+    "zin_nl": "Zij is mijn beste vriendin.",
+    "categorie": "Relaties en familie"
+  },
+  {
+    "portugees": "Namorado",
+    "nederlands": "Vriend (relatie)",
+    "uitspraak": "nah-moh-RAH-doh",
+    "zin_p": "Meu namorado é muito carinhoso.",
+    "zin_nl": "Mijn vriend is erg liefdevol.",
+    "categorie": "Relaties en familie"
+  },
+  {
+    "portugees": "Namorada",
+    "nederlands": "Vriendin (relatie)",
+    "uitspraak": "nah-moh-RAH-dah",
+    "zin_p": "Minha namorada estuda em outra cidade.",
+    "zin_nl": "Mijn vriendin studeert in een andere stad.",
+    "categorie": "Relaties en familie"
+  },
+  {
+    "portugees": "Mãe",
+    "nederlands": "Moeder",
+    "uitspraak": "MAH-ee",
+    "zin_p": "Minha mãe gosta de cozinhar.",
+    "zin_nl": "Mijn moeder houdt van koken.",
+    "categorie": "Relaties en familie"
+  },
+  {
+    "portugees": "Para",
+    "nederlands": "Voor/naar",
+    "uitspraak": "PAH-rah",
+    "zin_p": "Este presente é para você.",
+    "zin_nl": "Dit cadeau is voor jou.",
+    "categorie": "Voorzetsels"
+  },
+  {
+    "portugees": "Com",
+    "nederlands": "Met",
+    "uitspraak": "KOM",
+    "zin_p": "Eu vou com você.",
+    "zin_nl": "Ik ga met jou mee.",
+    "categorie": "Voorzetsels"
+  },
+  {
+    "portugees": "Sem",
+    "nederlands": "Zonder",
+    "uitspraak": "SEHN",
+    "zin_p": "Não gosto de café sem açúcar.",
+    "zin_nl": "Ik hou niet van koffie zonder suiker.",
+    "categorie": "Voorzetsels"
+  },
+  {
+    "portugees": "Entre",
+    "nederlands": "Tussen",
+    "uitspraak": "EN-treh",
+    "zin_p": "A casa fica entre a escola e o mercado.",
+    "zin_nl": "Het huis ligt tussen de school en de markt.",
+    "categorie": "Voorzetsels"
+  }
+]
