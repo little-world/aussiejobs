@@ -1,0 +1,6994 @@
+[
+  {
+    "language1": "1",
+    "language2": "como",
+    "phonetics": "",
+    "example": "as",
+    "translation": "als",
+    "category": "1-25"
+  },
+  {
+    "language1": "2",
+    "language2": "I",
+    "phonetics": "",
+    "example": "I",
+    "translation": "ik",
+    "category": "1-25"
+  },
+  {
+    "language1": "3",
+    "language2": "seu",
+    "phonetics": "",
+    "example": "his",
+    "translation": "zijn",
+    "category": "1-25"
+  },
+  {
+    "language1": "4",
+    "language2": "que",
+    "phonetics": "",
+    "example": "that",
+    "translation": "dat",
+    "category": "1-25"
+  },
+  {
+    "language1": "5",
+    "language2": "ele",
+    "phonetics": "",
+    "example": "he",
+    "translation": "hij",
+    "category": "1-25"
+  },
+  {
+    "language1": "6",
+    "language2": "foi",
+    "phonetics": "",
+    "example": "was",
+    "translation": "was",
+    "category": "1-25"
+  },
+  {
+    "language1": "7",
+    "language2": "para",
+    "phonetics": "",
+    "example": "for",
+    "translation": "voor",
+    "category": "1-25"
+  },
+  {
+    "language1": "8",
+    "language2": "em",
+    "phonetics": "",
+    "example": "on",
+    "translation": "op",
+    "category": "1-25"
+  },
+  {
+    "language1": "9",
+    "language2": "são",
+    "phonetics": "",
+    "example": "are",
+    "translation": "zijn",
+    "category": "1-25"
+  },
+  {
+    "language1": "10",
+    "language2": "com",
+    "phonetics": "",
+    "example": "with",
+    "translation": "met",
+    "category": "1-25"
+  },
+  {
+    "language1": "11",
+    "language2": "eles",
+    "phonetics": "",
+    "example": "they",
+    "translation": "zij",
+    "category": "1-25"
+  },
+  {
+    "language1": "12",
+    "language2": "ser",
+    "phonetics": "",
+    "example": "be",
+    "translation": "zijn",
+    "category": "1-25"
+  },
+  {
+    "language1": "13",
+    "language2": "em",
+    "phonetics": "",
+    "example": "at",
+    "translation": "bij",
+    "category": "1-25"
+  },
+  {
+    "language1": "14",
+    "language2": "uma",
+    "phonetics": "",
+    "example": "one",
+    "translation": "een",
+    "category": "1-25"
+  },
+  {
+    "language1": "15",
+    "language2": "tem",
+    "phonetics": "",
+    "example": "have",
+    "translation": "hebben",
+    "category": "1-25"
+  },
+  {
+    "language1": "16",
+    "language2": "este",
+    "phonetics": "",
+    "example": "this",
+    "translation": "deze",
+    "category": "1-25"
+  },
+  {
+    "language1": "17",
+    "language2": "a partir de",
+    "phonetics": "",
+    "example": "from",
+    "translation": "van",
+    "category": "1-25"
+  },
+  {
+    "language1": "18",
+    "language2": "por",
+    "phonetics": "",
+    "example": "by",
+    "translation": "door",
+    "category": "1-25"
+  },
+  {
+    "language1": "19",
+    "language2": "quente",
+    "phonetics": "",
+    "example": "hot",
+    "translation": "heet",
+    "category": "1-25"
+  },
+  {
+    "language1": "20",
+    "language2": "palavra",
+    "phonetics": "",
+    "example": "word",
+    "translation": "woord",
+    "category": "1-25"
+  },
+  {
+    "language1": "21",
+    "language2": "mas",
+    "phonetics": "",
+    "example": "but",
+    "translation": "maar",
+    "category": "1-25"
+  },
+  {
+    "language1": "22",
+    "language2": "o que",
+    "phonetics": "",
+    "example": "what",
+    "translation": "wat",
+    "category": "1-25"
+  },
+  {
+    "language1": "23",
+    "language2": "alguns",
+    "phonetics": "",
+    "example": "some",
+    "translation": "sommige",
+    "category": "1-25"
+  },
+  {
+    "language1": "24",
+    "language2": "é",
+    "phonetics": "",
+    "example": "is",
+    "translation": "is",
+    "category": "1-25"
+  },
+  {
+    "language1": "25",
+    "language2": "ele",
+    "phonetics": "",
+    "example": "it",
+    "translation": "het",
+    "category": "1-25"
+  },
+  {
+    "language1": "101",
+    "language2": "qualquer",
+    "phonetics": "",
+    "example": "any",
+    "translation": "elk",
+    "category": "100-124"
+  },
+  {
+    "language1": "102",
+    "language2": "novo",
+    "phonetics": "",
+    "example": "new",
+    "translation": "nieuw",
+    "category": "100-124"
+  },
+  {
+    "language1": "103",
+    "language2": "trabalho",
+    "phonetics": "",
+    "example": "work",
+    "translation": "werk",
+    "category": "100-124"
+  },
+  {
+    "language1": "104",
+    "language2": "parte",
+    "phonetics": "",
+    "example": "part",
+    "translation": "deel",
+    "category": "100-124"
+  },
+  {
+    "language1": "105",
+    "language2": "tomar",
+    "phonetics": "",
+    "example": "take",
+    "translation": "nemen",
+    "category": "100-124"
+  },
+  {
+    "language1": "106",
+    "language2": "obter",
+    "phonetics": "",
+    "example": "get",
+    "translation": "krijgen",
+    "category": "100-124"
+  },
+  {
+    "language1": "107",
+    "language2": "lugar",
+    "phonetics": "",
+    "example": "place",
+    "translation": "plaats",
+    "category": "100-124"
+  },
+  {
+    "language1": "108",
+    "language2": "feito",
+    "phonetics": "",
+    "example": "made",
+    "translation": "gemaakt",
+    "category": "100-124"
+  },
+  {
+    "language1": "109",
+    "language2": "viver",
+    "phonetics": "",
+    "example": "live",
+    "translation": "leven",
+    "category": "100-124"
+  },
+  {
+    "language1": "110",
+    "language2": "onde",
+    "phonetics": "",
+    "example": "where",
+    "translation": "waar",
+    "category": "100-124"
+  },
+  {
+    "language1": "111",
+    "language2": "depois",
+    "phonetics": "",
+    "example": "after",
+    "translation": "na",
+    "category": "100-124"
+  },
+  {
+    "language1": "112",
+    "language2": "de volta",
+    "phonetics": "",
+    "example": "back",
+    "translation": "terug",
+    "category": "100-124"
+  },
+  {
+    "language1": "113",
+    "language2": "pouco",
+    "phonetics": "",
+    "example": "little",
+    "translation": "weinig",
+    "category": "100-124"
+  },
+  {
+    "language1": "114",
+    "language2": "apenas",
+    "phonetics": "",
+    "example": "only",
+    "translation": "alleen",
+    "category": "100-124"
+  },
+  {
+    "language1": "115",
+    "language2": "rodada",
+    "phonetics": "",
+    "example": "round",
+    "translation": "ronde",
+    "category": "100-124"
+  },
+  {
+    "language1": "116",
+    "language2": "homem",
+    "phonetics": "",
+    "example": "man",
+    "translation": "man",
+    "category": "100-124"
+  },
+  {
+    "language1": "117",
+    "language2": "ano",
+    "phonetics": "",
+    "example": "year",
+    "translation": "jaar",
+    "category": "100-124"
+  },
+  {
+    "language1": "118",
+    "language2": "veio",
+    "phonetics": "",
+    "example": "came",
+    "translation": "kwam",
+    "category": "100-124"
+  },
+  {
+    "language1": "119",
+    "language2": "exposição",
+    "phonetics": "",
+    "example": "show",
+    "translation": "tentoonstelling",
+    "category": "100-124"
+  },
+  {
+    "language1": "120",
+    "language2": "cada",
+    "phonetics": "",
+    "example": "every",
+    "translation": "iedere",
+    "category": "100-124"
+  },
+  {
+    "language1": "121",
+    "language2": "bom",
+    "phonetics": "",
+    "example": "good",
+    "translation": "goed",
+    "category": "100-124"
+  },
+  {
+    "language1": "122",
+    "language2": "me",
+    "phonetics": "",
+    "example": "me",
+    "translation": "mij",
+    "category": "100-124"
+  },
+  {
+    "language1": "123",
+    "language2": "dar",
+    "phonetics": "",
+    "example": "give",
+    "translation": "geven",
+    "category": "100-124"
+  },
+  {
+    "language1": "124",
+    "language2": "nossa",
+    "phonetics": "",
+    "example": "our",
+    "translation": "onze",
+    "category": "100-124"
+  },
+  {
+    "language1": "125",
+    "language2": "sob",
+    "phonetics": "",
+    "example": "under",
+    "translation": "onder",
+    "category": "125-149"
+  },
+  {
+    "language1": "126",
+    "language2": "nome",
+    "phonetics": "",
+    "example": "name",
+    "translation": "naam",
+    "category": "125-149"
+  },
+  {
+    "language1": "127",
+    "language2": "muito",
+    "phonetics": "",
+    "example": "very",
+    "translation": "zeer",
+    "category": "125-149"
+  },
+  {
+    "language1": "128",
+    "language2": "através",
+    "phonetics": "",
+    "example": "through",
+    "translation": "door",
+    "category": "125-149"
+  },
+  {
+    "language1": "129",
+    "language2": "justo",
+    "phonetics": "",
+    "example": "just",
+    "translation": "juist",
+    "category": "125-149"
+  },
+  {
+    "language1": "130",
+    "language2": "forma",
+    "phonetics": "",
+    "example": "form",
+    "translation": "vorm",
+    "category": "125-149"
+  },
+  {
+    "language1": "131",
+    "language2": "sentença",
+    "phonetics": "",
+    "example": "sentence",
+    "translation": "zin",
+    "category": "125-149"
+  },
+  {
+    "language1": "132",
+    "language2": "grande",
+    "phonetics": "",
+    "example": "great",
+    "translation": "geweldig",
+    "category": "125-149"
+  },
+  {
+    "language1": "133",
+    "language2": "acho que",
+    "phonetics": "",
+    "example": "think",
+    "translation": "denken",
+    "category": "125-149"
+  },
+  {
+    "language1": "134",
+    "language2": "dizer",
+    "phonetics": "",
+    "example": "say",
+    "translation": "zeggen",
+    "category": "125-149"
+  },
+  {
+    "language1": "135",
+    "language2": "ajudar",
+    "phonetics": "",
+    "example": "help",
+    "translation": "helpen",
+    "category": "125-149"
+  },
+  {
+    "language1": "136",
+    "language2": "baixo",
+    "phonetics": "",
+    "example": "low",
+    "translation": "laag",
+    "category": "125-149"
+  },
+  {
+    "language1": "137",
+    "language2": "linha",
+    "phonetics": "",
+    "example": "line",
+    "translation": "lijn",
+    "category": "125-149"
+  },
+  {
+    "language1": "138",
+    "language2": "diferir",
+    "phonetics": "",
+    "example": "differ",
+    "translation": "verschillen",
+    "category": "125-149"
+  },
+  {
+    "language1": "139",
+    "language2": "vez",
+    "phonetics": "",
+    "example": "turn",
+    "translation": "beurt",
+    "category": "125-149"
+  },
+  {
+    "language1": "140",
+    "language2": "causa",
+    "phonetics": "",
+    "example": "cause",
+    "translation": "oorzaak",
+    "category": "125-149"
+  },
+  {
+    "language1": "141",
+    "language2": "muito",
+    "phonetics": "",
+    "example": "much",
+    "translation": "veel",
+    "category": "125-149"
+  },
+  {
+    "language1": "142",
+    "language2": "significar",
+    "phonetics": "",
+    "example": "mean",
+    "translation": "betekenen",
+    "category": "125-149"
+  },
+  {
+    "language1": "143",
+    "language2": "antes",
+    "phonetics": "",
+    "example": "before",
+    "translation": "voor",
+    "category": "125-149"
+  },
+  {
+    "language1": "144",
+    "language2": "mudança",
+    "phonetics": "",
+    "example": "move",
+    "translation": "verplaatsen",
+    "category": "125-149"
+  },
+  {
+    "language1": "145",
+    "language2": "direito",
+    "phonetics": "",
+    "example": "right",
+    "translation": "rechts",
+    "category": "125-149"
+  },
+  {
+    "language1": "146",
+    "language2": "menino",
+    "phonetics": "",
+    "example": "boy",
+    "translation": "jongen",
+    "category": "125-149"
+  },
+  {
+    "language1": "147",
+    "language2": "velho",
+    "phonetics": "",
+    "example": "old",
+    "translation": "oud",
+    "category": "125-149"
+  },
+  {
+    "language1": "148",
+    "language2": "também",
+    "phonetics": "",
+    "example": "too",
+    "translation": "ook",
+    "category": "125-149"
+  },
+  {
+    "language1": "149",
+    "language2": "mesmo",
+    "phonetics": "",
+    "example": "same",
+    "translation": "hetzelfde",
+    "category": "125-149"
+  },
+  {
+    "language1": "150",
+    "language2": "ela",
+    "phonetics": "",
+    "example": "she",
+    "translation": "zij",
+    "category": "150-175"
+  },
+  {
+    "language1": "151",
+    "language2": "tudo",
+    "phonetics": "",
+    "example": "all",
+    "translation": "alles",
+    "category": "150-175"
+  },
+  {
+    "language1": "152",
+    "language2": "lá",
+    "phonetics": "",
+    "example": "there",
+    "translation": "daar",
+    "category": "150-175"
+  },
+  {
+    "language1": "153",
+    "language2": "quando",
+    "phonetics": "",
+    "example": "when",
+    "translation": "wanneer",
+    "category": "150-175"
+  },
+  {
+    "language1": "154",
+    "language2": "up",
+    "phonetics": "",
+    "example": "up",
+    "translation": "omhoog",
+    "category": "150-175"
+  },
+  {
+    "language1": "155",
+    "language2": "usar",
+    "phonetics": "",
+    "example": "use",
+    "translation": "gebruiken",
+    "category": "150-175"
+  },
+  {
+    "language1": "156",
+    "language2": "seu",
+    "phonetics": "",
+    "example": "your",
+    "translation": "jouw",
+    "category": "150-175"
+  },
+  {
+    "language1": "157",
+    "language2": "maneira",
+    "phonetics": "",
+    "example": "way",
+    "translation": "manier",
+    "category": "150-175"
+  },
+  {
+    "language1": "158",
+    "language2": "sobre",
+    "phonetics": "",
+    "example": "about",
+    "translation": "over",
+    "category": "150-175"
+  },
+  {
+    "language1": "159",
+    "language2": "muitos",
+    "phonetics": "",
+    "example": "many",
+    "translation": "veel",
+    "category": "150-175"
+  },
+  {
+    "language1": "160",
+    "language2": "depois",
+    "phonetics": "",
+    "example": "then",
+    "translation": "dan",
+    "category": "150-175"
+  },
+  {
+    "language1": "161",
+    "language2": "eles",
+    "phonetics": "",
+    "example": "them",
+    "translation": "hen",
+    "category": "150-175"
+  },
+  {
+    "language1": "162",
+    "language2": "escrever",
+    "phonetics": "",
+    "example": "write",
+    "translation": "schrijven",
+    "category": "150-175"
+  },
+  {
+    "language1": "163",
+    "language2": "faria",
+    "phonetics": "",
+    "example": "would",
+    "translation": "zou",
+    "category": "150-175"
+  },
+  {
+    "language1": "164",
+    "language2": "como",
+    "phonetics": "",
+    "example": "like",
+    "translation": "zoals",
+    "category": "150-175"
+  },
+  {
+    "language1": "165",
+    "language2": "assim",
+    "phonetics": "",
+    "example": "so",
+    "translation": "zo",
+    "category": "150-175"
+  },
+  {
+    "language1": "166",
+    "language2": "estes",
+    "phonetics": "",
+    "example": "these",
+    "translation": "deze",
+    "category": "150-175"
+  },
+  {
+    "language1": "167",
+    "language2": "seu",
+    "phonetics": "",
+    "example": "her",
+    "translation": "haar",
+    "category": "150-175"
+  },
+  {
+    "language1": "168",
+    "language2": "longo",
+    "phonetics": "",
+    "example": "long",
+    "translation": "lang",
+    "category": "150-175"
+  },
+  {
+    "language1": "169",
+    "language2": "fazer",
+    "phonetics": "",
+    "example": "make",
+    "translation": "maken",
+    "category": "150-175"
+  },
+  {
+    "language1": "170",
+    "language2": "coisa",
+    "phonetics": "",
+    "example": "thing",
+    "translation": "ding",
+    "category": "150-175"
+  },
+  {
+    "language1": "171",
+    "language2": "veja",
+    "phonetics": "",
+    "example": "see",
+    "translation": "zien",
+    "category": "150-175"
+  },
+  {
+    "language1": "172",
+    "language2": "ele",
+    "phonetics": "",
+    "example": "him",
+    "translation": "hem",
+    "category": "150-175"
+  },
+  {
+    "language1": "173",
+    "language2": "dois",
+    "phonetics": "",
+    "example": "two",
+    "translation": "twee",
+    "category": "150-175"
+  },
+  {
+    "language1": "174",
+    "language2": "tem",
+    "phonetics": "",
+    "example": "has",
+    "translation": "heeft",
+    "category": "150-175"
+  },
+  {
+    "language1": "175",
+    "language2": "olhar",
+    "phonetics": "",
+    "example": "look",
+    "translation": "kijken",
+    "category": "175-200"
+  },
+  {
+    "language1": "176",
+    "language2": "mais",
+    "phonetics": "",
+    "example": "more",
+    "translation": "meer",
+    "category": "175-200"
+  },
+  {
+    "language1": "177",
+    "language2": "dia",
+    "phonetics": "",
+    "example": "day",
+    "translation": "dag",
+    "category": "175-200"
+  },
+  {
+    "language1": "178",
+    "language2": "poderia",
+    "phonetics": "",
+    "example": "could",
+    "translation": "zou kunnen",
+    "category": "175-200"
+  },
+  {
+    "language1": "179",
+    "language2": "ir",
+    "phonetics": "",
+    "example": "go",
+    "translation": "gaan",
+    "category": "175-200"
+  },
+  {
+    "language1": "180",
+    "language2": "vir",
+    "phonetics": "",
+    "example": "come",
+    "translation": "komen",
+    "category": "175-200"
+  },
+  {
+    "language1": "181",
+    "language2": "fez",
+    "phonetics": "",
+    "example": "did",
+    "translation": "deed",
+    "category": "175-200"
+  },
+  {
+    "language1": "182",
+    "language2": "número",
+    "phonetics": "",
+    "example": "number",
+    "translation": "nummer",
+    "category": "175-200"
+  },
+  {
+    "language1": "183",
+    "language2": "som",
+    "phonetics": "",
+    "example": "sound",
+    "translation": "geluid",
+    "category": "175-200"
+  },
+  {
+    "language1": "184",
+    "language2": "não",
+    "phonetics": "",
+    "example": "no",
+    "translation": "nee",
+    "category": "175-200"
+  },
+  {
+    "language1": "185",
+    "language2": "mais",
+    "phonetics": "",
+    "example": "most",
+    "translation": "meest",
+    "category": "175-200"
+  },
+  {
+    "language1": "186",
+    "language2": "pessoas",
+    "phonetics": "",
+    "example": "people",
+    "translation": "mensen",
+    "category": "175-200"
+  },
+  {
+    "language1": "187",
+    "language2": "meu",
+    "phonetics": "",
+    "example": "my",
+    "translation": "mijn",
+    "category": "175-200"
+  },
+  {
+    "language1": "188",
+    "language2": "sobre",
+    "phonetics": "",
+    "example": "over",
+    "translation": "over",
+    "category": "175-200"
+  },
+  {
+    "language1": "189",
+    "language2": "sei",
+    "phonetics": "",
+    "example": "know",
+    "translation": "weten",
+    "category": "175-200"
+  },
+  {
+    "language1": "190",
+    "language2": "água",
+    "phonetics": "",
+    "example": "water",
+    "translation": "water",
+    "category": "175-200"
+  },
+  {
+    "language1": "191",
+    "language2": "que",
+    "phonetics": "",
+    "example": "than",
+    "translation": "dan",
+    "category": "175-200"
+  },
+  {
+    "language1": "192",
+    "language2": "chamada",
+    "phonetics": "",
+    "example": "call",
+    "translation": "bellen",
+    "category": "175-200"
+  },
+  {
+    "language1": "193",
+    "language2": "primeiro",
+    "phonetics": "",
+    "example": "first",
+    "translation": "eerste",
+    "category": "175-200"
+  },
+  {
+    "language1": "194",
+    "language2": "que",
+    "phonetics": "",
+    "example": "who",
+    "translation": "wie",
+    "category": "175-200"
+  },
+  {
+    "language1": "195",
+    "language2": "pode",
+    "phonetics": "",
+    "example": "may",
+    "translation": "mag",
+    "category": "175-200"
+  },
+  {
+    "language1": "196",
+    "language2": "para baixo",
+    "phonetics": "",
+    "example": "down",
+    "translation": "omlaag",
+    "category": "175-200"
+  },
+  {
+    "language1": "197",
+    "language2": "lado",
+    "phonetics": "",
+    "example": "side",
+    "translation": "kant",
+    "category": "175-200"
+  },
+  {
+    "language1": "198",
+    "language2": "sido",
+    "phonetics": "",
+    "example": "been",
+    "translation": "geweest",
+    "category": "175-200"
+  },
+  {
+    "language1": "199",
+    "language2": "agora",
+    "phonetics": "",
+    "example": "now",
+    "translation": "nu",
+    "category": "175-200"
+  },
+  {
+    "language1": "200",
+    "language2": "encontrar",
+    "phonetics": "",
+    "example": "find",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "201",
+    "language2": "cabeça",
+    "phonetics": "",
+    "example": "head",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "202",
+    "language2": "ficar",
+    "phonetics": "",
+    "example": "stand",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "203",
+    "language2": "próprio",
+    "phonetics": "",
+    "example": "own",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "204",
+    "language2": "página",
+    "phonetics": "",
+    "example": "page",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "205",
+    "language2": "deveria",
+    "phonetics": "",
+    "example": "should",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "206",
+    "language2": "país",
+    "phonetics": "",
+    "example": "country",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "207",
+    "language2": "encontrado",
+    "phonetics": "",
+    "example": "found",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "208",
+    "language2": "resposta",
+    "phonetics": "",
+    "example": "answer",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "209",
+    "language2": "escola",
+    "phonetics": "",
+    "example": "school",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "210",
+    "language2": "crescer",
+    "phonetics": "",
+    "example": "grow",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "211",
+    "language2": "estudo",
+    "phonetics": "",
+    "example": "study",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "212",
+    "language2": "ainda",
+    "phonetics": "",
+    "example": "still",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "213",
+    "language2": "aprender",
+    "phonetics": "",
+    "example": "learn",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "214",
+    "language2": "planta",
+    "phonetics": "",
+    "example": "plant",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "215",
+    "language2": "cobertura",
+    "phonetics": "",
+    "example": "cover",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "216",
+    "language2": "alimentos",
+    "phonetics": "",
+    "example": "food",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "217",
+    "language2": "sol",
+    "phonetics": "",
+    "example": "sun",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "218",
+    "language2": "quatro",
+    "phonetics": "",
+    "example": "four",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "219",
+    "language2": "entre",
+    "phonetics": "",
+    "example": "between",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "220",
+    "language2": "estado",
+    "phonetics": "",
+    "example": "state",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "221",
+    "language2": "manter",
+    "phonetics": "",
+    "example": "keep",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "222",
+    "language2": "olho",
+    "phonetics": "",
+    "example": "eye",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "223",
+    "language2": "nunca",
+    "phonetics": "",
+    "example": "never",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "224",
+    "language2": "último",
+    "phonetics": "",
+    "example": "last",
+    "translation": "",
+    "category": "200-225"
+  },
+  {
+    "language1": "225",
+    "language2": "deixar",
+    "phonetics": "",
+    "example": "let",
+    "translation": "laten",
+    "category": "225-250"
+  },
+  {
+    "language1": "226",
+    "language2": "pensava",
+    "phonetics": "",
+    "example": "thought",
+    "translation": "dacht",
+    "category": "225-250"
+  },
+  {
+    "language1": "227",
+    "language2": "cidade",
+    "phonetics": "",
+    "example": "city",
+    "translation": "stad",
+    "category": "225-250"
+  },
+  {
+    "language1": "228",
+    "language2": "árvore",
+    "phonetics": "",
+    "example": "tree",
+    "translation": "boom",
+    "category": "225-250"
+  },
+  {
+    "language1": "229",
+    "language2": "atravessar",
+    "phonetics": "",
+    "example": "cross",
+    "translation": "oversteken",
+    "category": "225-250"
+  },
+  {
+    "language1": "230",
+    "language2": "fazenda",
+    "phonetics": "",
+    "example": "farm",
+    "translation": "boerderij",
+    "category": "225-250"
+  },
+  {
+    "language1": "231",
+    "language2": "difícil",
+    "phonetics": "",
+    "example": "hard",
+    "translation": "moeilijk",
+    "category": "225-250"
+  },
+  {
+    "language1": "232",
+    "language2": "começo",
+    "phonetics": "",
+    "example": "start",
+    "translation": "begin",
+    "category": "225-250"
+  },
+  {
+    "language1": "233",
+    "language2": "poder",
+    "phonetics": "",
+    "example": "might",
+    "translation": "kracht",
+    "category": "225-250"
+  },
+  {
+    "language1": "234",
+    "language2": "história",
+    "phonetics": "",
+    "example": "story",
+    "translation": "verhaal",
+    "category": "225-250"
+  },
+  {
+    "language1": "235",
+    "language2": "serra",
+    "phonetics": "",
+    "example": "saw",
+    "translation": "zaag",
+    "category": "225-250"
+  },
+  {
+    "language1": "236",
+    "language2": "longe",
+    "phonetics": "",
+    "example": "far",
+    "translation": "ver",
+    "category": "225-250"
+  },
+  {
+    "language1": "237",
+    "language2": "mar",
+    "phonetics": "",
+    "example": "sea",
+    "translation": "zee",
+    "category": "225-250"
+  },
+  {
+    "language1": "238",
+    "language2": "desenhar",
+    "phonetics": "",
+    "example": "draw",
+    "translation": "tekenen",
+    "category": "225-250"
+  },
+  {
+    "language1": "239",
+    "language2": "esquerda",
+    "phonetics": "",
+    "example": "left",
+    "translation": "links",
+    "category": "225-250"
+  },
+  {
+    "language1": "240",
+    "language2": "tarde",
+    "phonetics": "",
+    "example": "late",
+    "translation": "laat",
+    "category": "225-250"
+  },
+  {
+    "language1": "241",
+    "language2": "run",
+    "phonetics": "",
+    "example": "run",
+    "translation": "rennen",
+    "category": "225-250"
+  },
+  {
+    "language1": "242",
+    "language2": "não",
+    "phonetics": "",
+    "example": "don’t",
+    "translation": "niet",
+    "category": "225-250"
+  },
+  {
+    "language1": "243",
+    "language2": "enquanto",
+    "phonetics": "",
+    "example": "while",
+    "translation": "terwijl",
+    "category": "225-250"
+  },
+  {
+    "language1": "244",
+    "language2": "imprensa",
+    "phonetics": "",
+    "example": "press",
+    "translation": "pers",
+    "category": "225-250"
+  },
+  {
+    "language1": "245",
+    "language2": "perto",
+    "phonetics": "",
+    "example": "close",
+    "translation": "dichtbij",
+    "category": "225-250"
+  },
+  {
+    "language1": "246",
+    "language2": "noite",
+    "phonetics": "",
+    "example": "night",
+    "translation": "nacht",
+    "category": "225-250"
+  },
+  {
+    "language1": "247",
+    "language2": "reais",
+    "phonetics": "",
+    "example": "real",
+    "translation": "echt",
+    "category": "225-250"
+  },
+  {
+    "language1": "248",
+    "language2": "vida",
+    "phonetics": "",
+    "example": "life",
+    "translation": "leven",
+    "category": "225-250"
+  },
+  {
+    "language1": "249",
+    "language2": "poucos",
+    "phonetics": "",
+    "example": "few",
+    "translation": "weinig",
+    "category": "225-250"
+  },
+  {
+    "language1": "250",
+    "language2": "norte",
+    "phonetics": "",
+    "example": "north",
+    "translation": "noorden",
+    "category": "250-275"
+  },
+  {
+    "language1": "251",
+    "language2": "livro",
+    "phonetics": "",
+    "example": "book",
+    "translation": "boek",
+    "category": "250-275"
+  },
+  {
+    "language1": "252",
+    "language2": "carregam",
+    "phonetics": "",
+    "example": "carry",
+    "translation": "dragen",
+    "category": "250-275"
+  },
+  {
+    "language1": "253",
+    "language2": "tomou",
+    "phonetics": "",
+    "example": "took",
+    "translation": "nam",
+    "category": "250-275"
+  },
+  {
+    "language1": "254",
+    "language2": "ciência",
+    "phonetics": "",
+    "example": "science",
+    "translation": "wetenschap",
+    "category": "250-275"
+  },
+  {
+    "language1": "255",
+    "language2": "comer",
+    "phonetics": "",
+    "example": "eat",
+    "translation": "eten",
+    "category": "250-275"
+  },
+  {
+    "language1": "256",
+    "language2": "quarto",
+    "phonetics": "",
+    "example": "room",
+    "translation": "kamer",
+    "category": "250-275"
+  },
+  {
+    "language1": "257",
+    "language2": "amigo",
+    "phonetics": "",
+    "example": "friend",
+    "translation": "vriend",
+    "category": "250-275"
+  },
+  {
+    "language1": "258",
+    "language2": "começou",
+    "phonetics": "",
+    "example": "began",
+    "translation": "begon",
+    "category": "250-275"
+  },
+  {
+    "language1": "259",
+    "language2": "idéia",
+    "phonetics": "",
+    "example": "idea",
+    "translation": "idee",
+    "category": "250-275"
+  },
+  {
+    "language1": "260",
+    "language2": "peixe",
+    "phonetics": "",
+    "example": "fish",
+    "translation": "vis",
+    "category": "250-275"
+  },
+  {
+    "language1": "261",
+    "language2": "montanha",
+    "phonetics": "",
+    "example": "mountain",
+    "translation": "berg",
+    "category": "250-275"
+  },
+  {
+    "language1": "262",
+    "language2": "Pare",
+    "phonetics": "",
+    "example": "stop",
+    "translation": "stoppen",
+    "category": "250-275"
+  },
+  {
+    "language1": "263",
+    "language2": "uma vez",
+    "phonetics": "",
+    "example": "once",
+    "translation": "één keer",
+    "category": "250-275"
+  },
+  {
+    "language1": "264",
+    "language2": "base",
+    "phonetics": "",
+    "example": "base",
+    "translation": "basis",
+    "category": "250-275"
+  },
+  {
+    "language1": "265",
+    "language2": "ouvir",
+    "phonetics": "",
+    "example": "hear",
+    "translation": "horen",
+    "category": "250-275"
+  },
+  {
+    "language1": "266",
+    "language2": "cavalo",
+    "phonetics": "",
+    "example": "horse",
+    "translation": "paard",
+    "category": "250-275"
+  },
+  {
+    "language1": "267",
+    "language2": "corte",
+    "phonetics": "",
+    "example": "cut",
+    "translation": "snijden",
+    "category": "250-275"
+  },
+  {
+    "language1": "268",
+    "language2": "certo",
+    "phonetics": "",
+    "example": "sure",
+    "translation": "zeker",
+    "category": "250-275"
+  },
+  {
+    "language1": "269",
+    "language2": "assista",
+    "phonetics": "",
+    "example": "watch",
+    "translation": "kijken",
+    "category": "250-275"
+  },
+  {
+    "language1": "270",
+    "language2": "cor",
+    "phonetics": "",
+    "example": "color",
+    "translation": "kleur",
+    "category": "250-275"
+  },
+  {
+    "language1": "271",
+    "language2": "rosto",
+    "phonetics": "",
+    "example": "face",
+    "translation": "gezicht",
+    "category": "250-275"
+  },
+  {
+    "language1": "272",
+    "language2": "madeira",
+    "phonetics": "",
+    "example": "wood",
+    "translation": "hout",
+    "category": "250-275"
+  },
+  {
+    "language1": "273",
+    "language2": "principal",
+    "phonetics": "",
+    "example": "main",
+    "translation": "hoofd-",
+    "category": "250-275"
+  },
+  {
+    "language1": "274",
+    "language2": "aberto",
+    "phonetics": "",
+    "example": "open",
+    "translation": "open",
+    "category": "250-275"
+  },
+  {
+    "language1": "275",
+    "language2": "parecem",
+    "phonetics": "",
+    "example": "seem",
+    "translation": "lijken",
+    "category": "250-275"
+  },
+  {
+    "language1": "26",
+    "language2": "você",
+    "phonetics": "",
+    "example": "you",
+    "translation": "jij",
+    "category": "26-50"
+  },
+  {
+    "language1": "27",
+    "language2": "ou",
+    "phonetics": "",
+    "example": "or",
+    "translation": "of",
+    "category": "26-50"
+  },
+  {
+    "language1": "28",
+    "language2": "teve",
+    "phonetics": "",
+    "example": "had",
+    "translation": "had",
+    "category": "26-50"
+  },
+  {
+    "language1": "29",
+    "language2": "o",
+    "phonetics": "",
+    "example": "the",
+    "translation": "de",
+    "category": "26-50"
+  },
+  {
+    "language1": "30",
+    "language2": "de",
+    "phonetics": "",
+    "example": "of",
+    "translation": "van",
+    "category": "26-50"
+  },
+  {
+    "language1": "31",
+    "language2": "a",
+    "phonetics": "",
+    "example": "to",
+    "translation": "naar",
+    "category": "26-50"
+  },
+  {
+    "language1": "32",
+    "language2": "e",
+    "phonetics": "",
+    "example": "and",
+    "translation": "en",
+    "category": "26-50"
+  },
+  {
+    "language1": "33",
+    "language2": "uma",
+    "phonetics": "",
+    "example": "a",
+    "translation": "een",
+    "category": "26-50"
+  },
+  {
+    "language1": "34",
+    "language2": "em",
+    "phonetics": "",
+    "example": "in",
+    "translation": "in",
+    "category": "26-50"
+  },
+  {
+    "language1": "35",
+    "language2": "nós",
+    "phonetics": "",
+    "example": "we",
+    "translation": "wij",
+    "category": "26-50"
+  },
+  {
+    "language1": "36",
+    "language2": "lata",
+    "phonetics": "",
+    "example": "can",
+    "translation": "kan",
+    "category": "26-50"
+  },
+  {
+    "language1": "37",
+    "language2": "fora",
+    "phonetics": "",
+    "example": "out",
+    "translation": "uit",
+    "category": "26-50"
+  },
+  {
+    "language1": "38",
+    "language2": "outro",
+    "phonetics": "",
+    "example": "other",
+    "translation": "ander",
+    "category": "26-50"
+  },
+  {
+    "language1": "39",
+    "language2": "foram",
+    "phonetics": "",
+    "example": "were",
+    "translation": "waren",
+    "category": "26-50"
+  },
+  {
+    "language1": "40",
+    "language2": "que",
+    "phonetics": "",
+    "example": "which",
+    "translation": "welke",
+    "category": "26-50"
+  },
+  {
+    "language1": "41",
+    "language2": "fazer",
+    "phonetics": "",
+    "example": "do",
+    "translation": "doen",
+    "category": "26-50"
+  },
+  {
+    "language1": "42",
+    "language2": "seu",
+    "phonetics": "",
+    "example": "their",
+    "translation": "hun",
+    "category": "26-50"
+  },
+  {
+    "language1": "43",
+    "language2": "tempo",
+    "phonetics": "",
+    "example": "time",
+    "translation": "tijd",
+    "category": "26-50"
+  },
+  {
+    "language1": "44",
+    "language2": "se",
+    "phonetics": "",
+    "example": "if",
+    "translation": "als",
+    "category": "26-50"
+  },
+  {
+    "language1": "45",
+    "language2": "vontade",
+    "phonetics": "",
+    "example": "will",
+    "translation": "zullen",
+    "category": "26-50"
+  },
+  {
+    "language1": "46",
+    "language2": "como",
+    "phonetics": "",
+    "example": "how",
+    "translation": "hoe",
+    "category": "26-50"
+  },
+  {
+    "language1": "47",
+    "language2": "disse",
+    "phonetics": "",
+    "example": "said",
+    "translation": "zei",
+    "category": "26-50"
+  },
+  {
+    "language1": "48",
+    "language2": "uma",
+    "phonetics": "",
+    "example": "an",
+    "translation": "een",
+    "category": "26-50"
+  },
+  {
+    "language1": "49",
+    "language2": "cada",
+    "phonetics": "",
+    "example": "each",
+    "translation": "ieder",
+    "category": "26-50"
+  },
+  {
+    "language1": "50",
+    "language2": "dizer",
+    "phonetics": "",
+    "example": "tell",
+    "translation": "vertellen",
+    "category": "26-50"
+  },
+  {
+    "language1": "276",
+    "language2": "juntos",
+    "phonetics": "",
+    "example": "together",
+    "translation": "samen",
+    "category": "275-300"
+  },
+  {
+    "language1": "277",
+    "language2": "próximo",
+    "phonetics": "",
+    "example": "next",
+    "translation": "volgende",
+    "category": "275-300"
+  },
+  {
+    "language1": "278",
+    "language2": "branco",
+    "phonetics": "",
+    "example": "white",
+    "translation": "wit",
+    "category": "275-300"
+  },
+  {
+    "language1": "279",
+    "language2": "crianças",
+    "phonetics": "",
+    "example": "children",
+    "translation": "kinderen",
+    "category": "275-300"
+  },
+  {
+    "language1": "280",
+    "language2": "início",
+    "phonetics": "",
+    "example": "begin",
+    "translation": "begin",
+    "category": "275-300"
+  },
+  {
+    "language1": "281",
+    "language2": "tem",
+    "phonetics": "",
+    "example": "got",
+    "translation": "heeft",
+    "category": "275-300"
+  },
+  {
+    "language1": "282",
+    "language2": "andar",
+    "phonetics": "",
+    "example": "walk",
+    "translation": "lopen",
+    "category": "275-300"
+  },
+  {
+    "language1": "283",
+    "language2": "exemplo",
+    "phonetics": "",
+    "example": "example",
+    "translation": "voorbeeld",
+    "category": "275-300"
+  },
+  {
+    "language1": "284",
+    "language2": "facilidade",
+    "phonetics": "",
+    "example": "ease",
+    "translation": "gemak",
+    "category": "275-300"
+  },
+  {
+    "language1": "285",
+    "language2": "papel",
+    "phonetics": "",
+    "example": "paper",
+    "translation": "papier",
+    "category": "275-300"
+  },
+  {
+    "language1": "286",
+    "language2": "grupo",
+    "phonetics": "",
+    "example": "group",
+    "translation": "groep",
+    "category": "275-300"
+  },
+  {
+    "language1": "287",
+    "language2": "sempre",
+    "phonetics": "",
+    "example": "always",
+    "translation": "altijd",
+    "category": "275-300"
+  },
+  {
+    "language1": "288",
+    "language2": "música",
+    "phonetics": "",
+    "example": "music",
+    "translation": "muziek",
+    "category": "275-300"
+  },
+  {
+    "language1": "289",
+    "language2": "aqueles",
+    "phonetics": "",
+    "example": "those",
+    "translation": "die",
+    "category": "275-300"
+  },
+  {
+    "language1": "290",
+    "language2": "tanto",
+    "phonetics": "",
+    "example": "both",
+    "translation": "beide",
+    "category": "275-300"
+  },
+  {
+    "language1": "291",
+    "language2": "marca",
+    "phonetics": "",
+    "example": "mark",
+    "translation": "merk",
+    "category": "275-300"
+  },
+  {
+    "language1": "292",
+    "language2": "muitas vezes",
+    "phonetics": "",
+    "example": "often",
+    "translation": "vaak",
+    "category": "275-300"
+  },
+  {
+    "language1": "293",
+    "language2": "carta",
+    "phonetics": "",
+    "example": "letter",
+    "translation": "brief",
+    "category": "275-300"
+  },
+  {
+    "language1": "294",
+    "language2": "até",
+    "phonetics": "",
+    "example": "until",
+    "translation": "tot",
+    "category": "275-300"
+  },
+  {
+    "language1": "295",
+    "language2": "milha",
+    "phonetics": "",
+    "example": "mile",
+    "translation": "mijl",
+    "category": "275-300"
+  },
+  {
+    "language1": "296",
+    "language2": "rio",
+    "phonetics": "",
+    "example": "river",
+    "translation": "rivier",
+    "category": "275-300"
+  },
+  {
+    "language1": "297",
+    "language2": "carro",
+    "phonetics": "",
+    "example": "car",
+    "translation": "auto",
+    "category": "275-300"
+  },
+  {
+    "language1": "298",
+    "language2": "pés",
+    "phonetics": "",
+    "example": "feet",
+    "translation": "voeten",
+    "category": "275-300"
+  },
+  {
+    "language1": "299",
+    "language2": "cuidados",
+    "phonetics": "",
+    "example": "care",
+    "translation": "zorg",
+    "category": "275-300"
+  },
+  {
+    "language1": "300",
+    "language2": "segunda",
+    "phonetics": "seGÚN-da",
+    "example": "second",
+    "translation": "tweede",
+    "category": "300-325"
+  },
+  {
+    "language1": "301",
+    "language2": "suficiente",
+    "phonetics": "su-fi-CIÊN-te",
+    "example": "enough",
+    "translation": "genoeg",
+    "category": "300-325"
+  },
+  {
+    "language1": "302",
+    "language2": "plain",
+    "phonetics": "pleyn",
+    "example": "plain",
+    "translation": "vlakte",
+    "category": "300-325"
+  },
+  {
+    "language1": "303",
+    "language2": "menina",
+    "phonetics": "me-NI-na",
+    "example": "girl",
+    "translation": "meisje",
+    "category": "300-325"
+  },
+  {
+    "language1": "304",
+    "language2": "habitual",
+    "phonetics": "ha-bi-TU-al",
+    "example": "usual",
+    "translation": "gebruikelijk",
+    "category": "300-325"
+  },
+  {
+    "language1": "305",
+    "language2": "jovem",
+    "phonetics": "JO-vem",
+    "example": "young",
+    "translation": "jong",
+    "category": "300-325"
+  },
+  {
+    "language1": "306",
+    "language2": "pronto",
+    "phonetics": "PRON-to",
+    "example": "ready",
+    "translation": "klaar",
+    "category": "300-325"
+  },
+  {
+    "language1": "307",
+    "language2": "acima",
+    "phonetics": "a-CI-ma",
+    "example": "above",
+    "translation": "boven",
+    "category": "300-325"
+  },
+  {
+    "language1": "308",
+    "language2": "sempre",
+    "phonetics": "SEM-pre",
+    "example": "ever",
+    "translation": "ooit",
+    "category": "300-325"
+  },
+  {
+    "language1": "309",
+    "language2": "vermelho",
+    "phonetics": "ver-ME-lho",
+    "example": "red",
+    "translation": "rood",
+    "category": "300-325"
+  },
+  {
+    "language1": "310",
+    "language2": "lista",
+    "phonetics": "LIS-ta",
+    "example": "list",
+    "translation": "lijst",
+    "category": "300-325"
+  },
+  {
+    "language1": "311",
+    "language2": "embora",
+    "phonetics": "em-BO-ra",
+    "example": "though",
+    "translation": "hoewel",
+    "category": "300-325"
+  },
+  {
+    "language1": "312",
+    "language2": "sentir",
+    "phonetics": "sen-TIR",
+    "example": "feel",
+    "translation": "voelen",
+    "category": "300-325"
+  },
+  {
+    "language1": "313",
+    "language2": "Discussão",
+    "phonetics": "dis-ku-SÃO",
+    "example": "talk",
+    "translation": "praten",
+    "category": "300-325"
+  },
+  {
+    "language1": "314",
+    "language2": "pássaro",
+    "phonetics": "PÁS-sa-ro",
+    "example": "bird",
+    "translation": "vogel",
+    "category": "300-325"
+  },
+  {
+    "language1": "315",
+    "language2": "em breve",
+    "phonetics": "em BRE-ve",
+    "example": "soon",
+    "translation": "binnenkort",
+    "category": "300-325"
+  },
+  {
+    "language1": "316",
+    "language2": "corpo",
+    "phonetics": "COR-po",
+    "example": "body",
+    "translation": "lichaam",
+    "category": "300-325"
+  },
+  {
+    "language1": "317",
+    "language2": "cão",
+    "phonetics": "cÃO",
+    "example": "dog",
+    "translation": "hond",
+    "category": "300-325"
+  },
+  {
+    "language1": "318",
+    "language2": "família",
+    "phonetics": "fa-MÍ-li-a",
+    "example": "family",
+    "translation": "familie",
+    "category": "300-325"
+  },
+  {
+    "language1": "319",
+    "language2": "direto",
+    "phonetics": "di-RE-to",
+    "example": "direct",
+    "translation": "direct",
+    "category": "300-325"
+  },
+  {
+    "language1": "320",
+    "language2": "representar",
+    "phonetics": "re-pre-sen-TAR",
+    "example": "pose",
+    "translation": "poseren",
+    "category": "300-325"
+  },
+  {
+    "language1": "321",
+    "language2": "deixar",
+    "phonetics": "dei-CHAR",
+    "example": "leave",
+    "translation": "verlaten",
+    "category": "300-325"
+  },
+  {
+    "language1": "322",
+    "language2": "canção",
+    "phonetics": "can-ÇÃO",
+    "example": "song",
+    "translation": "lied",
+    "category": "300-325"
+  },
+  {
+    "language1": "323",
+    "language2": "medir",
+    "phonetics": "me-DIR",
+    "example": "measure",
+    "translation": "meten",
+    "category": "300-325"
+  },
+  {
+    "language1": "324",
+    "language2": "porta",
+    "phonetics": "POR-ta",
+    "example": "door",
+    "translation": "deur",
+    "category": "300-325"
+  },
+  {
+    "language1": "325",
+    "language2": "produto",
+    "phonetics": "pro-DU-to",
+    "example": "product",
+    "translation": "product",
+    "category": "325-350"
+  },
+  {
+    "language1": "326",
+    "language2": "preto",
+    "phonetics": "PRE-to",
+    "example": "black",
+    "translation": "zwart",
+    "category": "325-350"
+  },
+  {
+    "language1": "327",
+    "language2": "curta",
+    "phonetics": "KUR-ta",
+    "example": "short",
+    "translation": "kort",
+    "category": "325-350"
+  },
+  {
+    "language1": "328",
+    "language2": "numeral",
+    "phonetics": "nu-me-RAL",
+    "example": "numeral",
+    "translation": "getal",
+    "category": "325-350"
+  },
+  {
+    "language1": "329",
+    "language2": "classe",
+    "phonetics": "KLA-se",
+    "example": "class",
+    "translation": "klas",
+    "category": "325-350"
+  },
+  {
+    "language1": "330",
+    "language2": "vento",
+    "phonetics": "VEN-to",
+    "example": "wind",
+    "translation": "wind",
+    "category": "325-350"
+  },
+  {
+    "language1": "331",
+    "language2": "pergunta",
+    "phonetics": "per-GUN-ta",
+    "example": "question",
+    "translation": "vraag",
+    "category": "325-350"
+  },
+  {
+    "language1": "332",
+    "language2": "acontecer",
+    "phonetics": "a-kon-te-SER",
+    "example": "happen",
+    "translation": "gebeuren",
+    "category": "325-350"
+  },
+  {
+    "language1": "333",
+    "language2": "completo",
+    "phonetics": "kom-PLE-to",
+    "example": "complete",
+    "translation": "compleet",
+    "category": "325-350"
+  },
+  {
+    "language1": "334",
+    "language2": "navio",
+    "phonetics": "na-VIO",
+    "example": "ship",
+    "translation": "schip",
+    "category": "325-350"
+  },
+  {
+    "language1": "335",
+    "language2": "área",
+    "phonetics": "A-re-a",
+    "example": "area",
+    "translation": "gebied",
+    "category": "325-350"
+  },
+  {
+    "language1": "336",
+    "language2": "metade",
+    "phonetics": "me-TA-de",
+    "example": "half",
+    "translation": "helft",
+    "category": "325-350"
+  },
+  {
+    "language1": "337",
+    "language2": "rocha",
+    "phonetics": "RO-cha",
+    "example": "rock",
+    "translation": "rots",
+    "category": "325-350"
+  },
+  {
+    "language1": "338",
+    "language2": "ordem",
+    "phonetics": "OR-dem",
+    "example": "order",
+    "translation": "orde",
+    "category": "325-350"
+  },
+  {
+    "language1": "339",
+    "language2": "fogo",
+    "phonetics": "FO-go",
+    "example": "fire",
+    "translation": "vuur",
+    "category": "325-350"
+  },
+  {
+    "language1": "340",
+    "language2": "sul",
+    "phonetics": "SUL",
+    "example": "south",
+    "translation": "zuiden",
+    "category": "325-350"
+  },
+  {
+    "language1": "341",
+    "language2": "problema",
+    "phonetics": "pro-BLE-ma",
+    "example": "problem",
+    "translation": "probleem",
+    "category": "325-350"
+  },
+  {
+    "language1": "342",
+    "language2": "peça",
+    "phonetics": "PE-sa",
+    "example": "piece",
+    "translation": "stuk",
+    "category": "325-350"
+  },
+  {
+    "language1": "343",
+    "language2": "disse",
+    "phonetics": "DIS-se",
+    "example": "told",
+    "translation": "zei",
+    "category": "325-350"
+  },
+  {
+    "language1": "344",
+    "language2": "sabia",
+    "phonetics": "SA-bi-a",
+    "example": "knew",
+    "translation": "wist",
+    "category": "325-350"
+  },
+  {
+    "language1": "345",
+    "language2": "passar",
+    "phonetics": "pa-SSAR",
+    "example": "pass",
+    "translation": "passeren",
+    "category": "325-350"
+  },
+  {
+    "language1": "346",
+    "language2": "desde",
+    "phonetics": "DES-de",
+    "example": "since",
+    "translation": "sinds",
+    "category": "325-350"
+  },
+  {
+    "language1": "347",
+    "language2": "topo",
+    "phonetics": "TO-po",
+    "example": "top",
+    "translation": "top",
+    "category": "325-350"
+  },
+  {
+    "language1": "348",
+    "language2": "inteiro",
+    "phonetics": "in-TEI-ro",
+    "example": "whole",
+    "translation": "heel",
+    "category": "325-350"
+  },
+  {
+    "language1": "349",
+    "language2": "rei",
+    "phonetics": "REI",
+    "example": "king",
+    "translation": "koning",
+    "category": "325-350"
+  },
+  {
+    "language1": "350",
+    "language2": "rua",
+    "phonetics": "RU-a",
+    "example": "street",
+    "translation": "straat",
+    "category": "350-375"
+  },
+  {
+    "language1": "351",
+    "language2": "polegada",
+    "phonetics": "po-le-GA-da",
+    "example": "inch",
+    "translation": "duim",
+    "category": "350-375"
+  },
+  {
+    "language1": "352",
+    "language2": "multiplicar",
+    "phonetics": "mul-ti-pli-CAR",
+    "example": "multiply",
+    "translation": "vermenigvuldigen",
+    "category": "350-375"
+  },
+  {
+    "language1": "353",
+    "language2": "nada",
+    "phonetics": "NA-da",
+    "example": "nothing",
+    "translation": "niets",
+    "category": "350-375"
+  },
+  {
+    "language1": "354",
+    "language2": "curso",
+    "phonetics": "CUR-so",
+    "example": "course",
+    "translation": "cursus",
+    "category": "350-375"
+  },
+  {
+    "language1": "355",
+    "language2": "ficar",
+    "phonetics": "fi-CAR",
+    "example": "stay",
+    "translation": "blijven",
+    "category": "350-375"
+  },
+  {
+    "language1": "356",
+    "language2": "roda",
+    "phonetics": "RO-da",
+    "example": "wheel",
+    "translation": "wiel",
+    "category": "350-375"
+  },
+  {
+    "language1": "357",
+    "language2": "completo",
+    "phonetics": "com-PLE-to",
+    "example": "full",
+    "translation": "volledig",
+    "category": "350-375"
+  },
+  {
+    "language1": "358",
+    "language2": "força",
+    "phonetics": "FOR-sa",
+    "example": "force",
+    "translation": "kracht",
+    "category": "350-375"
+  },
+  {
+    "language1": "359",
+    "language2": "azul",
+    "phonetics": "a-ZUL",
+    "example": "blue",
+    "translation": "blauw",
+    "category": "350-375"
+  },
+  {
+    "language1": "360",
+    "language2": "objeto",
+    "phonetics": "ob-JE-to",
+    "example": "object",
+    "translation": "object",
+    "category": "350-375"
+  },
+  {
+    "language1": "361",
+    "language2": "decidir",
+    "phonetics": "de-ci-DIR",
+    "example": "decide",
+    "translation": "beslissen",
+    "category": "350-375"
+  },
+  {
+    "language1": "362",
+    "language2": "superfície",
+    "phonetics": "su-per-FÍ-ci-e",
+    "example": "surface",
+    "translation": "oppervlak",
+    "category": "350-375"
+  },
+  {
+    "language1": "363",
+    "language2": "profunda",
+    "phonetics": "pro-FUN-da",
+    "example": "deep",
+    "translation": "diep",
+    "category": "350-375"
+  },
+  {
+    "language1": "364",
+    "language2": "lua",
+    "phonetics": "LU-a",
+    "example": "moon",
+    "translation": "maan",
+    "category": "350-375"
+  },
+  {
+    "language1": "365",
+    "language2": "ilha",
+    "phonetics": "I-lha",
+    "example": "island",
+    "translation": "eiland",
+    "category": "350-375"
+  },
+  {
+    "language1": "366",
+    "language2": "pé",
+    "phonetics": "PÉ",
+    "example": "foot",
+    "translation": "voet",
+    "category": "350-375"
+  },
+  {
+    "language1": "367",
+    "language2": "sistema",
+    "phonetics": "sis-TE-ma",
+    "example": "system",
+    "translation": "systeem",
+    "category": "350-375"
+  },
+  {
+    "language1": "368",
+    "language2": "ocupado",
+    "phonetics": "o-cu-PA-do",
+    "example": "busy",
+    "translation": "bezet",
+    "category": "350-375"
+  },
+  {
+    "language1": "369",
+    "language2": "teste",
+    "phonetics": "TES-te",
+    "example": "test",
+    "translation": "test",
+    "category": "350-375"
+  },
+  {
+    "language1": "370",
+    "language2": "registro",
+    "phonetics": "re-GIS-tro",
+    "example": "record",
+    "translation": "record",
+    "category": "350-375"
+  },
+  {
+    "language1": "371",
+    "language2": "barco",
+    "phonetics": "BAR-co",
+    "example": "boat",
+    "translation": "boot",
+    "category": "350-375"
+  },
+  {
+    "language1": "372",
+    "language2": "comum",
+    "phonetics": "co-MUM",
+    "example": "common",
+    "translation": "gewoon",
+    "category": "350-375"
+  },
+  {
+    "language1": "373",
+    "language2": "ouro",
+    "phonetics": "OU-ro",
+    "example": "gold",
+    "translation": "goud",
+    "category": "350-375"
+  },
+  {
+    "language1": "374",
+    "language2": "possível",
+    "phonetics": "pos-SÍ-vel",
+    "example": "possible",
+    "translation": "mogelijk",
+    "category": "350-375"
+  },
+  {
+    "language1": "375",
+    "language2": "avião",
+    "phonetics": "AH-vee-ÃO",
+    "example": "plane",
+    "translation": "vliegtuig",
+    "category": "375-400"
+  },
+  {
+    "language1": "376",
+    "language2": "lugar",
+    "phonetics": "loo-GAR",
+    "example": "stead",
+    "translation": "plaats",
+    "category": "375-400"
+  },
+  {
+    "language1": "377",
+    "language2": "seca",
+    "phonetics": "SEH-ka",
+    "example": "dry",
+    "translation": "droog",
+    "category": "375-400"
+  },
+  {
+    "language1": "378",
+    "language2": "pergunto",
+    "phonetics": "per-GOON-too",
+    "example": "wonder",
+    "translation": "zich afvragen",
+    "category": "375-400"
+  },
+  {
+    "language1": "379",
+    "language2": "risada",
+    "phonetics": "ree-ZA-da",
+    "example": "laugh",
+    "translation": "lach",
+    "category": "375-400"
+  },
+  {
+    "language1": "380",
+    "language2": "mil",
+    "phonetics": "MEEL",
+    "example": "thousand",
+    "translation": "duizend",
+    "category": "375-400"
+  },
+  {
+    "language1": "381",
+    "language2": "atrás",
+    "phonetics": "a-TRÁS",
+    "example": "ago",
+    "translation": "geleden",
+    "category": "375-400"
+  },
+  {
+    "language1": "382",
+    "language2": "ran",
+    "phonetics": "ran",
+    "example": "ran",
+    "translation": "rende",
+    "category": "375-400"
+  },
+  {
+    "language1": "383",
+    "language2": "verifique",
+    "phonetics": "ve-ree-FEE-kee",
+    "example": "check",
+    "translation": "controleren",
+    "category": "375-400"
+  },
+  {
+    "language1": "384",
+    "language2": "jogo",
+    "phonetics": "ZHO-go",
+    "example": "game",
+    "translation": "spel",
+    "category": "375-400"
+  },
+  {
+    "language1": "385",
+    "language2": "forma",
+    "phonetics": "FOR-ma",
+    "example": "shape",
+    "translation": "vorm",
+    "category": "375-400"
+  },
+  {
+    "language1": "386",
+    "language2": "equiparar",
+    "phonetics": "e-kee-pa-RAR",
+    "example": "equate",
+    "translation": "gelijkstellen",
+    "category": "375-400"
+  },
+  {
+    "language1": "387",
+    "language2": "quente",
+    "phonetics": "KEN-tee",
+    "example": "hot",
+    "translation": "heet",
+    "category": "375-400"
+  },
+  {
+    "language1": "388",
+    "language2": "senhorita",
+    "phonetics": "sen-yo-REE-ta",
+    "example": "miss",
+    "translation": "juffrouw",
+    "category": "375-400"
+  },
+  {
+    "language1": "389",
+    "language2": "trouxe",
+    "phonetics": "TROH-se",
+    "example": "brought",
+    "translation": "bracht",
+    "category": "375-400"
+  },
+  {
+    "language1": "390",
+    "language2": "calor",
+    "phonetics": "ka-LOR",
+    "example": "heat",
+    "translation": "hitte",
+    "category": "375-400"
+  },
+  {
+    "language1": "391",
+    "language2": "neve",
+    "phonetics": "NEH-vee",
+    "example": "snow",
+    "translation": "sneeuw",
+    "category": "375-400"
+  },
+  {
+    "language1": "392",
+    "language2": "pneu",
+    "phonetics": "pee-NEH-oo",
+    "example": "tire",
+    "translation": "band",
+    "category": "375-400"
+  },
+  {
+    "language1": "393",
+    "language2": "trazer",
+    "phonetics": "tra-ZER",
+    "example": "bring",
+    "translation": "brengen",
+    "category": "375-400"
+  },
+  {
+    "language1": "394",
+    "language2": "sim",
+    "phonetics": "SEEM",
+    "example": "yes",
+    "translation": "ja",
+    "category": "375-400"
+  },
+  {
+    "language1": "395",
+    "language2": "distante",
+    "phonetics": "dees-TAN-tee",
+    "example": "distant",
+    "translation": "ver",
+    "category": "375-400"
+  },
+  {
+    "language1": "396",
+    "language2": "preencher",
+    "phonetics": "pre-en-CHER",
+    "example": "fill",
+    "translation": "invullen",
+    "category": "375-400"
+  },
+  {
+    "language1": "397",
+    "language2": "leste",
+    "phonetics": "LESH-tee",
+    "example": "east",
+    "translation": "oosten",
+    "category": "375-400"
+  },
+  {
+    "language1": "398",
+    "language2": "pintar",
+    "phonetics": "peen-TAR",
+    "example": "paint",
+    "translation": "schilderen",
+    "category": "375-400"
+  },
+  {
+    "language1": "399",
+    "language2": "linguagem",
+    "phonetics": "leen-GWAH-zhem",
+    "example": "language",
+    "translation": "taal",
+    "category": "375-400"
+  },
+  {
+    "language1": "400",
+    "language2": "entre",
+    "phonetics": "ÉN-tre",
+    "example": "among",
+    "translation": "onder",
+    "category": "400-425"
+  },
+  {
+    "language1": "401",
+    "language2": "unidade",
+    "phonetics": "u-nee-DAH-de",
+    "example": "unit",
+    "translation": "eenheid",
+    "category": "400-425"
+  },
+  {
+    "language1": "402",
+    "language2": "poder",
+    "phonetics": "po-DÉR",
+    "example": "power",
+    "translation": "kracht",
+    "category": "400-425"
+  },
+  {
+    "language1": "403",
+    "language2": "cidade",
+    "phonetics": "si-DAH-de",
+    "example": "town",
+    "translation": "stad",
+    "category": "400-425"
+  },
+  {
+    "language1": "404",
+    "language2": "multa",
+    "phonetics": "MOOL-ta",
+    "example": "fine",
+    "translation": "boete",
+    "category": "400-425"
+  },
+  {
+    "language1": "405",
+    "language2": "certo",
+    "phonetics": "SÉR-to",
+    "example": "certain",
+    "translation": "zeker",
+    "category": "400-425"
+  },
+  {
+    "language1": "406",
+    "language2": "voar",
+    "phonetics": "vo-AR",
+    "example": "fly",
+    "translation": "vliegen",
+    "category": "400-425"
+  },
+  {
+    "language1": "407",
+    "language2": "cair",
+    "phonetics": "ka-IR",
+    "example": "fall",
+    "translation": "vallen",
+    "category": "400-425"
+  },
+  {
+    "language1": "408",
+    "language2": "conduzir",
+    "phonetics": "kon-du-ZIR",
+    "example": "lead",
+    "translation": "leiden",
+    "category": "400-425"
+  },
+  {
+    "language1": "409",
+    "language2": "grito",
+    "phonetics": "GRI-to",
+    "example": "cry",
+    "translation": "huilen",
+    "category": "400-425"
+  },
+  {
+    "language1": "410",
+    "language2": "escuro",
+    "phonetics": "es-KOO-ro",
+    "example": "dark",
+    "translation": "donker",
+    "category": "400-425"
+  },
+  {
+    "language1": "411",
+    "language2": "máquina",
+    "phonetics": "ma-KEE-na",
+    "example": "machine",
+    "translation": "machine",
+    "category": "400-425"
+  },
+  {
+    "language1": "412",
+    "language2": "nota",
+    "phonetics": "NO-ta",
+    "example": "note",
+    "translation": "notitie",
+    "category": "400-425"
+  },
+  {
+    "language1": "413",
+    "language2": "esperar",
+    "phonetics": "es-pe-RAHR",
+    "example": "wait",
+    "translation": "wachten",
+    "category": "400-425"
+  },
+  {
+    "language1": "414",
+    "language2": "plano",
+    "phonetics": "PLAH-no",
+    "example": "plan",
+    "translation": "plan",
+    "category": "400-425"
+  },
+  {
+    "language1": "415",
+    "language2": "figura",
+    "phonetics": "fi-GU-ra",
+    "example": "figure",
+    "translation": "figuur",
+    "category": "400-425"
+  },
+  {
+    "language1": "416",
+    "language2": "estrela",
+    "phonetics": "es-TRE-la",
+    "example": "star",
+    "translation": "ster",
+    "category": "400-425"
+  },
+  {
+    "language1": "417",
+    "language2": "caixa",
+    "phonetics": "KAJ-sha",
+    "example": "box",
+    "translation": "doos",
+    "category": "400-425"
+  },
+  {
+    "language1": "418",
+    "language2": "substantivo",
+    "phonetics": "sub-stan-TI-vo",
+    "example": "noun",
+    "translation": "zelfstandig naamwoord",
+    "category": "400-425"
+  },
+  {
+    "language1": "419",
+    "language2": "campo",
+    "phonetics": "KAM-po",
+    "example": "field",
+    "translation": "veld",
+    "category": "400-425"
+  },
+  {
+    "language1": "420",
+    "language2": "resto",
+    "phonetics": "RES-to",
+    "example": "rest",
+    "translation": "rest",
+    "category": "400-425"
+  },
+  {
+    "language1": "421",
+    "language2": "correto",
+    "phonetics": "ko-RE-to",
+    "example": "correct",
+    "translation": "correct",
+    "category": "400-425"
+  },
+  {
+    "language1": "422",
+    "language2": "capaz",
+    "phonetics": "ka-PAZ",
+    "example": "able",
+    "translation": "bekwaam",
+    "category": "400-425"
+  },
+  {
+    "language1": "423",
+    "language2": "libra",
+    "phonetics": "LEE-bra",
+    "example": "pound",
+    "translation": "pond",
+    "category": "400-425"
+  },
+  {
+    "language1": "424",
+    "language2": "done",
+    "phonetics": "DUN",
+    "example": "done",
+    "translation": "klaar",
+    "category": "400-425"
+  },
+  {
+    "language1": "425",
+    "language2": "beleza",
+    "phonetics": "beLEza",
+    "example": "beauty",
+    "translation": "schoonheid",
+    "category": "425-450"
+  },
+  {
+    "language1": "426",
+    "language2": "unidade",
+    "phonetics": "uNIdade",
+    "example": "drive",
+    "translation": "eenheid",
+    "category": "425-450"
+  },
+  {
+    "language1": "427",
+    "language2": "se",
+    "phonetics": "SE",
+    "example": "stood",
+    "translation": "als",
+    "category": "425-450"
+  },
+  {
+    "language1": "428",
+    "language2": "contêm",
+    "phonetics": "conTÊm",
+    "example": "contain",
+    "translation": "bevatten",
+    "category": "425-450"
+  },
+  {
+    "language1": "429",
+    "language2": "frente",
+    "phonetics": "FREnte",
+    "example": "front",
+    "translation": "voorkant",
+    "category": "425-450"
+  },
+  {
+    "language1": "430",
+    "language2": "ensinar",
+    "phonetics": "ensiNAR",
+    "example": "teach",
+    "translation": "onderwijzen",
+    "category": "425-450"
+  },
+  {
+    "language1": "431",
+    "language2": "semana",
+    "phonetics": "seMANA",
+    "example": "week",
+    "translation": "week",
+    "category": "425-450"
+  },
+  {
+    "language1": "432",
+    "language2": "finais",
+    "phonetics": "fiNAIS",
+    "example": "final",
+    "translation": "eind",
+    "category": "425-450"
+  },
+  {
+    "language1": "433",
+    "language2": "deu",
+    "phonetics": "DEU",
+    "example": "gave",
+    "translation": "gaf",
+    "category": "425-450"
+  },
+  {
+    "language1": "434",
+    "language2": "verde",
+    "phonetics": "VERde",
+    "example": "green",
+    "translation": "groen",
+    "category": "425-450"
+  },
+  {
+    "language1": "435",
+    "language2": "ó",
+    "phonetics": "Ó",
+    "example": "oh",
+    "translation": "oh",
+    "category": "425-450"
+  },
+  {
+    "language1": "436",
+    "language2": "rápida",
+    "phonetics": "RÁpida",
+    "example": "quick",
+    "translation": "snel",
+    "category": "425-450"
+  },
+  {
+    "language1": "437",
+    "language2": "desenvolver",
+    "phonetics": "desenVOLver",
+    "example": "develop",
+    "translation": "ontwikkelen",
+    "category": "425-450"
+  },
+  {
+    "language1": "438",
+    "language2": "oceano",
+    "phonetics": "oCEano",
+    "example": "ocean",
+    "translation": "oceaan",
+    "category": "425-450"
+  },
+  {
+    "language1": "439",
+    "language2": "quente",
+    "phonetics": "QUEnte",
+    "example": "warm",
+    "translation": "warm",
+    "category": "425-450"
+  },
+  {
+    "language1": "440",
+    "language2": "livre",
+    "phonetics": "LIVre",
+    "example": "free",
+    "translation": "vrij",
+    "category": "425-450"
+  },
+  {
+    "language1": "441",
+    "language2": "minuto",
+    "phonetics": "miNUto",
+    "example": "minute",
+    "translation": "minuut",
+    "category": "425-450"
+  },
+  {
+    "language1": "442",
+    "language2": "forte",
+    "phonetics": "FORte",
+    "example": "strong",
+    "translation": "sterk",
+    "category": "425-450"
+  },
+  {
+    "language1": "443",
+    "language2": "especial",
+    "phonetics": "espeCIal",
+    "example": "special",
+    "translation": "speciaal",
+    "category": "425-450"
+  },
+  {
+    "language1": "444",
+    "language2": "mente",
+    "phonetics": "MEnte",
+    "example": "mind",
+    "translation": "geest",
+    "category": "425-450"
+  },
+  {
+    "language1": "445",
+    "language2": "atrás",
+    "phonetics": "aTRÁS",
+    "example": "behind",
+    "translation": "achter",
+    "category": "425-450"
+  },
+  {
+    "language1": "446",
+    "language2": "claro",
+    "phonetics": "CLARo",
+    "example": "clear",
+    "translation": "duidelijk",
+    "category": "425-450"
+  },
+  {
+    "language1": "447",
+    "language2": "cauda",
+    "phonetics": "CAUda",
+    "example": "tail",
+    "translation": "staart",
+    "category": "425-450"
+  },
+  {
+    "language1": "448",
+    "language2": "produzir",
+    "phonetics": "produZIR",
+    "example": "produce",
+    "translation": "produceren",
+    "category": "425-450"
+  },
+  {
+    "language1": "449",
+    "language2": "fato",
+    "phonetics": "FAto",
+    "example": "fact",
+    "translation": "feit",
+    "category": "425-450"
+  },
+  {
+    "language1": "450",
+    "language2": "espaço",
+    "phonetics": "Es-PA-ço",
+    "example": "space",
+    "translation": "ruimte",
+    "category": "450-475"
+  },
+  {
+    "language1": "451",
+    "language2": "ouvido",
+    "phonetics": "Ou-VI-do",
+    "example": "heard",
+    "translation": "gehoord",
+    "category": "450-475"
+  },
+  {
+    "language1": "452",
+    "language2": "melhor",
+    "phonetics": "Me-LHOR",
+    "example": "best",
+    "translation": "beste",
+    "category": "450-475"
+  },
+  {
+    "language1": "453",
+    "language2": "horas",
+    "phonetics": "HO-ras",
+    "example": "hour",
+    "translation": "uren",
+    "category": "450-475"
+  },
+  {
+    "language1": "454",
+    "language2": "melhor",
+    "phonetics": "Me-LHOR",
+    "example": "better",
+    "translation": "beter",
+    "category": "450-475"
+  },
+  {
+    "language1": "455",
+    "language2": "verdade",
+    "phonetics": "Ver-DA-de",
+    "example": "TRUE",
+    "translation": "waarheid",
+    "category": "450-475"
+  },
+  {
+    "language1": "456",
+    "language2": "durante",
+    "phonetics": "Du-RAN-te",
+    "example": "during",
+    "translation": "tijdens",
+    "category": "450-475"
+  },
+  {
+    "language1": "457",
+    "language2": "cem",
+    "phonetics": "CEM",
+    "example": "hundred",
+    "translation": "honderd",
+    "category": "450-475"
+  },
+  {
+    "language1": "458",
+    "language2": "cinco",
+    "phonetics": "CIN-co",
+    "example": "five",
+    "translation": "vijf",
+    "category": "450-475"
+  },
+  {
+    "language1": "459",
+    "language2": "lembre-se",
+    "phonetics": "LEM-bre-se",
+    "example": "remember",
+    "translation": "onthouden",
+    "category": "450-475"
+  },
+  {
+    "language1": "460",
+    "language2": "passo",
+    "phonetics": "PAS-so",
+    "example": "step",
+    "translation": "stap",
+    "category": "450-475"
+  },
+  {
+    "language1": "461",
+    "language2": "cedo",
+    "phonetics": "CE-do",
+    "example": "early",
+    "translation": "vroeg",
+    "category": "450-475"
+  },
+  {
+    "language1": "462",
+    "language2": "segurar",
+    "phonetics": "Se-gu-RAR",
+    "example": "hold",
+    "translation": "vasthouden",
+    "category": "450-475"
+  },
+  {
+    "language1": "463",
+    "language2": "oeste",
+    "phonetics": "O-ES-te",
+    "example": "west",
+    "translation": "westen",
+    "category": "450-475"
+  },
+  {
+    "language1": "464",
+    "language2": "solo",
+    "phonetics": "SO-lo",
+    "example": "ground",
+    "translation": "grond",
+    "category": "450-475"
+  },
+  {
+    "language1": "465",
+    "language2": "juros",
+    "phonetics": "JU-ros",
+    "example": "interest",
+    "translation": "rente",
+    "category": "450-475"
+  },
+  {
+    "language1": "466",
+    "language2": "alcançar",
+    "phonetics": "Al-can-ÇAR",
+    "example": "reach",
+    "translation": "bereiken",
+    "category": "450-475"
+  },
+  {
+    "language1": "467",
+    "language2": "rápido",
+    "phonetics": "RÁ-pi-do",
+    "example": "fast",
+    "translation": "snel",
+    "category": "450-475"
+  },
+  {
+    "language1": "468",
+    "language2": "verbo",
+    "phonetics": "VER-bo",
+    "example": "verb",
+    "translation": "werkwoord",
+    "category": "450-475"
+  },
+  {
+    "language1": "469",
+    "language2": "cantar",
+    "phonetics": "Can-TAR",
+    "example": "sing",
+    "translation": "zingen",
+    "category": "450-475"
+  },
+  {
+    "language1": "470",
+    "language2": "ouça",
+    "phonetics": "OU-ça",
+    "example": "listen",
+    "translation": "luisteren",
+    "category": "450-475"
+  },
+  {
+    "language1": "471",
+    "language2": "seis",
+    "phonetics": "SEIS",
+    "example": "six",
+    "translation": "zes",
+    "category": "450-475"
+  },
+  {
+    "language1": "472",
+    "language2": "mesa",
+    "phonetics": "ME-sa",
+    "example": "table",
+    "translation": "tafel",
+    "category": "450-475"
+  },
+  {
+    "language1": "473",
+    "language2": "viagens",
+    "phonetics": "Vi-A-GENS",
+    "example": "travel",
+    "translation": "reizen",
+    "category": "450-475"
+  },
+  {
+    "language1": "474",
+    "language2": "menos",
+    "phonetics": "ME-nos",
+    "example": "less",
+    "translation": "minder",
+    "category": "450-475"
+  },
+  {
+    "language1": "475",
+    "language2": "manhã",
+    "phonetics": "ma-NHÃ",
+    "example": "morning",
+    "translation": "ochtend",
+    "category": "475-500"
+  },
+  {
+    "language1": "476",
+    "language2": "dez",
+    "phonetics": "DEZ",
+    "example": "ten",
+    "translation": "tien",
+    "category": "475-500"
+  },
+  {
+    "language1": "477",
+    "language2": "simples",
+    "phonetics": "SEEM-ples",
+    "example": "simple",
+    "translation": "simpel",
+    "category": "475-500"
+  },
+  {
+    "language1": "478",
+    "language2": "vários",
+    "phonetics": "VÁ-rios",
+    "example": "several",
+    "translation": "meerdere",
+    "category": "475-500"
+  },
+  {
+    "language1": "479",
+    "language2": "vogal",
+    "phonetics": "VO-gal",
+    "example": "vowel",
+    "translation": "klinker",
+    "category": "475-500"
+  },
+  {
+    "language1": "480",
+    "language2": "direção",
+    "phonetics": "dee-re-SÃO",
+    "example": "toward",
+    "translation": "richting",
+    "category": "475-500"
+  },
+  {
+    "language1": "481",
+    "language2": "guerra",
+    "phonetics": "GÉ-rra",
+    "example": "war",
+    "translation": "oorlog",
+    "category": "475-500"
+  },
+  {
+    "language1": "482",
+    "language2": "lay",
+    "phonetics": "LAY",
+    "example": "lay",
+    "translation": "liggen",
+    "category": "475-500"
+  },
+  {
+    "language1": "483",
+    "language2": "contra",
+    "phonetics": "con-TRA",
+    "example": "against",
+    "translation": "tegen",
+    "category": "475-500"
+  },
+  {
+    "language1": "484",
+    "language2": "padrão",
+    "phonetics": "pa-DRÃO",
+    "example": "pattern",
+    "translation": "patroon",
+    "category": "475-500"
+  },
+  {
+    "language1": "485",
+    "language2": "lento",
+    "phonetics": "LEN-to",
+    "example": "slow",
+    "translation": "langzaam",
+    "category": "475-500"
+  },
+  {
+    "language1": "486",
+    "language2": "centro",
+    "phonetics": "SEN-tro",
+    "example": "center",
+    "translation": "centrum",
+    "category": "475-500"
+  },
+  {
+    "language1": "487",
+    "language2": "amo",
+    "phonetics": "A-mo",
+    "example": "love",
+    "translation": "houden van",
+    "category": "475-500"
+  },
+  {
+    "language1": "488",
+    "language2": "pessoa",
+    "phonetics": "pe-SOA",
+    "example": "person",
+    "translation": "persoon",
+    "category": "475-500"
+  },
+  {
+    "language1": "489",
+    "language2": "dinheiro",
+    "phonetics": "dee-NHEI-ro",
+    "example": "money",
+    "translation": "geld",
+    "category": "475-500"
+  },
+  {
+    "language1": "490",
+    "language2": "servir",
+    "phonetics": "ser-VEER",
+    "example": "serve",
+    "translation": "dienen",
+    "category": "475-500"
+  },
+  {
+    "language1": "491",
+    "language2": "aparecer",
+    "phonetics": "a-pa-re-SER",
+    "example": "appear",
+    "translation": "verschijnen",
+    "category": "475-500"
+  },
+  {
+    "language1": "492",
+    "language2": "estrada",
+    "phonetics": "es-TRA-da",
+    "example": "road",
+    "translation": "weg",
+    "category": "475-500"
+  },
+  {
+    "language1": "493",
+    "language2": "mapa",
+    "phonetics": "MA-pa",
+    "example": "map",
+    "translation": "kaart",
+    "category": "475-500"
+  },
+  {
+    "language1": "494",
+    "language2": "chuva",
+    "phonetics": "CHU-va",
+    "example": "rain",
+    "translation": "regen",
+    "category": "475-500"
+  },
+  {
+    "language1": "495",
+    "language2": "regra",
+    "phonetics": "RE-gra",
+    "example": "rule",
+    "translation": "regel",
+    "category": "475-500"
+  },
+  {
+    "language1": "496",
+    "language2": "governar",
+    "phonetics": "go-ver-NAR",
+    "example": "govern",
+    "translation": "besturen",
+    "category": "475-500"
+  },
+  {
+    "language1": "497",
+    "language2": "puxe",
+    "phonetics": "PU-she",
+    "example": "pull",
+    "translation": "trekken",
+    "category": "475-500"
+  },
+  {
+    "language1": "498",
+    "language2": "frio",
+    "phonetics": "FRI-o",
+    "example": "cold",
+    "translation": "koud",
+    "category": "475-500"
+  },
+  {
+    "language1": "499",
+    "language2": "aviso",
+    "phonetics": "a-VI-so",
+    "example": "notice",
+    "translation": "opmerking",
+    "category": "475-500"
+  },
+  {
+    "language1": "500",
+    "language2": "voz",
+    "phonetics": "VOZ",
+    "example": "voice",
+    "translation": "stem",
+    "category": "500-525"
+  },
+  {
+    "language1": "501",
+    "language2": "energia",
+    "phonetics": "e-ner-GI-a",
+    "example": "energy",
+    "translation": "energie",
+    "category": "500-525"
+  },
+  {
+    "language1": "502",
+    "language2": "caça",
+    "phonetics": "CA-ça",
+    "example": "hunt",
+    "translation": "jacht",
+    "category": "500-525"
+  },
+  {
+    "language1": "503",
+    "language2": "provável",
+    "phonetics": "pro-VÁ-vel",
+    "example": "probable",
+    "translation": "waarschijnlijk",
+    "category": "500-525"
+  },
+  {
+    "language1": "504",
+    "language2": "cama",
+    "phonetics": "CA-ma",
+    "example": "bed",
+    "translation": "bed",
+    "category": "500-525"
+  },
+  {
+    "language1": "505",
+    "language2": "irmão",
+    "phonetics": "ir-MÃO",
+    "example": "brother",
+    "translation": "broer",
+    "category": "500-525"
+  },
+  {
+    "language1": "506",
+    "language2": "ovo",
+    "phonetics": "O-vo",
+    "example": "egg",
+    "translation": "ei",
+    "category": "500-525"
+  },
+  {
+    "language1": "507",
+    "language2": "passeio",
+    "phonetics": "pas-SEI-o",
+    "example": "ride",
+    "translation": "rit",
+    "category": "500-525"
+  },
+  {
+    "language1": "508",
+    "language2": "celular",
+    "phonetics": "ce-lu-LAR",
+    "example": "cell",
+    "translation": "mobiel",
+    "category": "500-525"
+  },
+  {
+    "language1": "509",
+    "language2": "acreditar",
+    "phonetics": "a-cre-di-TAR",
+    "example": "believe",
+    "translation": "geloven",
+    "category": "500-525"
+  },
+  {
+    "language1": "510",
+    "language2": "talvez",
+    "phonetics": "tal-VEZ",
+    "example": "perhaps",
+    "translation": "misschien",
+    "category": "500-525"
+  },
+  {
+    "language1": "511",
+    "language2": "escolher",
+    "phonetics": "es-co-LHER",
+    "example": "pick",
+    "translation": "kiezen",
+    "category": "500-525"
+  },
+  {
+    "language1": "512",
+    "language2": "súbita",
+    "phonetics": "SÚ-bi-ta",
+    "example": "sudden",
+    "translation": "plotseling",
+    "category": "500-525"
+  },
+  {
+    "language1": "513",
+    "language2": "contar",
+    "phonetics": "con-TAR",
+    "example": "count",
+    "translation": "tellen",
+    "category": "500-525"
+  },
+  {
+    "language1": "514",
+    "language2": "quadrado",
+    "phonetics": "qua-DRA-do",
+    "example": "square",
+    "translation": "vierkant",
+    "category": "500-525"
+  },
+  {
+    "language1": "515",
+    "language2": "razão",
+    "phonetics": "ra-ZÃO",
+    "example": "reason",
+    "translation": "reden",
+    "category": "500-525"
+  },
+  {
+    "language1": "516",
+    "language2": "comprimento",
+    "phonetics": "com-pri-MEN-to",
+    "example": "length",
+    "translation": "lengte",
+    "category": "500-525"
+  },
+  {
+    "language1": "517",
+    "language2": "representar",
+    "phonetics": "re-pre-sen-TAR",
+    "example": "represent",
+    "translation": "vertegenwoordigen",
+    "category": "500-525"
+  },
+  {
+    "language1": "518",
+    "language2": "arte",
+    "phonetics": "AR-te",
+    "example": "art",
+    "translation": "kunst",
+    "category": "500-525"
+  },
+  {
+    "language1": "519",
+    "language2": "assunto",
+    "phonetics": "as-SUN-to",
+    "example": "subject",
+    "translation": "onderwerp",
+    "category": "500-525"
+  },
+  {
+    "language1": "520",
+    "language2": "região",
+    "phonetics": "re-gi-ÃO",
+    "example": "region",
+    "translation": "regio",
+    "category": "500-525"
+  },
+  {
+    "language1": "521",
+    "language2": "tamanho",
+    "phonetics": "ta-MA-nho",
+    "example": "size",
+    "translation": "grootte",
+    "category": "500-525"
+  },
+  {
+    "language1": "522",
+    "language2": "variar",
+    "phonetics": "va-ri-AR",
+    "example": "vary",
+    "translation": "variëren",
+    "category": "500-525"
+  },
+  {
+    "language1": "523",
+    "language2": "resolver",
+    "phonetics": "re-sol-VER",
+    "example": "settle",
+    "translation": "oplossen",
+    "category": "500-525"
+  },
+  {
+    "language1": "524",
+    "language2": "falar",
+    "phonetics": "fa-LAR",
+    "example": "speak",
+    "translation": "spreken",
+    "category": "500-525"
+  },
+  {
+    "language1": "51",
+    "language2": "faz",
+    "phonetics": "",
+    "example": "does",
+    "translation": "doet",
+    "category": "51-75"
+  },
+  {
+    "language1": "52",
+    "language2": "conjunto",
+    "phonetics": "",
+    "example": "set",
+    "translation": "set",
+    "category": "51-75"
+  },
+  {
+    "language1": "53",
+    "language2": "três",
+    "phonetics": "",
+    "example": "three",
+    "translation": "drie",
+    "category": "51-75"
+  },
+  {
+    "language1": "54",
+    "language2": "quer",
+    "phonetics": "",
+    "example": "want",
+    "translation": "willen",
+    "category": "51-75"
+  },
+  {
+    "language1": "55",
+    "language2": "ar",
+    "phonetics": "",
+    "example": "air",
+    "translation": "lucht",
+    "category": "51-75"
+  },
+  {
+    "language1": "56",
+    "language2": "bem",
+    "phonetics": "",
+    "example": "well",
+    "translation": "goed",
+    "category": "51-75"
+  },
+  {
+    "language1": "57",
+    "language2": "também",
+    "phonetics": "",
+    "example": "also",
+    "translation": "ook",
+    "category": "51-75"
+  },
+  {
+    "language1": "58",
+    "language2": "jogar",
+    "phonetics": "",
+    "example": "play",
+    "translation": "spelen",
+    "category": "51-75"
+  },
+  {
+    "language1": "59",
+    "language2": "pequeno",
+    "phonetics": "",
+    "example": "small",
+    "translation": "klein",
+    "category": "51-75"
+  },
+  {
+    "language1": "60",
+    "language2": "fim",
+    "phonetics": "",
+    "example": "end",
+    "translation": "einde",
+    "category": "51-75"
+  },
+  {
+    "language1": "61",
+    "language2": "colocar",
+    "phonetics": "",
+    "example": "put",
+    "translation": "zetten",
+    "category": "51-75"
+  },
+  {
+    "language1": "62",
+    "language2": "casa",
+    "phonetics": "",
+    "example": "home",
+    "translation": "thuis",
+    "category": "51-75"
+  },
+  {
+    "language1": "63",
+    "language2": "ler",
+    "phonetics": "",
+    "example": "read",
+    "translation": "lezen",
+    "category": "51-75"
+  },
+  {
+    "language1": "64",
+    "language2": "mão",
+    "phonetics": "",
+    "example": "hand",
+    "translation": "hand",
+    "category": "51-75"
+  },
+  {
+    "language1": "65",
+    "language2": "port",
+    "phonetics": "",
+    "example": "port",
+    "translation": "haven",
+    "category": "51-75"
+  },
+  {
+    "language1": "66",
+    "language2": "grande",
+    "phonetics": "",
+    "example": "large",
+    "translation": "groot",
+    "category": "51-75"
+  },
+  {
+    "language1": "67",
+    "language2": "soletrar",
+    "phonetics": "",
+    "example": "spell",
+    "translation": "spellen",
+    "category": "51-75"
+  },
+  {
+    "language1": "68",
+    "language2": "adicionar",
+    "phonetics": "",
+    "example": "add",
+    "translation": "toevoegen",
+    "category": "51-75"
+  },
+  {
+    "language1": "69",
+    "language2": "mesmo",
+    "phonetics": "",
+    "example": "even",
+    "translation": "zelfs",
+    "category": "51-75"
+  },
+  {
+    "language1": "70",
+    "language2": "terra",
+    "phonetics": "",
+    "example": "land",
+    "translation": "land",
+    "category": "51-75"
+  },
+  {
+    "language1": "71",
+    "language2": "aqui",
+    "phonetics": "",
+    "example": "here",
+    "translation": "hier",
+    "category": "51-75"
+  },
+  {
+    "language1": "72",
+    "language2": "necessário",
+    "phonetics": "",
+    "example": "must",
+    "translation": "moet",
+    "category": "51-75"
+  },
+  {
+    "language1": "73",
+    "language2": "grande",
+    "phonetics": "",
+    "example": "big",
+    "translation": "groot",
+    "category": "51-75"
+  },
+  {
+    "language1": "74",
+    "language2": "alto",
+    "phonetics": "",
+    "example": "high",
+    "translation": "hoog",
+    "category": "51-75"
+  },
+  {
+    "language1": "75",
+    "language2": "tais",
+    "phonetics": "",
+    "example": "such",
+    "translation": "zulk",
+    "category": "51-75"
+  },
+  {
+    "language1": "Nummer",
+    "language2": "Portugees",
+    "phonetics": "Uitspraak",
+    "example": "Engels",
+    "translation": "Nederlands",
+    "category": "525-550"
+  },
+  {
+    "language1": "525",
+    "language2": "peso",
+    "phonetics": "PÊ-so",
+    "example": "weight",
+    "translation": "gewicht",
+    "category": "525-550"
+  },
+  {
+    "language1": "526",
+    "language2": "geral",
+    "phonetics": "je-RAL",
+    "example": "general",
+    "translation": "algemeen",
+    "category": "525-550"
+  },
+  {
+    "language1": "527",
+    "language2": "gelo",
+    "phonetics": "JE-lo",
+    "example": "ice",
+    "translation": "ijs",
+    "category": "525-550"
+  },
+  {
+    "language1": "528",
+    "language2": "assunto",
+    "phonetics": "a-SUN-to",
+    "example": "matter",
+    "translation": "onderwerp",
+    "category": "525-550"
+  },
+  {
+    "language1": "529",
+    "language2": "círculo",
+    "phonetics": "SÍR-ku-lo",
+    "example": "circle",
+    "translation": "cirkel",
+    "category": "525-550"
+  },
+  {
+    "language1": "530",
+    "language2": "par",
+    "phonetics": "PAR",
+    "example": "pair",
+    "translation": "paar",
+    "category": "525-550"
+  },
+  {
+    "language1": "531",
+    "language2": "incluir",
+    "phonetics": "in-CLU-ir",
+    "example": "include",
+    "translation": "includeren",
+    "category": "525-550"
+  },
+  {
+    "language1": "532",
+    "language2": "dividir",
+    "phonetics": "di-vi-DIR",
+    "example": "divide",
+    "translation": "verdelen",
+    "category": "525-550"
+  },
+  {
+    "language1": "533",
+    "language2": "sílaba",
+    "phonetics": "SÍ-la-ba",
+    "example": "syllable",
+    "translation": "lettergreep",
+    "category": "525-550"
+  },
+  {
+    "language1": "534",
+    "language2": "sentido",
+    "phonetics": "sen-TI-do",
+    "example": "felt",
+    "translation": "voelde",
+    "category": "525-550"
+  },
+  {
+    "language1": "535",
+    "language2": "grande",
+    "phonetics": "GRAN-de",
+    "example": "grand",
+    "translation": "groot",
+    "category": "525-550"
+  },
+  {
+    "language1": "536",
+    "language2": "bola",
+    "phonetics": "BO-la",
+    "example": "ball",
+    "translation": "bal",
+    "category": "525-550"
+  },
+  {
+    "language1": "537",
+    "language2": "ainda",
+    "phonetics": "AIN-da",
+    "example": "yet",
+    "translation": "nog",
+    "category": "525-550"
+  },
+  {
+    "language1": "538",
+    "language2": "onda",
+    "phonetics": "ON-da",
+    "example": "wave",
+    "translation": "golf",
+    "category": "525-550"
+  },
+  {
+    "language1": "539",
+    "language2": "cair",
+    "phonetics": "ca-IR",
+    "example": "drop",
+    "translation": "vallen",
+    "category": "525-550"
+  },
+  {
+    "language1": "540",
+    "language2": "coração",
+    "phonetics": "co-ra-ÇÃO",
+    "example": "heart",
+    "translation": "hart",
+    "category": "525-550"
+  },
+  {
+    "language1": "541",
+    "language2": "am",
+    "phonetics": "AM",
+    "example": "am",
+    "translation": "ben",
+    "category": "525-550"
+  },
+  {
+    "language1": "542",
+    "language2": "presente",
+    "phonetics": "pre-SEN-te",
+    "example": "present",
+    "translation": "cadeau",
+    "category": "525-550"
+  },
+  {
+    "language1": "543",
+    "language2": "pesado",
+    "phonetics": "pe-SA-do",
+    "example": "heavy",
+    "translation": "zwaar",
+    "category": "525-550"
+  },
+  {
+    "language1": "544",
+    "language2": "dança",
+    "phonetics": "DAN-ça",
+    "example": "dance",
+    "translation": "dans",
+    "category": "525-550"
+  },
+  {
+    "language1": "545",
+    "language2": "motor",
+    "phonetics": "mo-TOR",
+    "example": "engine",
+    "translation": "motor",
+    "category": "525-550"
+  },
+  {
+    "language1": "546",
+    "language2": "posição",
+    "phonetics": "po-si-ÇÃO",
+    "example": "position",
+    "translation": "positie",
+    "category": "525-550"
+  },
+  {
+    "language1": "547",
+    "language2": "braço",
+    "phonetics": "BRA-ço",
+    "example": "arm",
+    "translation": "arm",
+    "category": "525-550"
+  },
+  {
+    "language1": "548",
+    "language2": "ampla",
+    "phonetics": "AM-pla",
+    "example": "wide",
+    "translation": "breed",
+    "category": "525-550"
+  },
+  {
+    "language1": "549",
+    "language2": "vela",
+    "phonetics": "VE-la",
+    "example": "sail",
+    "translation": "zeil",
+    "category": "525-550"
+  },
+  {
+    "language1": "550",
+    "language2": "material de",
+    "phonetics": "materiAL DE",
+    "example": "material",
+    "translation": "materiaal",
+    "category": "550-575"
+  },
+  {
+    "language1": "551",
+    "language2": "fração",
+    "phonetics": "fraÇÃO",
+    "example": "fraction",
+    "translation": "breuk",
+    "category": "550-575"
+  },
+  {
+    "language1": "552",
+    "language2": "floresta",
+    "phonetics": "floREsta",
+    "example": "forest",
+    "translation": "bos",
+    "category": "550-575"
+  },
+  {
+    "language1": "553",
+    "language2": "sentar-se",
+    "phonetics": "senTAR-se",
+    "example": "sit",
+    "translation": "zitten",
+    "category": "550-575"
+  },
+  {
+    "language1": "554",
+    "language2": "corrida",
+    "phonetics": "corRIda",
+    "example": "race",
+    "translation": "wedstrijd",
+    "category": "550-575"
+  },
+  {
+    "language1": "555",
+    "language2": "janela",
+    "phonetics": "jaNEla",
+    "example": "window",
+    "translation": "raam",
+    "category": "550-575"
+  },
+  {
+    "language1": "556",
+    "language2": "loja",
+    "phonetics": "LOja",
+    "example": "store",
+    "translation": "winkel",
+    "category": "550-575"
+  },
+  {
+    "language1": "557",
+    "language2": "verão",
+    "phonetics": "veRÃO",
+    "example": "summer",
+    "translation": "zomer",
+    "category": "550-575"
+  },
+  {
+    "language1": "558",
+    "language2": "trem",
+    "phonetics": "TREM",
+    "example": "train",
+    "translation": "trein",
+    "category": "550-575"
+  },
+  {
+    "language1": "559",
+    "language2": "sono",
+    "phonetics": "SOno",
+    "example": "sleep",
+    "translation": "slaap",
+    "category": "550-575"
+  },
+  {
+    "language1": "560",
+    "language2": "provar",
+    "phonetics": "proVAR",
+    "example": "prove",
+    "translation": "bewijzen",
+    "category": "550-575"
+  },
+  {
+    "language1": "561",
+    "language2": "solitário",
+    "phonetics": "solitáRIO",
+    "example": "lone",
+    "translation": "alleen",
+    "category": "550-575"
+  },
+  {
+    "language1": "562",
+    "language2": "perna",
+    "phonetics": "PERna",
+    "example": "leg",
+    "translation": "been",
+    "category": "550-575"
+  },
+  {
+    "language1": "563",
+    "language2": "exercício",
+    "phonetics": "exerCÍcio",
+    "example": "exercise",
+    "translation": "oefening",
+    "category": "550-575"
+  },
+  {
+    "language1": "564",
+    "language2": "parede",
+    "phonetics": "paREde",
+    "example": "wall",
+    "translation": "muur",
+    "category": "550-575"
+  },
+  {
+    "language1": "565",
+    "language2": "captura",
+    "phonetics": "capTURA",
+    "example": "catch",
+    "translation": "vangen",
+    "category": "550-575"
+  },
+  {
+    "language1": "566",
+    "language2": "mount",
+    "phonetics": "MOUNT",
+    "example": "mount",
+    "translation": "berg",
+    "category": "550-575"
+  },
+  {
+    "language1": "567",
+    "language2": "desejo",
+    "phonetics": "deSEjo",
+    "example": "wish",
+    "translation": "wens",
+    "category": "550-575"
+  },
+  {
+    "language1": "568",
+    "language2": "céu",
+    "phonetics": "CÉU",
+    "example": "sky",
+    "translation": "hemel",
+    "category": "550-575"
+  },
+  {
+    "language1": "569",
+    "language2": "conselho",
+    "phonetics": "conSELho",
+    "example": "board",
+    "translation": "raad",
+    "category": "550-575"
+  },
+  {
+    "language1": "570",
+    "language2": "alegria",
+    "phonetics": "aleGRIA",
+    "example": "joy",
+    "translation": "vreugde",
+    "category": "550-575"
+  },
+  {
+    "language1": "571",
+    "language2": "inverno",
+    "phonetics": "inVERno",
+    "example": "winter",
+    "translation": "winter",
+    "category": "550-575"
+  },
+  {
+    "language1": "572",
+    "language2": "sat",
+    "phonetics": "SAT",
+    "example": "sat",
+    "translation": "zat",
+    "category": "550-575"
+  },
+  {
+    "language1": "573",
+    "language2": "escrito",
+    "phonetics": "esCRITo",
+    "example": "written",
+    "translation": "geschreven",
+    "category": "550-575"
+  },
+  {
+    "language1": "574",
+    "language2": "selvagem",
+    "phonetics": "selVAGEM",
+    "example": "wild",
+    "translation": "wild",
+    "category": "550-575"
+  },
+  {
+    "language1": "575",
+    "language2": "instrumento",
+    "phonetics": "instruMENto",
+    "example": "instrument",
+    "translation": "instrument",
+    "category": "575-600"
+  },
+  {
+    "language1": "576",
+    "language2": "guardado",
+    "phonetics": "guarDAdo",
+    "example": "kept",
+    "translation": "bewaard",
+    "category": "575-600"
+  },
+  {
+    "language1": "577",
+    "language2": "vidro",
+    "phonetics": "VEEdro",
+    "example": "glass",
+    "translation": "glas",
+    "category": "575-600"
+  },
+  {
+    "language1": "578",
+    "language2": "grama",
+    "phonetics": "GRAma",
+    "example": "grass",
+    "translation": "gras",
+    "category": "575-600"
+  },
+  {
+    "language1": "579",
+    "language2": "vaca",
+    "phonetics": "VAca",
+    "example": "cow",
+    "translation": "koe",
+    "category": "575-600"
+  },
+  {
+    "language1": "580",
+    "language2": "trabalho",
+    "phonetics": "traBAlho",
+    "example": "job",
+    "translation": "baan",
+    "category": "575-600"
+  },
+  {
+    "language1": "581",
+    "language2": "borda",
+    "phonetics": "BORda",
+    "example": "edge",
+    "translation": "rand",
+    "category": "575-600"
+  },
+  {
+    "language1": "582",
+    "language2": "sinal",
+    "phonetics": "siNAL",
+    "example": "sign",
+    "translation": "teken",
+    "category": "575-600"
+  },
+  {
+    "language1": "583",
+    "language2": "visita",
+    "phonetics": "viSIta",
+    "example": "visit",
+    "translation": "bezoek",
+    "category": "575-600"
+  },
+  {
+    "language1": "584",
+    "language2": "passado",
+    "phonetics": "pasSAdo",
+    "example": "past",
+    "translation": "verleden",
+    "category": "575-600"
+  },
+  {
+    "language1": "585",
+    "language2": "suave",
+    "phonetics": "SUAve",
+    "example": "soft",
+    "translation": "zacht",
+    "category": "575-600"
+  },
+  {
+    "language1": "586",
+    "language2": "diversão",
+    "phonetics": "diverSÃO",
+    "example": "fun",
+    "translation": "plezier",
+    "category": "575-600"
+  },
+  {
+    "language1": "587",
+    "language2": "brilhante",
+    "phonetics": "briLHanTE",
+    "example": "bright",
+    "translation": "helder",
+    "category": "575-600"
+  },
+  {
+    "language1": "588",
+    "language2": "gás",
+    "phonetics": "GAS",
+    "example": "gas",
+    "translation": "gas",
+    "category": "575-600"
+  },
+  {
+    "language1": "589",
+    "language2": "tempo",
+    "phonetics": "TEMpo",
+    "example": "weather",
+    "translation": "weer",
+    "category": "575-600"
+  },
+  {
+    "language1": "590",
+    "language2": "mês",
+    "phonetics": "MÊs",
+    "example": "month",
+    "translation": "maand",
+    "category": "575-600"
+  },
+  {
+    "language1": "591",
+    "language2": "milhão",
+    "phonetics": "milHÃO",
+    "example": "million",
+    "translation": "miljoen",
+    "category": "575-600"
+  },
+  {
+    "language1": "592",
+    "language2": "suportar",
+    "phonetics": "suPORtar",
+    "example": "bear",
+    "translation": "verdragen",
+    "category": "575-600"
+  },
+  {
+    "language1": "593",
+    "language2": "acabamento",
+    "phonetics": "acaBAmenTO",
+    "example": "finish",
+    "translation": "afwerking",
+    "category": "575-600"
+  },
+  {
+    "language1": "594",
+    "language2": "feliz",
+    "phonetics": "feLIZ",
+    "example": "happy",
+    "translation": "blij",
+    "category": "575-600"
+  },
+  {
+    "language1": "595",
+    "language2": "Esperamos",
+    "phonetics": "espeRAmos",
+    "example": "hope",
+    "translation": "hopen",
+    "category": "575-600"
+  },
+  {
+    "language1": "596",
+    "language2": "flor",
+    "phonetics": "FLOR",
+    "example": "flower",
+    "translation": "bloem",
+    "category": "575-600"
+  },
+  {
+    "language1": "597",
+    "language2": "vestir",
+    "phonetics": "vesTIR",
+    "example": "clothe",
+    "translation": "aankleden",
+    "category": "575-600"
+  },
+  {
+    "language1": "598",
+    "language2": "estranho",
+    "phonetics": "esTRANho",
+    "example": "strange",
+    "translation": "vreemd",
+    "category": "575-600"
+  },
+  {
+    "language1": "599",
+    "language2": "gone",
+    "phonetics": "GONE",
+    "example": "gone",
+    "translation": "weg",
+    "category": "575-600"
+  },
+  {
+    "language1": "600",
+    "language2": "comércio",
+    "phonetics": "co-MÉR-cio",
+    "example": "trade",
+    "translation": "handel",
+    "category": "600-625"
+  },
+  {
+    "language1": "601",
+    "language2": "melodia",
+    "phonetics": "me-lo-DI-a",
+    "example": "melody",
+    "translation": "melodie",
+    "category": "600-625"
+  },
+  {
+    "language1": "602",
+    "language2": "viagem",
+    "phonetics": "vi-A-gem",
+    "example": "trip",
+    "translation": "reis",
+    "category": "600-625"
+  },
+  {
+    "language1": "603",
+    "language2": "escritório",
+    "phonetics": "es-cri-TÓ-ri-o",
+    "example": "office",
+    "translation": "kantoor",
+    "category": "600-625"
+  },
+  {
+    "language1": "604",
+    "language2": "receber",
+    "phonetics": "re-ce-BER",
+    "example": "receive",
+    "translation": "ontvangen",
+    "category": "600-625"
+  },
+  {
+    "language1": "605",
+    "language2": "linha",
+    "phonetics": "LI-nha",
+    "example": "row",
+    "translation": "rij",
+    "category": "600-625"
+  },
+  {
+    "language1": "606",
+    "language2": "boca",
+    "phonetics": "BO-ca",
+    "example": "mouth",
+    "translation": "mond",
+    "category": "600-625"
+  },
+  {
+    "language1": "607",
+    "language2": "exata",
+    "phonetics": "e-XA-ta",
+    "example": "exact",
+    "translation": "exact",
+    "category": "600-625"
+  },
+  {
+    "language1": "608",
+    "language2": "símbolo",
+    "phonetics": "SÍM-bo-lo",
+    "example": "symbol",
+    "translation": "symbool",
+    "category": "600-625"
+  },
+  {
+    "language1": "609",
+    "language2": "morrer",
+    "phonetics": "mo-RRER",
+    "example": "die",
+    "translation": "sterven",
+    "category": "600-625"
+  },
+  {
+    "language1": "610",
+    "language2": "menos",
+    "phonetics": "ME-nos",
+    "example": "least",
+    "translation": "minst",
+    "category": "600-625"
+  },
+  {
+    "language1": "611",
+    "language2": "dificuldade",
+    "phonetics": "di-fi-cul-DA-de",
+    "example": "trouble",
+    "translation": "moeilijkheid",
+    "category": "600-625"
+  },
+  {
+    "language1": "612",
+    "language2": "grito",
+    "phonetics": "GRI-to",
+    "example": "shout",
+    "translation": "schreeuw",
+    "category": "600-625"
+  },
+  {
+    "language1": "613",
+    "language2": "exceto",
+    "phonetics": "ex-CE-to",
+    "example": "except",
+    "translation": "behalve",
+    "category": "600-625"
+  },
+  {
+    "language1": "614",
+    "language2": "escreveu",
+    "phonetics": "es-cre-VEU",
+    "example": "wrote",
+    "translation": "schreef",
+    "category": "600-625"
+  },
+  {
+    "language1": "615",
+    "language2": "semente",
+    "phonetics": "se-MEN-te",
+    "example": "seed",
+    "translation": "zaad",
+    "category": "600-625"
+  },
+  {
+    "language1": "616",
+    "language2": "tom",
+    "phonetics": "TOM",
+    "example": "tone",
+    "translation": "toon",
+    "category": "600-625"
+  },
+  {
+    "language1": "617",
+    "language2": "juntar-se",
+    "phonetics": "jun-TAR-se",
+    "example": "join",
+    "translation": "zich aansluiten",
+    "category": "600-625"
+  },
+  {
+    "language1": "618",
+    "language2": "sugerir",
+    "phonetics": "su-ge-RIR",
+    "example": "suggest",
+    "translation": "suggereren",
+    "category": "600-625"
+  },
+  {
+    "language1": "619",
+    "language2": "limpo",
+    "phonetics": "LIM-po",
+    "example": "clean",
+    "translation": "schoon",
+    "category": "600-625"
+  },
+  {
+    "language1": "620",
+    "language2": "pausa",
+    "phonetics": "PAU-sa",
+    "example": "break",
+    "translation": "pauze",
+    "category": "600-625"
+  },
+  {
+    "language1": "621",
+    "language2": "senhora",
+    "phonetics": "se-NHO-ra",
+    "example": "lady",
+    "translation": "dame",
+    "category": "600-625"
+  },
+  {
+    "language1": "622",
+    "language2": "quintal",
+    "phonetics": "quin-TAL",
+    "example": "yard",
+    "translation": "tuin",
+    "category": "600-625"
+  },
+  {
+    "language1": "623",
+    "language2": "subir",
+    "phonetics": "su-BIR",
+    "example": "rise",
+    "translation": "stijgen",
+    "category": "600-625"
+  },
+  {
+    "language1": "624",
+    "language2": "ruim",
+    "phonetics": "RU-im",
+    "example": "bad",
+    "translation": "slecht",
+    "category": "600-625"
+  },
+  {
+    "language1": "625",
+    "language2": "golpe",
+    "phonetics": "GÓLPE",
+    "example": "blow",
+    "translation": "slag",
+    "category": "625-650"
+  },
+  {
+    "language1": "626",
+    "language2": "óleo",
+    "phonetics": "ÓLEO",
+    "example": "oil",
+    "translation": "olie",
+    "category": "625-650"
+  },
+  {
+    "language1": "627",
+    "language2": "sangue",
+    "phonetics": "SÁNGUE",
+    "example": "blood",
+    "translation": "bloed",
+    "category": "625-650"
+  },
+  {
+    "language1": "628",
+    "language2": "tocar",
+    "phonetics": "TOCÁR",
+    "example": "touch",
+    "translation": "aanraken",
+    "category": "625-650"
+  },
+  {
+    "language1": "629",
+    "language2": "cresceu",
+    "phonetics": "CRESCÉU",
+    "example": "grew",
+    "translation": "groeide",
+    "category": "625-650"
+  },
+  {
+    "language1": "630",
+    "language2": "cento",
+    "phonetics": "CÉNTO",
+    "example": "cent",
+    "translation": "honderd",
+    "category": "625-650"
+  },
+  {
+    "language1": "631",
+    "language2": "misturar",
+    "phonetics": "MISTURÁR",
+    "example": "mix",
+    "translation": "mengen",
+    "category": "625-650"
+  },
+  {
+    "language1": "632",
+    "language2": "equipe",
+    "phonetics": "EQUÍPE",
+    "example": "team",
+    "translation": "team",
+    "category": "625-650"
+  },
+  {
+    "language1": "633",
+    "language2": "fio",
+    "phonetics": "FÍO",
+    "example": "wire",
+    "translation": "draad",
+    "category": "625-650"
+  },
+  {
+    "language1": "634",
+    "language2": "custo",
+    "phonetics": "CÚSTO",
+    "example": "cost",
+    "translation": "kosten",
+    "category": "625-650"
+  },
+  {
+    "language1": "635",
+    "language2": "perdido",
+    "phonetics": "PERDÍDO",
+    "example": "lost",
+    "translation": "verloren",
+    "category": "625-650"
+  },
+  {
+    "language1": "636",
+    "language2": "marrom",
+    "phonetics": "MARRÓM",
+    "example": "brown",
+    "translation": "bruin",
+    "category": "625-650"
+  },
+  {
+    "language1": "637",
+    "language2": "desgaste",
+    "phonetics": "DESGÁSTE",
+    "example": "wear",
+    "translation": "slijtage",
+    "category": "625-650"
+  },
+  {
+    "language1": "638",
+    "language2": "jardim",
+    "phonetics": "JARDÍM",
+    "example": "garden",
+    "translation": "tuin",
+    "category": "625-650"
+  },
+  {
+    "language1": "639",
+    "language2": "igual",
+    "phonetics": "IGUÁL",
+    "example": "equal",
+    "translation": "gelijk",
+    "category": "625-650"
+  },
+  {
+    "language1": "640",
+    "language2": "enviado",
+    "phonetics": "ENVIÁDO",
+    "example": "sent",
+    "translation": "verzonden",
+    "category": "625-650"
+  },
+  {
+    "language1": "641",
+    "language2": "escolher",
+    "phonetics": "ESCOLHÉR",
+    "example": "choose",
+    "translation": "kiezen",
+    "category": "625-650"
+  },
+  {
+    "language1": "642",
+    "language2": "caiu",
+    "phonetics": "CAÍU",
+    "example": "fell",
+    "translation": "viel",
+    "category": "625-650"
+  },
+  {
+    "language1": "643",
+    "language2": "caber",
+    "phonetics": "CABÉR",
+    "example": "fit",
+    "translation": "passen",
+    "category": "625-650"
+  },
+  {
+    "language1": "644",
+    "language2": "fluir",
+    "phonetics": "FLUÍR",
+    "example": "flow",
+    "translation": "stromen",
+    "category": "625-650"
+  },
+  {
+    "language1": "645",
+    "language2": "feira",
+    "phonetics": "FEÍRA",
+    "example": "fair",
+    "translation": "markt",
+    "category": "625-650"
+  },
+  {
+    "language1": "646",
+    "language2": "banco",
+    "phonetics": "BÁNCO",
+    "example": "bank",
+    "translation": "bank",
+    "category": "625-650"
+  },
+  {
+    "language1": "647",
+    "language2": "recolher",
+    "phonetics": "RECOLHÉR",
+    "example": "collect",
+    "translation": "verzamelen",
+    "category": "625-650"
+  },
+  {
+    "language1": "648",
+    "language2": "salvar",
+    "phonetics": "SALVÁR",
+    "example": "save",
+    "translation": "opslaan",
+    "category": "625-650"
+  },
+  {
+    "language1": "649",
+    "language2": "controle",
+    "phonetics": "CONTRÓLE",
+    "example": "control",
+    "translation": "controle",
+    "category": "625-650"
+  },
+  {
+    "language1": "650",
+    "language2": "decimal",
+    "phonetics": "",
+    "example": "decimal",
+    "translation": "",
+    "category": "650-675"
+  },
+  {
+    "language1": "651",
+    "language2": "ouvido",
+    "phonetics": "OU-vi-do",
+    "example": "ear",
+    "translation": "oor",
+    "category": "650-675"
+  },
+  {
+    "language1": "652",
+    "language2": "mais",
+    "phonetics": "MAIS",
+    "example": "else",
+    "translation": "meer",
+    "category": "650-675"
+  },
+  {
+    "language1": "653",
+    "language2": "bastante",
+    "phonetics": "bas-TAN-te",
+    "example": "quite",
+    "translation": "tamelijk",
+    "category": "650-675"
+  },
+  {
+    "language1": "654",
+    "language2": "quebrado",
+    "phonetics": "que-BRA-do",
+    "example": "broke",
+    "translation": "gebroken",
+    "category": "650-675"
+  },
+  {
+    "language1": "655",
+    "language2": "caso",
+    "phonetics": "CA-so",
+    "example": "case",
+    "translation": "geval",
+    "category": "650-675"
+  },
+  {
+    "language1": "656",
+    "language2": "meio",
+    "phonetics": "MEI-o",
+    "example": "middle",
+    "translation": "midden",
+    "category": "650-675"
+  },
+  {
+    "language1": "657",
+    "language2": "matar",
+    "phonetics": "ma-TAR",
+    "example": "kill",
+    "translation": "doden",
+    "category": "650-675"
+  },
+  {
+    "language1": "658",
+    "language2": "filho",
+    "phonetics": "FI-lho",
+    "example": "son",
+    "translation": "zoon",
+    "category": "650-675"
+  },
+  {
+    "language1": "659",
+    "language2": "lago",
+    "phonetics": "LA-go",
+    "example": "lake",
+    "translation": "meer",
+    "category": "650-675"
+  },
+  {
+    "language1": "660",
+    "language2": "momento",
+    "phonetics": "mo-MEN-to",
+    "example": "moment",
+    "translation": "moment",
+    "category": "650-675"
+  },
+  {
+    "language1": "661",
+    "language2": "escala",
+    "phonetics": "es-CA-la",
+    "example": "scale",
+    "translation": "schaal",
+    "category": "650-675"
+  },
+  {
+    "language1": "662",
+    "language2": "alto",
+    "phonetics": "AL-to",
+    "example": "loud",
+    "translation": "luid",
+    "category": "650-675"
+  },
+  {
+    "language1": "663",
+    "language2": "primavera",
+    "phonetics": "pri-ma-VE-ra",
+    "example": "spring",
+    "translation": "lente",
+    "category": "650-675"
+  },
+  {
+    "language1": "664",
+    "language2": "observar",
+    "phonetics": "ob-ser-VAR",
+    "example": "observe",
+    "translation": "observeren",
+    "category": "650-675"
+  },
+  {
+    "language1": "665",
+    "language2": "criança",
+    "phonetics": "cri-AN-ça",
+    "example": "child",
+    "translation": "kind",
+    "category": "650-675"
+  },
+  {
+    "language1": "666",
+    "language2": "reta",
+    "phonetics": "RE-ta",
+    "example": "straight",
+    "translation": "recht",
+    "category": "650-675"
+  },
+  {
+    "language1": "667",
+    "language2": "consoante",
+    "phonetics": "con-so-AN-te",
+    "example": "consonant",
+    "translation": "medeklinker",
+    "category": "650-675"
+  },
+  {
+    "language1": "668",
+    "language2": "nação",
+    "phonetics": "na-ÇÃO",
+    "example": "nation",
+    "translation": "natie",
+    "category": "650-675"
+  },
+  {
+    "language1": "669",
+    "language2": "dicionário",
+    "phonetics": "di-ci-o-NÁ-rio",
+    "example": "dictionary",
+    "translation": "woordenboek",
+    "category": "650-675"
+  },
+  {
+    "language1": "670",
+    "language2": "leite",
+    "phonetics": "LEI-te",
+    "example": "milk",
+    "translation": "melk",
+    "category": "650-675"
+  },
+  {
+    "language1": "671",
+    "language2": "velocidade",
+    "phonetics": "ve-lo-ci-DA-de",
+    "example": "speed",
+    "translation": "snelheid",
+    "category": "650-675"
+  },
+  {
+    "language1": "672",
+    "language2": "método",
+    "phonetics": "MÉ-to-do",
+    "example": "method",
+    "translation": "methode",
+    "category": "650-675"
+  },
+  {
+    "language1": "673",
+    "language2": "órgão",
+    "phonetics": "ÓR-gão",
+    "example": "organ",
+    "translation": "orgaan",
+    "category": "650-675"
+  },
+  {
+    "language1": "674",
+    "language2": "pagar",
+    "phonetics": "pa-GAR",
+    "example": "pay",
+    "translation": "betalen",
+    "category": "650-675"
+  },
+  {
+    "language1": "676",
+    "language2": "seção",
+    "phonetics": "se-ÇÃO",
+    "example": "section",
+    "translation": "sectie",
+    "category": "676-700"
+  },
+  {
+    "language1": "677",
+    "language2": "vestido",
+    "phonetics": "ves-TI-do",
+    "example": "dress",
+    "translation": "jurk",
+    "category": "676-700"
+  },
+  {
+    "language1": "678",
+    "language2": "nuvem",
+    "phonetics": "NU-vem",
+    "example": "cloud",
+    "translation": "wolk",
+    "category": "676-700"
+  },
+  {
+    "language1": "679",
+    "language2": "surpresa",
+    "phonetics": "sur-PRE-sa",
+    "example": "surprise",
+    "translation": "verrassing",
+    "category": "676-700"
+  },
+  {
+    "language1": "680",
+    "language2": "calma",
+    "phonetics": "CAL-ma",
+    "example": "quiet",
+    "translation": "rust",
+    "category": "676-700"
+  },
+  {
+    "language1": "681",
+    "language2": "pedra",
+    "phonetics": "PE-dra",
+    "example": "stone",
+    "translation": "steen",
+    "category": "676-700"
+  },
+  {
+    "language1": "682",
+    "language2": "minúsculo",
+    "phonetics": "mi-NÚ-scu-lo",
+    "example": "tiny",
+    "translation": "heel klein",
+    "category": "676-700"
+  },
+  {
+    "language1": "683",
+    "language2": "subida",
+    "phonetics": "su-BI-da",
+    "example": "climb",
+    "translation": "stijging",
+    "category": "676-700"
+  },
+  {
+    "language1": "684",
+    "language2": "legal",
+    "phonetics": "le-GAL",
+    "example": "cool",
+    "translation": "leuk",
+    "category": "676-700"
+  },
+  {
+    "language1": "685",
+    "language2": "projeto",
+    "phonetics": "pro-JE-to",
+    "example": "design",
+    "translation": "ontwerp",
+    "category": "676-700"
+  },
+  {
+    "language1": "686",
+    "language2": "pobre",
+    "phonetics": "PO-bre",
+    "example": "poor",
+    "translation": "arm",
+    "category": "676-700"
+  },
+  {
+    "language1": "687",
+    "language2": "muito",
+    "phonetics": "MUI-to",
+    "example": "lot",
+    "translation": "veel",
+    "category": "676-700"
+  },
+  {
+    "language1": "688",
+    "language2": "experiência",
+    "phonetics": "ex-pe-ri-ÊN-cia",
+    "example": "experiment",
+    "translation": "ervaring",
+    "category": "676-700"
+  },
+  {
+    "language1": "689",
+    "language2": "inferior",
+    "phonetics": "in-fe-RI-or",
+    "example": "bottom",
+    "translation": "onderste",
+    "category": "676-700"
+  },
+  {
+    "language1": "690",
+    "language2": "chave",
+    "phonetics": "CHA-ve",
+    "example": "key",
+    "translation": "sleutel",
+    "category": "676-700"
+  },
+  {
+    "language1": "691",
+    "language2": "ferro",
+    "phonetics": "FER-ro",
+    "example": "iron",
+    "translation": "ijzer",
+    "category": "676-700"
+  },
+  {
+    "language1": "692",
+    "language2": "único",
+    "phonetics": "Ú-ni-co",
+    "example": "single",
+    "translation": "enige",
+    "category": "676-700"
+  },
+  {
+    "language1": "693",
+    "language2": "vara",
+    "phonetics": "VA-ra",
+    "example": "stick",
+    "translation": "stok",
+    "category": "676-700"
+  },
+  {
+    "language1": "694",
+    "language2": "plana",
+    "phonetics": "PLA-na",
+    "example": "flat",
+    "translation": "vlak",
+    "category": "676-700"
+  },
+  {
+    "language1": "695",
+    "language2": "vinte",
+    "phonetics": "VIN-te",
+    "example": "twenty",
+    "translation": "twintig",
+    "category": "676-700"
+  },
+  {
+    "language1": "696",
+    "language2": "pele",
+    "phonetics": "PE-le",
+    "example": "skin",
+    "translation": "huid",
+    "category": "676-700"
+  },
+  {
+    "language1": "697",
+    "language2": "sorriso",
+    "phonetics": "sor-RI-so",
+    "example": "smile",
+    "translation": "glimlach",
+    "category": "676-700"
+  },
+  {
+    "language1": "698",
+    "language2": "vinco",
+    "phonetics": "VIN-co",
+    "example": "crease",
+    "translation": "plooi",
+    "category": "676-700"
+  },
+  {
+    "language1": "699",
+    "language2": "buraco",
+    "phonetics": "bu-RA-co",
+    "example": "hole",
+    "translation": "gat",
+    "category": "676-700"
+  },
+  {
+    "language1": "700",
+    "language2": "saltar",
+    "phonetics": "sal-TAR",
+    "example": "jump",
+    "translation": "springen",
+    "category": "676-700"
+  },
+  {
+    "language1": "701",
+    "language2": "bebê",
+    "phonetics": "be-BÊ",
+    "example": "baby",
+    "translation": "baby",
+    "category": "701-725"
+  },
+  {
+    "language1": "702",
+    "language2": "oito",
+    "phonetics": "OI-to",
+    "example": "eight",
+    "translation": "acht",
+    "category": "701-725"
+  },
+  {
+    "language1": "703",
+    "language2": "aldeia",
+    "phonetics": "al-DEI-a",
+    "example": "village",
+    "translation": "dorp",
+    "category": "701-725"
+  },
+  {
+    "language1": "704",
+    "language2": "meet",
+    "phonetics": "",
+    "example": "meet",
+    "translation": "",
+    "category": "701-725"
+  },
+  {
+    "language1": "705",
+    "language2": "raiz",
+    "phonetics": "ra-IZ",
+    "example": "root",
+    "translation": "wortel",
+    "category": "701-725"
+  },
+  {
+    "language1": "706",
+    "language2": "comprar",
+    "phonetics": "com-PRAR",
+    "example": "buy",
+    "translation": "kopen",
+    "category": "701-725"
+  },
+  {
+    "language1": "707",
+    "language2": "levantar",
+    "phonetics": "le-van-TAR",
+    "example": "raise",
+    "translation": "optillen",
+    "category": "701-725"
+  },
+  {
+    "language1": "708",
+    "language2": "resolver",
+    "phonetics": "re-so-LVER",
+    "example": "solve",
+    "translation": "oplossen",
+    "category": "701-725"
+  },
+  {
+    "language1": "709",
+    "language2": "de metal",
+    "phonetics": "de me-TAL",
+    "example": "metal",
+    "translation": "van metaal",
+    "category": "701-725"
+  },
+  {
+    "language1": "710",
+    "language2": "se",
+    "phonetics": "SE",
+    "example": "whether",
+    "translation": "als",
+    "category": "701-725"
+  },
+  {
+    "language1": "711",
+    "language2": "empurre",
+    "phonetics": "em-PUR-re",
+    "example": "push",
+    "translation": "duwen",
+    "category": "701-725"
+  },
+  {
+    "language1": "712",
+    "language2": "sete",
+    "phonetics": "SE-te",
+    "example": "seven",
+    "translation": "zeven",
+    "category": "701-725"
+  },
+  {
+    "language1": "713",
+    "language2": "parágrafo",
+    "phonetics": "pa-RÁ-gra-fo",
+    "example": "paragraph",
+    "translation": "paragraaf",
+    "category": "701-725"
+  },
+  {
+    "language1": "714",
+    "language2": "terceiro",
+    "phonetics": "ter-CEI-ro",
+    "example": "third",
+    "translation": "derde",
+    "category": "701-725"
+  },
+  {
+    "language1": "715",
+    "language2": "deve",
+    "phonetics": "DE-ve",
+    "example": "shall",
+    "translation": "moet",
+    "category": "701-725"
+  },
+  {
+    "language1": "716",
+    "language2": "held",
+    "phonetics": "",
+    "example": "held",
+    "translation": "",
+    "category": "701-725"
+  },
+  {
+    "language1": "717",
+    "language2": "cabelo",
+    "phonetics": "ca-BE-lo",
+    "example": "hair",
+    "translation": "haar",
+    "category": "701-725"
+  },
+  {
+    "language1": "718",
+    "language2": "descrever",
+    "phonetics": "des-cre-VER",
+    "example": "describe",
+    "translation": "beschrijven",
+    "category": "701-725"
+  },
+  {
+    "language1": "719",
+    "language2": "cozinheiro",
+    "phonetics": "co-zi-NHEI-ro",
+    "example": "cook",
+    "translation": "kok",
+    "category": "701-725"
+  },
+  {
+    "language1": "720",
+    "language2": "piso",
+    "phonetics": "PI-so",
+    "example": "floor",
+    "translation": "vloer",
+    "category": "701-725"
+  },
+  {
+    "language1": "721",
+    "language2": "ou",
+    "phonetics": "OU",
+    "example": "either",
+    "translation": "of",
+    "category": "701-725"
+  },
+  {
+    "language1": "722",
+    "language2": "resultado",
+    "phonetics": "re-sul-TA-do",
+    "example": "result",
+    "translation": "resultaat",
+    "category": "701-725"
+  },
+  {
+    "language1": "723",
+    "language2": "queimar",
+    "phonetics": "quei-MAR",
+    "example": "burn",
+    "translation": "verbranden",
+    "category": "701-725"
+  },
+  {
+    "language1": "724",
+    "language2": "hill",
+    "phonetics": "",
+    "example": "hill",
+    "translation": "",
+    "category": "701-725"
+  },
+  {
+    "language1": "725",
+    "language2": "seguro",
+    "phonetics": "se-GU-ro",
+    "example": "safe",
+    "translation": "veilig",
+    "category": "701-725"
+  },
+  {
+    "language1": "726",
+    "language2": "cat",
+    "phonetics": "",
+    "example": "cat",
+    "translation": "",
+    "category": "725-750"
+  },
+  {
+    "language1": "727",
+    "language2": "século",
+    "phonetics": "SÉ-cu-lo",
+    "example": "century",
+    "translation": "eeuw",
+    "category": "725-750"
+  },
+  {
+    "language1": "728",
+    "language2": "considerar",
+    "phonetics": "con-si-de-RAR",
+    "example": "consider",
+    "translation": "overwegen",
+    "category": "725-750"
+  },
+  {
+    "language1": "729",
+    "language2": "tipo",
+    "phonetics": "TI-po",
+    "example": "type",
+    "translation": "soort",
+    "category": "725-750"
+  },
+  {
+    "language1": "730",
+    "language2": "direito",
+    "phonetics": "di-REI-to",
+    "example": "law",
+    "translation": "wet",
+    "category": "725-750"
+  },
+  {
+    "language1": "731",
+    "language2": "bit",
+    "phonetics": "",
+    "example": "bit",
+    "translation": "",
+    "category": "725-750"
+  },
+  {
+    "language1": "732",
+    "language2": "costa",
+    "phonetics": "COS-ta",
+    "example": "coast",
+    "translation": "kust",
+    "category": "725-750"
+  },
+  {
+    "language1": "733",
+    "language2": "cópia",
+    "phonetics": "CÓ-pi-a",
+    "example": "copy",
+    "translation": "kopie",
+    "category": "725-750"
+  },
+  {
+    "language1": "734",
+    "language2": "frase",
+    "phonetics": "FRA-ze",
+    "example": "phrase",
+    "translation": "zin",
+    "category": "725-750"
+  },
+  {
+    "language1": "735",
+    "language2": "silenciosa",
+    "phonetics": "si-len-ci-O-sa",
+    "example": "silent",
+    "translation": "stil",
+    "category": "725-750"
+  },
+  {
+    "language1": "736",
+    "language2": "alto",
+    "phonetics": "AL-to",
+    "example": "tall",
+    "translation": "lang",
+    "category": "725-750"
+  },
+  {
+    "language1": "737",
+    "language2": "areia",
+    "phonetics": "a-REI-a",
+    "example": "sand",
+    "translation": "zand",
+    "category": "725-750"
+  },
+  {
+    "language1": "738",
+    "language2": "solo",
+    "phonetics": "SO-lo",
+    "example": "soil",
+    "translation": "bodem",
+    "category": "725-750"
+  },
+  {
+    "language1": "739",
+    "language2": "rolo",
+    "phonetics": "RO-lo",
+    "example": "roll",
+    "translation": "rol",
+    "category": "725-750"
+  },
+  {
+    "language1": "740",
+    "language2": "temperatura",
+    "phonetics": "tem-pe-ra-TU-ra",
+    "example": "temperature",
+    "translation": "temperatuur",
+    "category": "725-750"
+  },
+  {
+    "language1": "741",
+    "language2": "dedo",
+    "phonetics": "DE-do",
+    "example": "finger",
+    "translation": "vinger",
+    "category": "725-750"
+  },
+  {
+    "language1": "742",
+    "language2": "indústria",
+    "phonetics": "in-DÚS-tri-a",
+    "example": "industry",
+    "translation": "industrie",
+    "category": "725-750"
+  },
+  {
+    "language1": "743",
+    "language2": "valor",
+    "phonetics": "va-LOR",
+    "example": "value",
+    "translation": "waarde",
+    "category": "725-750"
+  },
+  {
+    "language1": "744",
+    "language2": "luta",
+    "phonetics": "LU-ta",
+    "example": "fight",
+    "translation": "gevecht",
+    "category": "725-750"
+  },
+  {
+    "language1": "745",
+    "language2": "mentira",
+    "phonetics": "men-TI-ra",
+    "example": "lie",
+    "translation": "leugen",
+    "category": "725-750"
+  },
+  {
+    "language1": "746",
+    "language2": "bater",
+    "phonetics": "ba-TER",
+    "example": "beat",
+    "translation": "slaan",
+    "category": "725-750"
+  },
+  {
+    "language1": "747",
+    "language2": "excitar",
+    "phonetics": "ex-ci-TAR",
+    "example": "excite",
+    "translation": "opwinden",
+    "category": "725-750"
+  },
+  {
+    "language1": "748",
+    "language2": "naturais",
+    "phonetics": "na-tu-RAIS",
+    "example": "natural",
+    "translation": "natuurlijk",
+    "category": "725-750"
+  },
+  {
+    "language1": "749",
+    "language2": "vista",
+    "phonetics": "VIS-ta",
+    "example": "view",
+    "translation": "uitzicht",
+    "category": "725-750"
+  },
+  {
+    "language1": "750",
+    "language2": "sentido",
+    "phonetics": "sen-TI-do",
+    "example": "sense",
+    "translation": "zin",
+    "category": "750-775"
+  },
+  {
+    "language1": "751",
+    "language2": "capital",
+    "phonetics": "ca-pi-TAL",
+    "example": "capital",
+    "translation": "hoofdstad",
+    "category": "750-775"
+  },
+  {
+    "language1": "752",
+    "language2": "não vai",
+    "phonetics": "NÃO vai",
+    "example": "won’t",
+    "translation": "zal niet",
+    "category": "750-775"
+  },
+  {
+    "language1": "753",
+    "language2": "cadeira",
+    "phonetics": "ca-DEI-ra",
+    "example": "chair",
+    "translation": "stoel",
+    "category": "750-775"
+  },
+  {
+    "language1": "754",
+    "language2": "perigo",
+    "phonetics": "pe-RI-go",
+    "example": "danger",
+    "translation": "gevaar",
+    "category": "750-775"
+  },
+  {
+    "language1": "755",
+    "language2": "frutas",
+    "phonetics": "FRU-tas",
+    "example": "fruit",
+    "translation": "fruit",
+    "category": "750-775"
+  },
+  {
+    "language1": "756",
+    "language2": "rico",
+    "phonetics": "RI-co",
+    "example": "rich",
+    "translation": "rijk",
+    "category": "750-775"
+  },
+  {
+    "language1": "757",
+    "language2": "grossa",
+    "phonetics": "GROS-sa",
+    "example": "thick",
+    "translation": "dik",
+    "category": "750-775"
+  },
+  {
+    "language1": "758",
+    "language2": "soldado",
+    "phonetics": "sol-DA-do",
+    "example": "soldier",
+    "translation": "soldaat",
+    "category": "750-775"
+  },
+  {
+    "language1": "759",
+    "language2": "processo",
+    "phonetics": "pro-CES-so",
+    "example": "process",
+    "translation": "proces",
+    "category": "750-775"
+  },
+  {
+    "language1": "760",
+    "language2": "operar",
+    "phonetics": "o-pe-RAR",
+    "example": "operate",
+    "translation": "opereren",
+    "category": "750-775"
+  },
+  {
+    "language1": "761",
+    "language2": "prática",
+    "phonetics": "PRÁ-ti-ca",
+    "example": "practice",
+    "translation": "oefening",
+    "category": "750-775"
+  },
+  {
+    "language1": "762",
+    "language2": "separado",
+    "phonetics": "se-pa-RA-do",
+    "example": "separate",
+    "translation": "gescheiden",
+    "category": "750-775"
+  },
+  {
+    "language1": "763",
+    "language2": "difícil",
+    "phonetics": "di-FÍ-cil",
+    "example": "difficult",
+    "translation": "moeilijk",
+    "category": "750-775"
+  },
+  {
+    "language1": "764",
+    "language2": "médico",
+    "phonetics": "MÉ-di-co",
+    "example": "doctor",
+    "translation": "dokter",
+    "category": "750-775"
+  },
+  {
+    "language1": "765",
+    "language2": "por favor",
+    "phonetics": "por fa-VOR",
+    "example": "please",
+    "translation": "alsjeblieft",
+    "category": "750-775"
+  },
+  {
+    "language1": "766",
+    "language2": "proteger",
+    "phonetics": "pro-te-GER",
+    "example": "protect",
+    "translation": "beschermen",
+    "category": "750-775"
+  },
+  {
+    "language1": "767",
+    "language2": "meio-dia",
+    "phonetics": "MEI-o-DI-a",
+    "example": "noon",
+    "translation": "middag",
+    "category": "750-775"
+  },
+  {
+    "language1": "768",
+    "language2": "colheita",
+    "phonetics": "co-LHEI-ta",
+    "example": "crop",
+    "translation": "oogst",
+    "category": "750-775"
+  },
+  {
+    "language1": "769",
+    "language2": "moderno",
+    "phonetics": "mo-DER-no",
+    "example": "modern",
+    "translation": "modern",
+    "category": "750-775"
+  },
+  {
+    "language1": "770",
+    "language2": "elemento",
+    "phonetics": "e-le-MEN-to",
+    "example": "element",
+    "translation": "element",
+    "category": "750-775"
+  },
+  {
+    "language1": "771",
+    "language2": "acertar",
+    "phonetics": "a-cer-TAR",
+    "example": "hit",
+    "translation": "raken",
+    "category": "750-775"
+  },
+  {
+    "language1": "772",
+    "language2": "estudante",
+    "phonetics": "es-tu-DAN-te",
+    "example": "student",
+    "translation": "student",
+    "category": "750-775"
+  },
+  {
+    "language1": "773",
+    "language2": "canto",
+    "phonetics": "CAN-to",
+    "example": "corner",
+    "translation": "hoek",
+    "category": "750-775"
+  },
+  {
+    "language1": "774",
+    "language2": "festa",
+    "phonetics": "FES-ta",
+    "example": "party",
+    "translation": "feest",
+    "category": "750-775"
+  },
+  {
+    "language1": "76",
+    "language2": "siga",
+    "phonetics": "",
+    "example": "follow",
+    "translation": "volgen",
+    "category": "76-100"
+  },
+  {
+    "language1": "77",
+    "language2": "ato",
+    "phonetics": "",
+    "example": "act",
+    "translation": "handelen",
+    "category": "76-100"
+  },
+  {
+    "language1": "78",
+    "language2": "por que",
+    "phonetics": "",
+    "example": "why",
+    "translation": "waarom",
+    "category": "76-100"
+  },
+  {
+    "language1": "79",
+    "language2": "perguntar",
+    "phonetics": "",
+    "example": "ask",
+    "translation": "vragen",
+    "category": "76-100"
+  },
+  {
+    "language1": "80",
+    "language2": "homens",
+    "phonetics": "",
+    "example": "men",
+    "translation": "mannen",
+    "category": "76-100"
+  },
+  {
+    "language1": "81",
+    "language2": "mudança",
+    "phonetics": "",
+    "example": "change",
+    "translation": "verandering",
+    "category": "76-100"
+  },
+  {
+    "language1": "82",
+    "language2": "fui",
+    "phonetics": "",
+    "example": "went",
+    "translation": "ging",
+    "category": "76-100"
+  },
+  {
+    "language1": "83",
+    "language2": "luz",
+    "phonetics": "",
+    "example": "light",
+    "translation": "licht",
+    "category": "76-100"
+  },
+  {
+    "language1": "84",
+    "language2": "tipo",
+    "phonetics": "",
+    "example": "kind",
+    "translation": "soort",
+    "category": "76-100"
+  },
+  {
+    "language1": "85",
+    "language2": "off",
+    "phonetics": "",
+    "example": "off",
+    "translation": "uit",
+    "category": "76-100"
+  },
+  {
+    "language1": "86",
+    "language2": "precisa",
+    "phonetics": "",
+    "example": "need",
+    "translation": "nodig hebben",
+    "category": "76-100"
+  },
+  {
+    "language1": "87",
+    "language2": "casa",
+    "phonetics": "",
+    "example": "house",
+    "translation": "huis",
+    "category": "76-100"
+  },
+  {
+    "language1": "88",
+    "language2": "imagem",
+    "phonetics": "",
+    "example": "picture",
+    "translation": "afbeelding",
+    "category": "76-100"
+  },
+  {
+    "language1": "89",
+    "language2": "tentar",
+    "phonetics": "",
+    "example": "try",
+    "translation": "proberen",
+    "category": "76-100"
+  },
+  {
+    "language1": "90",
+    "language2": "nós",
+    "phonetics": "",
+    "example": "us",
+    "translation": "ons",
+    "category": "76-100"
+  },
+  {
+    "language1": "91",
+    "language2": "novamente",
+    "phonetics": "",
+    "example": "again",
+    "translation": "opnieuw",
+    "category": "76-100"
+  },
+  {
+    "language1": "92",
+    "language2": "animais",
+    "phonetics": "",
+    "example": "animal",
+    "translation": "dier",
+    "category": "76-100"
+  },
+  {
+    "language1": "93",
+    "language2": "ponto",
+    "phonetics": "",
+    "example": "point",
+    "translation": "punt",
+    "category": "76-100"
+  },
+  {
+    "language1": "94",
+    "language2": "mãe",
+    "phonetics": "",
+    "example": "mother",
+    "translation": "moeder",
+    "category": "76-100"
+  },
+  {
+    "language1": "95",
+    "language2": "mundo",
+    "phonetics": "",
+    "example": "world",
+    "translation": "wereld",
+    "category": "76-100"
+  },
+  {
+    "language1": "96",
+    "language2": "perto",
+    "phonetics": "",
+    "example": "near",
+    "translation": "dichtbij",
+    "category": "76-100"
+  },
+  {
+    "language1": "97",
+    "language2": "construir",
+    "phonetics": "",
+    "example": "build",
+    "translation": "bouwen",
+    "category": "76-100"
+  },
+  {
+    "language1": "98",
+    "language2": "auto",
+    "phonetics": "",
+    "example": "self",
+    "translation": "zelf",
+    "category": "76-100"
+  },
+  {
+    "language1": "99",
+    "language2": "terra",
+    "phonetics": "",
+    "example": "earth",
+    "translation": "aarde",
+    "category": "76-100"
+  },
+  {
+    "language1": "100",
+    "language2": "pai",
+    "phonetics": "",
+    "example": "father",
+    "translation": "vader",
+    "category": "76-100"
+  },
+  {
+    "language1": "775",
+    "language2": "fornecimento",
+    "phonetics": "for-ne-ci-MEN-to",
+    "example": "supply",
+    "translation": "levering",
+    "category": "775-800"
+  },
+  {
+    "language1": "776",
+    "language2": "cuja",
+    "phonetics": "CU-ja",
+    "example": "whose",
+    "translation": "wiens",
+    "category": "775-800"
+  },
+  {
+    "language1": "777",
+    "language2": "localizar",
+    "phonetics": "lo-ca-li-ZAR",
+    "example": "locate",
+    "translation": "lokaliseren",
+    "category": "775-800"
+  },
+  {
+    "language1": "778",
+    "language2": "anel",
+    "phonetics": "a-NEL",
+    "example": "ring",
+    "translation": "ring",
+    "category": "775-800"
+  },
+  {
+    "language1": "779",
+    "language2": "caráter",
+    "phonetics": "ca-RÁ-ter",
+    "example": "character",
+    "translation": "karakter",
+    "category": "775-800"
+  },
+  {
+    "language1": "780",
+    "language2": "inseto",
+    "phonetics": "in-SE-to",
+    "example": "insect",
+    "translation": "insect",
+    "category": "775-800"
+  },
+  {
+    "language1": "781",
+    "language2": "capturados",
+    "phonetics": "cap-tu-RA-dos",
+    "example": "caught",
+    "translation": "gevangen",
+    "category": "775-800"
+  },
+  {
+    "language1": "782",
+    "language2": "período",
+    "phonetics": "pe-RÍ-o-do",
+    "example": "period",
+    "translation": "periode",
+    "category": "775-800"
+  },
+  {
+    "language1": "783",
+    "language2": "indicam",
+    "phonetics": "in-DI-cam",
+    "example": "indicate",
+    "translation": "aangeven",
+    "category": "775-800"
+  },
+  {
+    "language1": "784",
+    "language2": "rádio",
+    "phonetics": "RÁ-dio",
+    "example": "radio",
+    "translation": "radio",
+    "category": "775-800"
+  },
+  {
+    "language1": "785",
+    "language2": "falou",
+    "phonetics": "fa-LOU",
+    "example": "spoke",
+    "translation": "sprak",
+    "category": "775-800"
+  },
+  {
+    "language1": "786",
+    "language2": "átomo",
+    "phonetics": "Á-to-mo",
+    "example": "atom",
+    "translation": "atoom",
+    "category": "775-800"
+  },
+  {
+    "language1": "787",
+    "language2": "humano",
+    "phonetics": "hu-MA-no",
+    "example": "human",
+    "translation": "menselijk",
+    "category": "775-800"
+  },
+  {
+    "language1": "788",
+    "language2": "história",
+    "phonetics": "his-TÓ-ria",
+    "example": "history",
+    "translation": "geschiedenis",
+    "category": "775-800"
+  },
+  {
+    "language1": "789",
+    "language2": "efeito",
+    "phonetics": "e-FEI-to",
+    "example": "effect",
+    "translation": "effect",
+    "category": "775-800"
+  },
+  {
+    "language1": "790",
+    "language2": "elétrica",
+    "phonetics": "e-LÉ-tri-ca",
+    "example": "electric",
+    "translation": "elektrisch",
+    "category": "775-800"
+  },
+  {
+    "language1": "791",
+    "language2": "esperar",
+    "phonetics": "es-pe-RAR",
+    "example": "expect",
+    "translation": "verwachten",
+    "category": "775-800"
+  },
+  {
+    "language1": "792",
+    "language2": "osso",
+    "phonetics": "O-sso",
+    "example": "bone",
+    "translation": "bot",
+    "category": "775-800"
+  },
+  {
+    "language1": "793",
+    "language2": "trilho",
+    "phonetics": "TRI-lho",
+    "example": "rail",
+    "translation": "rail",
+    "category": "775-800"
+  },
+  {
+    "language1": "794",
+    "language2": "imaginar",
+    "phonetics": "i-ma-gi-NAR",
+    "example": "imagine",
+    "translation": "voorstellen",
+    "category": "775-800"
+  },
+  {
+    "language1": "795",
+    "language2": "fornecer",
+    "phonetics": "for-ne-CER",
+    "example": "provide",
+    "translation": "leveren",
+    "category": "775-800"
+  },
+  {
+    "language1": "796",
+    "language2": "concordar",
+    "phonetics": "con-cor-DAR",
+    "example": "agree",
+    "translation": "instemmen",
+    "category": "775-800"
+  },
+  {
+    "language1": "797",
+    "language2": "assim",
+    "phonetics": "as-SIM",
+    "example": "thus",
+    "translation": "dus",
+    "category": "775-800"
+  },
+  {
+    "language1": "798",
+    "language2": "suave",
+    "phonetics": "su-A-ve",
+    "example": "gentle",
+    "translation": "zacht",
+    "category": "775-800"
+  },
+  {
+    "language1": "799",
+    "language2": "mulher",
+    "phonetics": "mu-LHER",
+    "example": "woman",
+    "translation": "vrouw",
+    "category": "775-800"
+  },
+  {
+    "language1": "800",
+    "language2": "capitão",
+    "phonetics": "ca-pi-TÃO",
+    "example": "captain",
+    "translation": "kapitein",
+    "category": "800-824"
+  },
+  {
+    "language1": "801",
+    "language2": "acho que",
+    "phonetics": "A-cho que",
+    "example": "guess",
+    "translation": "ik denk dat",
+    "category": "800-824"
+  },
+  {
+    "language1": "802",
+    "language2": "necessário",
+    "phonetics": "ne-ces-SÁ-rio",
+    "example": "necessary",
+    "translation": "noodzakelijk",
+    "category": "800-824"
+  },
+  {
+    "language1": "803",
+    "language2": "sharp",
+    "phonetics": "",
+    "example": "sharp",
+    "translation": "",
+    "category": "800-824"
+  },
+  {
+    "language1": "804",
+    "language2": "asa",
+    "phonetics": "A-sa",
+    "example": "wing",
+    "translation": "vleugel",
+    "category": "800-824"
+  },
+  {
+    "language1": "805",
+    "language2": "criar",
+    "phonetics": "cri-AR",
+    "example": "create",
+    "translation": "creëren",
+    "category": "800-824"
+  },
+  {
+    "language1": "806",
+    "language2": "vizinho",
+    "phonetics": "vi-ZI-nho",
+    "example": "neighbor",
+    "translation": "buur",
+    "category": "800-824"
+  },
+  {
+    "language1": "807",
+    "language2": "lavagem",
+    "phonetics": "la-VA-gem",
+    "example": "wash",
+    "translation": "was",
+    "category": "800-824"
+  },
+  {
+    "language1": "808",
+    "language2": "bat",
+    "phonetics": "",
+    "example": "bat",
+    "translation": "",
+    "category": "800-824"
+  },
+  {
+    "language1": "809",
+    "language2": "vez",
+    "phonetics": "VEZ",
+    "example": "rather",
+    "translation": "keer",
+    "category": "800-824"
+  },
+  {
+    "language1": "810",
+    "language2": "multidão",
+    "phonetics": "mul-ti-DÃO",
+    "example": "crowd",
+    "translation": "menigte",
+    "category": "800-824"
+  },
+  {
+    "language1": "811",
+    "language2": "milho",
+    "phonetics": "MI-lho",
+    "example": "corn",
+    "translation": "maïs",
+    "category": "800-824"
+  },
+  {
+    "language1": "812",
+    "language2": "comparar",
+    "phonetics": "com-pa-RAR",
+    "example": "compare",
+    "translation": "vergelijken",
+    "category": "800-824"
+  },
+  {
+    "language1": "813",
+    "language2": "poema",
+    "phonetics": "po-E-ma",
+    "example": "poem",
+    "translation": "gedicht",
+    "category": "800-824"
+  },
+  {
+    "language1": "814",
+    "language2": "corda",
+    "phonetics": "COR-da",
+    "example": "string",
+    "translation": "touw",
+    "category": "800-824"
+  },
+  {
+    "language1": "815",
+    "language2": "sino",
+    "phonetics": "SI-no",
+    "example": "bell",
+    "translation": "bel",
+    "category": "800-824"
+  },
+  {
+    "language1": "816",
+    "language2": "dependem",
+    "phonetics": "de-PEN-dem",
+    "example": "depend",
+    "translation": "afhangen",
+    "category": "800-824"
+  },
+  {
+    "language1": "817",
+    "language2": "carne",
+    "phonetics": "CAR-ne",
+    "example": "meat",
+    "translation": "vlees",
+    "category": "800-824"
+  },
+  {
+    "language1": "818",
+    "language2": "esfregar",
+    "phonetics": "es-fre-GAR",
+    "example": "rub",
+    "translation": "wrijven",
+    "category": "800-824"
+  },
+  {
+    "language1": "819",
+    "language2": "tubo",
+    "phonetics": "TU-bo",
+    "example": "tube",
+    "translation": "buis",
+    "category": "800-824"
+  },
+  {
+    "language1": "820",
+    "language2": "famoso",
+    "phonetics": "fa-MO-so",
+    "example": "famous",
+    "translation": "beroemd",
+    "category": "800-824"
+  },
+  {
+    "language1": "821",
+    "language2": "dólar",
+    "phonetics": "DÓ-lar",
+    "example": "dollar",
+    "translation": "dollar",
+    "category": "800-824"
+  },
+  {
+    "language1": "822",
+    "language2": "córrego",
+    "phonetics": "CÓ-rre-go",
+    "example": "stream",
+    "translation": "beek",
+    "category": "800-824"
+  },
+  {
+    "language1": "823",
+    "language2": "medo",
+    "phonetics": "ME-do",
+    "example": "fear",
+    "translation": "angst",
+    "category": "800-824"
+  },
+  {
+    "language1": "824",
+    "language2": "vista",
+    "phonetics": "VIS-ta",
+    "example": "sight",
+    "translation": "zicht",
+    "category": "800-824"
+  },
+  {
+    "language1": "825",
+    "language2": "fina",
+    "phonetics": "FI-na",
+    "example": "thin",
+    "translation": "dun",
+    "category": "825-850"
+  },
+  {
+    "language1": "826",
+    "language2": "triângulo",
+    "phonetics": "tri-ÂN-gu-lo",
+    "example": "triangle",
+    "translation": "driehoek",
+    "category": "825-850"
+  },
+  {
+    "language1": "827",
+    "language2": "planeta",
+    "phonetics": "pla-NE-ta",
+    "example": "planet",
+    "translation": "planeet",
+    "category": "825-850"
+  },
+  {
+    "language1": "828",
+    "language2": "apressar",
+    "phonetics": "a-pre-SSAR",
+    "example": "hurry",
+    "translation": "haasten",
+    "category": "825-850"
+  },
+  {
+    "language1": "829",
+    "language2": "chefe",
+    "phonetics": "CHE-fe",
+    "example": "chief",
+    "translation": "baas",
+    "category": "825-850"
+  },
+  {
+    "language1": "830",
+    "language2": "colônia",
+    "phonetics": "co-LÔ-nia",
+    "example": "colony",
+    "translation": "kolonie",
+    "category": "825-850"
+  },
+  {
+    "language1": "831",
+    "language2": "relógio",
+    "phonetics": "re-LÓ-gio",
+    "example": "clock",
+    "translation": "klok",
+    "category": "825-850"
+  },
+  {
+    "language1": "832",
+    "language2": "mina",
+    "phonetics": "MI-na",
+    "example": "mine",
+    "translation": "mijn",
+    "category": "825-850"
+  },
+  {
+    "language1": "833",
+    "language2": "amarrar",
+    "phonetics": "a-ma-RRAR",
+    "example": "tie",
+    "translation": "vastbinden",
+    "category": "825-850"
+  },
+  {
+    "language1": "834",
+    "language2": "introduzir",
+    "phonetics": "in-tro-DU-zir",
+    "example": "enter",
+    "translation": "invoeren",
+    "category": "825-850"
+  },
+  {
+    "language1": "835",
+    "language2": "maior",
+    "phonetics": "ma-IOR",
+    "example": "major",
+    "translation": "groter",
+    "category": "825-850"
+  },
+  {
+    "language1": "836",
+    "language2": "fresco",
+    "phonetics": "FRES-co",
+    "example": "fresh",
+    "translation": "vers",
+    "category": "825-850"
+  },
+  {
+    "language1": "837",
+    "language2": "pesquisa",
+    "phonetics": "pes-QUI-sa",
+    "example": "search",
+    "translation": "onderzoek",
+    "category": "825-850"
+  },
+  {
+    "language1": "838",
+    "language2": "enviar",
+    "phonetics": "en-vi-AR",
+    "example": "send",
+    "translation": "verzenden",
+    "category": "825-850"
+  },
+  {
+    "language1": "839",
+    "language2": "amarelo",
+    "phonetics": "a-ma-RE-lo",
+    "example": "yellow",
+    "translation": "geel",
+    "category": "825-850"
+  },
+  {
+    "language1": "840",
+    "language2": "pistola",
+    "phonetics": "pis-TO-la",
+    "example": "gun",
+    "translation": "pistool",
+    "category": "825-850"
+  },
+  {
+    "language1": "841",
+    "language2": "permitir",
+    "phonetics": "per-mi-TIR",
+    "example": "allow",
+    "translation": "toestaan",
+    "category": "825-850"
+  },
+  {
+    "language1": "842",
+    "language2": "impressão",
+    "phonetics": "im-pres-SÃO",
+    "example": "print",
+    "translation": "afdruk",
+    "category": "825-850"
+  },
+  {
+    "language1": "843",
+    "language2": "morto",
+    "phonetics": "MOR-to",
+    "example": "dead",
+    "translation": "dood",
+    "category": "825-850"
+  },
+  {
+    "language1": "844",
+    "language2": "local",
+    "phonetics": "lo-CAL",
+    "example": "spot",
+    "translation": "plaats",
+    "category": "825-850"
+  },
+  {
+    "language1": "845",
+    "language2": "deserto",
+    "phonetics": "de-SER-to",
+    "example": "desert",
+    "translation": "woestijn",
+    "category": "825-850"
+  },
+  {
+    "language1": "846",
+    "language2": "terno",
+    "phonetics": "TER-no",
+    "example": "suit",
+    "translation": "pak",
+    "category": "825-850"
+  },
+  {
+    "language1": "847",
+    "language2": "atual",
+    "phonetics": "a-TU-al",
+    "example": "current",
+    "translation": "huidig",
+    "category": "825-850"
+  },
+  {
+    "language1": "848",
+    "language2": "elevador",
+    "phonetics": "e-le-va-DOR",
+    "example": "lift",
+    "translation": "lift",
+    "category": "825-850"
+  },
+  {
+    "language1": "849",
+    "language2": "aumentou",
+    "phonetics": "au-men-TOU",
+    "example": "rose",
+    "translation": "steeg",
+    "category": "825-850"
+  },
+  {
+    "language1": "850",
+    "language2": "chegar",
+    "phonetics": "che-GAR",
+    "example": "arrive",
+    "translation": "aankomen",
+    "category": "850-875"
+  },
+  {
+    "language1": "851",
+    "language2": "mestre",
+    "phonetics": "MES-tre",
+    "example": "master",
+    "translation": "meester",
+    "category": "850-875"
+  },
+  {
+    "language1": "852",
+    "language2": "trilha",
+    "phonetics": "TRI-lha",
+    "example": "track",
+    "translation": "pad",
+    "category": "850-875"
+  },
+  {
+    "language1": "853",
+    "language2": "pai",
+    "phonetics": "PAI",
+    "example": "parent",
+    "translation": "vader",
+    "category": "850-875"
+  },
+  {
+    "language1": "854",
+    "language2": "costa",
+    "phonetics": "COS-ta",
+    "example": "shore",
+    "translation": "kust",
+    "category": "850-875"
+  },
+  {
+    "language1": "855",
+    "language2": "divisão",
+    "phonetics": "di-vi-SÃO",
+    "example": "division",
+    "translation": "verdeling",
+    "category": "850-875"
+  },
+  {
+    "language1": "856",
+    "language2": "folha",
+    "phonetics": "FO-lha",
+    "example": "sheet",
+    "translation": "blad",
+    "category": "850-875"
+  },
+  {
+    "language1": "857",
+    "language2": "substância",
+    "phonetics": "sub-STÂN-cia",
+    "example": "substance",
+    "translation": "stof",
+    "category": "850-875"
+  },
+  {
+    "language1": "858",
+    "language2": "favorecer",
+    "phonetics": "fa-vo-re-CER",
+    "example": "favor",
+    "translation": "bevoordelen",
+    "category": "850-875"
+  },
+  {
+    "language1": "859",
+    "language2": "conectar",
+    "phonetics": "co-nec-TAR",
+    "example": "connect",
+    "translation": "verbinden",
+    "category": "850-875"
+  },
+  {
+    "language1": "860",
+    "language2": "pós",
+    "phonetics": "PÓS",
+    "example": "post",
+    "translation": "bericht",
+    "category": "850-875"
+  },
+  {
+    "language1": "861",
+    "language2": "passar",
+    "phonetics": "pas-SAR",
+    "example": "spend",
+    "translation": "doorbrengen",
+    "category": "850-875"
+  },
+  {
+    "language1": "862",
+    "language2": "acorde",
+    "phonetics": "a-COR-de",
+    "example": "chord",
+    "translation": "akkoord",
+    "category": "850-875"
+  },
+  {
+    "language1": "863",
+    "language2": "gordura",
+    "phonetics": "gor-DU-ra",
+    "example": "fat",
+    "translation": "vet",
+    "category": "850-875"
+  },
+  {
+    "language1": "864",
+    "language2": "feliz",
+    "phonetics": "fe-LIZ",
+    "example": "glad",
+    "translation": "blij",
+    "category": "850-875"
+  },
+  {
+    "language1": "865",
+    "language2": "original",
+    "phonetics": "o-ri-gi-NAL",
+    "example": "original",
+    "translation": "origineel",
+    "category": "850-875"
+  },
+  {
+    "language1": "866",
+    "language2": "share",
+    "phonetics": "",
+    "example": "share",
+    "translation": "",
+    "category": "850-875"
+  },
+  {
+    "language1": "867",
+    "language2": "estação",
+    "phonetics": "es-ta-ÇÃO",
+    "example": "station",
+    "translation": "station",
+    "category": "850-875"
+  },
+  {
+    "language1": "868",
+    "language2": "pai",
+    "phonetics": "PAI",
+    "example": "dad",
+    "translation": "vader",
+    "category": "850-875"
+  },
+  {
+    "language1": "869",
+    "language2": "pão",
+    "phonetics": "PÃO",
+    "example": "bread",
+    "translation": "brood",
+    "category": "850-875"
+  },
+  {
+    "language1": "870",
+    "language2": "cobrar",
+    "phonetics": "co-BRAR",
+    "example": "charge",
+    "translation": "aanrekenen",
+    "category": "850-875"
+  },
+  {
+    "language1": "871",
+    "language2": "adequada",
+    "phonetics": "a-de-QUA-da",
+    "example": "proper",
+    "translation": "passend",
+    "category": "850-875"
+  },
+  {
+    "language1": "872",
+    "language2": "bar",
+    "phonetics": "BAR",
+    "example": "bar",
+    "translation": "bar",
+    "category": "850-875"
+  },
+  {
+    "language1": "873",
+    "language2": "oferta",
+    "phonetics": "o-FER-ta",
+    "example": "offer",
+    "translation": "aanbod",
+    "category": "850-875"
+  },
+  {
+    "language1": "874",
+    "language2": "segmento",
+    "phonetics": "seg-MEN-to",
+    "example": "segment",
+    "translation": "segment",
+    "category": "850-875"
+  }
+]
