@@ -7,7 +7,7 @@
     "phonetics": "",
     "example": "Ela é tão rápida como um raio.",
     "translation": "Ze is zo snel als een bliksem.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "2",
@@ -17,7 +17,7 @@
     "phonetics": "",
     "example": "Eu gosto de aprender novas línguas.",
     "translation": "Ik hou ervan om nieuwe talen te leren.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "3",
@@ -27,7 +27,7 @@
     "phonetics": "",
     "example": "Seu carro é vermelho.",
     "translation": "Zijn auto is rood.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "4",
@@ -37,7 +37,7 @@
     "phonetics": "",
     "example": "Eu sei que você gosta de música.",
     "translation": "Ik weet dat je van muziek houdt.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "5",
@@ -47,7 +47,7 @@
     "phonetics": "",
     "example": "Ele está estudando para a prova.",
     "translation": "Hij studeert voor de toets.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "6",
@@ -57,7 +57,7 @@
     "phonetics": "",
     "example": "Ontem foi um dia longo.",
     "translation": "Gisteren was een lange dag.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "7",
@@ -67,7 +67,7 @@
     "phonetics": "",
     "example": "Este presente é para você.",
     "translation": "Dit cadeau is voor jou.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "8",
@@ -77,7 +77,7 @@
     "phonetics": "",
     "example": "O livro está na mesa.",
     "translation": "Het boek ligt op de tafel.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "9",
@@ -87,7 +87,7 @@
     "phonetics": "",
     "example": "Eles são amigos há muito tempo.",
     "translation": "Zij zijn al lang vrienden.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "10",
@@ -97,7 +97,7 @@
     "phonetics": "",
     "example": "Eu vou ao cinema com minha irmã.",
     "translation": "Ik ga naar de bioscoop met mijn zus.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "11",
@@ -107,7 +107,7 @@
     "phonetics": "",
     "example": "Eles estão jogando futebol.",
     "translation": "Zij spelen voetbal.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "12",
@@ -117,7 +117,7 @@
     "phonetics": "",
     "example": "Eu quero ser um médico.",
     "translation": "Ik wil dokter worden.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "13",
@@ -127,7 +127,7 @@
     "phonetics": "",
     "example": "Estou no supermercado.",
     "translation": "Ik ben in de supermarkt.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "14",
@@ -137,7 +137,7 @@
     "phonetics": "",
     "example": "Eu tenho um cachorro.",
     "translation": "Ik heb een hond.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "15",
@@ -147,7 +147,7 @@
     "phonetics": "",
     "example": "Nós temos muitos amigos.",
     "translation": "Wij hebben veel vrienden.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "16",
@@ -157,7 +157,7 @@
     "phonetics": "",
     "example": "Este carro é muito rápido.",
     "translation": "Deze auto is erg snel.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "17",
@@ -167,7 +167,7 @@
     "phonetics": "",
     "example": "Eu sou do Brasil.",
     "translation": "Ik kom uit Brazilië.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "18",
@@ -177,7 +177,7 @@
     "phonetics": "",
     "example": "O livro foi escrito por um autor famoso.",
     "translation": "Het boek is geschreven door een beroemde auteur.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "19",
@@ -187,7 +187,7 @@
     "phonetics": "",
     "example": "Hoje está um dia quente.",
     "translation": "Vandaag is het een warme dag.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "20",
@@ -197,7 +197,7 @@
     "phonetics": "",
     "example": "Palavra cruzada é um jogo divertido.",
     "translation": "Kruiswoordpuzzels zijn leuk.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "21",
@@ -207,7 +207,7 @@
     "phonetics": "",
     "example": "Eu gosto de café, mas prefiro chá.",
     "translation": "Ik hou van koffie, maar ik geef de voorkeur aan thee.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "22",
@@ -217,7 +217,7 @@
     "phonetics": "",
     "example": "O que você está fazendo?",
     "translation": "Wat ben je aan het doen?",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "23",
@@ -227,7 +227,7 @@
     "phonetics": "",
     "example": "Eu comprei algumas frutas.",
     "translation": "Ik heb wat fruit gekocht.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "24",
@@ -237,7 +237,7 @@
     "phonetics": "",
     "example": "O céu é azul.",
     "translation": "De lucht is blauw.",
-    "category": "1-25"
+    "category": "001-025"
   },
   {
     "id": "25",
@@ -247,7 +247,757 @@
     "phonetics": "",
     "example": "Está chovendo agora.",
     "translation": "Het regent nu.",
-    "category": "1-25"
+    "category": "001-025"
+  },
+  {
+    "id": "26",
+    "language1": "você",
+    "language2": "you",
+    "language3": "jij",
+    "phonetics": "",
+    "example": "Você gosta de viajar?",
+    "translation": "Hou je van reizen?",
+    "category": "026-050"
+  },
+  {
+    "id": "27",
+    "language1": "ou",
+    "language2": "or",
+    "language3": "of",
+    "phonetics": "",
+    "example": "Você prefere café ou chá?",
+    "translation": "Heb je liever koffie of thee?",
+    "category": "026-050"
+  },
+  {
+    "id": "28",
+    "language1": "teve",
+    "language2": "had",
+    "language3": "had",
+    "phonetics": "",
+    "example": "Eu tive um ótimo dia ontem.",
+    "translation": "Ik had gisteren een geweldige dag.",
+    "category": "026-050"
+  },
+  {
+    "id": "29",
+    "language1": "o",
+    "language2": "the",
+    "language3": "de",
+    "phonetics": "",
+    "example": "O sol está brilhando.",
+    "translation": "De zon schijnt.",
+    "category": "026-050"
+  },
+  {
+    "id": "30",
+    "language1": "de",
+    "language2": "of",
+    "language3": "van",
+    "phonetics": "",
+    "example": "O capital do Brasil é Brasília.",
+    "translation": "De hoofdstad van Brazilië is Brasília.",
+    "category": "026-050"
+  },
+  {
+    "id": "31",
+    "language1": "a",
+    "language2": "to",
+    "language3": "naar",
+    "phonetics": "",
+    "example": "Eu quero viajar para a Itália.",
+    "translation": "Ik wil naar Italië reizen.",
+    "category": "026-050"
+  },
+  {
+    "id": "32",
+    "language1": "e",
+    "language2": "and",
+    "language3": "en",
+    "phonetics": "",
+    "example": "Eu gosto de maçãs e bananas.",
+    "translation": "Ik hou van appels en bananen.",
+    "category": "026-050"
+  },
+  {
+    "id": "33",
+    "language1": "uma",
+    "language2": "a",
+    "language3": "een",
+    "phonetics": "",
+    "example": "Eu vi um pássaro bonito.",
+    "translation": "Ik zag een mooie vogel.",
+    "category": "026-050"
+  },
+  {
+    "id": "34",
+    "language1": "em",
+    "language2": "in",
+    "language3": "in",
+    "phonetics": "",
+    "example": "Eu moro em Portugal.",
+    "translation": "Ik woon in Portugal.",
+    "category": "026-050"
+  },
+  {
+    "id": "35",
+    "language1": "nós",
+    "language2": "we",
+    "language3": "wij",
+    "phonetics": "",
+    "example": "Nós vamos ao parque amanhã.",
+    "translation": "Wij gaan morgen naar het park.",
+    "category": "026-050"
+  },
+  {
+    "id": "36",
+    "language1": "lata",
+    "language2": "can",
+    "language3": "kan",
+    "phonetics": "",
+    "example": "Eu posso falar português.",
+    "translation": "Ik kan Portugees spreken.",
+    "category": "026-050"
+  },
+  {
+    "id": "37",
+    "language1": "fora",
+    "language2": "out",
+    "language3": "uit",
+    "phonetics": "",
+    "example": "Eu saí para passear.",
+    "translation": "Ik ging naar buiten om te wandelen.",
+    "category": "026-050"
+  },
+  {
+    "id": "38",
+    "language1": "outro",
+    "language2": "other",
+    "language3": "ander",
+    "phonetics": "",
+    "example": "Há outra opção disponível.",
+    "translation": "Er is een andere optie beschikbaar.",
+    "category": "026-050"
+  },
+  {
+    "id": "39",
+    "language1": "foram",
+    "language2": "were",
+    "language3": "waren",
+    "phonetics": "",
+    "example": "Eles estavam felizes ontem.",
+    "translation": "Zij waren gisteren blij.",
+    "category": "026-050"
+  },
+  {
+    "id": "40",
+    "language1": "que",
+    "language2": "which",
+    "language3": "welke",
+    "phonetics": "",
+    "example": "Qual livro você quer ler?",
+    "translation": "Welk boek wil je lezen?",
+    "category": "026-050"
+  },
+  {
+    "id": "41",
+    "language1": "fazer",
+    "language2": "do",
+    "language3": "doen",
+    "phonetics": "",
+    "example": "O que você faz no trabalho?",
+    "translation": "Wat doe je voor werk?",
+    "category": "026-050"
+  },
+  {
+    "id": "42",
+    "language1": "seu",
+    "language2": "their",
+    "language3": "hun",
+    "phonetics": "",
+    "example": "Seus pais são muito simpáticos.",
+    "translation": "Hun ouders zijn erg vriendelijk.",
+    "category": "026-050"
+  },
+  {
+    "id": "43",
+    "language1": "tempo",
+    "language2": "time",
+    "language3": "tijd",
+    "phonetics": "",
+    "example": "Que horas são?",
+    "translation": "Hoe laat is het?",
+    "category": "026-050"
+  },
+  {
+    "id": "44",
+    "language1": "se",
+    "language2": "if",
+    "language3": "als",
+    "phonetics": "",
+    "example": "Se chover, eu fico em casa.",
+    "translation": "Als het regent, blijf ik thuis.",
+    "category": "026-050"
+  },
+  {
+    "id": "45",
+    "language1": "vontade",
+    "language2": "will",
+    "language3": "zullen",
+    "phonetics": "",
+    "example": "Eu vou viajar no próximo mês.",
+    "translation": "Ik ga volgende maand op reis.",
+    "category": "026-050"
+  },
+  {
+    "id": "46",
+    "language1": "como",
+    "language2": "how",
+    "language3": "hoe",
+    "phonetics": "",
+    "example": "Como você está hoje?",
+    "translation": "Hoe gaat het met je vandaag?",
+    "category": "026-050"
+  },
+  {
+    "id": "47",
+    "language1": "disse",
+    "language2": "said",
+    "language3": "zei",
+    "phonetics": "",
+    "example": "Ele disse que vem amanhã.",
+    "translation": "Hij zei dat hij morgen komt.",
+    "category": "026-050"
+  },
+  {
+    "id": "48",
+    "language1": "uma",
+    "language2": "an",
+    "language3": "een",
+    "phonetics": "",
+    "example": "Eu vi um elefante no zoológico.",
+    "translation": "Ik zag een olifant in de dierentuin.",
+    "category": "026-050"
+  },
+  {
+    "id": "49",
+    "language1": "cada",
+    "language2": "each",
+    "language3": "ieder",
+    "phonetics": "",
+    "example": "Cada aluno recebeu um prêmio.",
+    "translation": "Elke student kreeg een prijs.",
+    "category": "026-050"
+  },
+  {
+    "id": "50",
+    "language1": "dizer",
+    "language2": "tell",
+    "language3": "vertellen",
+    "phonetics": "",
+    "example": "Você pode me contar uma história?",
+    "translation": "Kun je me een verhaal vertellen?",
+    "category": "026-050"
+  },
+  {
+    "id": "51",
+    "language1": "faz",
+    "language2": "does",
+    "language3": "doet",
+    "phonetics": "",
+    "example": "Ele faz o trabalho bem.",
+    "translation": "Hij doet het werk goed.",
+    "category": "051-075"
+  },
+  {
+    "id": "52",
+    "language1": "conjunto",
+    "language2": "set",
+    "language3": "set",
+    "phonetics": "",
+    "example": "O conjunto de xícaras está completo.",
+    "translation": "De set kopjes is compleet.",
+    "category": "051-075"
+  },
+  {
+    "id": "53",
+    "language1": "três",
+    "language2": "three",
+    "language3": "drie",
+    "phonetics": "",
+    "example": "Tenho três irmãos.",
+    "translation": "Ik heb drie broers.",
+    "category": "051-075"
+  },
+  {
+    "id": "54",
+    "language1": "quer",
+    "language2": "want",
+    "language3": "willen",
+    "phonetics": "",
+    "example": "Eu quero um sorvete.",
+    "translation": "Ik wil een ijsje.",
+    "category": "051-075"
+  },
+  {
+    "id": "55",
+    "language1": "ar",
+    "language2": "air",
+    "language3": "lucht",
+    "phonetics": "",
+    "example": "O ar está fresco hoje.",
+    "translation": "De lucht is fris vandaag.",
+    "category": "051-075"
+  },
+  {
+    "id": "56",
+    "language1": "bem",
+    "language2": "well",
+    "language3": "goed",
+    "phonetics": "",
+    "example": "Ele fala inglês muito bem.",
+    "translation": "Hij spreekt heel goed Engels.",
+    "category": "051-075"
+  },
+  {
+    "id": "57",
+    "language1": "também",
+    "language2": "also",
+    "language3": "ook",
+    "phonetics": "",
+    "example": "Eu também gosto de futebol.",
+    "translation": "Ik hou ook van voetbal.",
+    "category": "051-075"
+  },
+  {
+    "id": "58",
+    "language1": "jogar",
+    "language2": "play",
+    "language3": "spelen",
+    "phonetics": "",
+    "example": "Nós vamos jogar futebol.",
+    "translation": "We gaan voetbal spelen.",
+    "category": "051-075"
+  },
+  {
+    "id": "59",
+    "language1": "pequeno",
+    "language2": "small",
+    "language3": "klein",
+    "phonetics": "",
+    "example": "Eu moro em uma cidade pequena.",
+    "translation": "Ik woon in een kleine stad.",
+    "category": "051-075"
+  },
+  {
+    "id": "60",
+    "language1": "fim",
+    "language2": "end",
+    "language3": "einde",
+    "phonetics": "",
+    "example": "O filme chegou ao fim.",
+    "translation": "De film is afgelopen.",
+    "category": "051-075"
+  },
+  {
+    "id": "61",
+    "language1": "colocar",
+    "language2": "put",
+    "language3": "zetten",
+    "phonetics": "",
+    "example": "Eu coloquei o livro na estante.",
+    "translation": "Ik heb het boek op de plank gezet.",
+    "category": "051-075"
+  },
+  {
+    "id": "62",
+    "language1": "casa",
+    "language2": "home",
+    "language3": "thuis",
+    "phonetics": "",
+    "example": "Eu estou indo para casa.",
+    "translation": "Ik ga naar huis.",
+    "category": "051-075"
+  },
+  {
+    "id": "63",
+    "language1": "ler",
+    "language2": "read",
+    "language3": "lezen",
+    "phonetics": "",
+    "example": "Eu gosto de ler livros.",
+    "translation": "Ik hou van boeken lezen.",
+    "category": "051-075"
+  },
+  {
+    "id": "64",
+    "language1": "mão",
+    "language2": "hand",
+    "language3": "hand",
+    "phonetics": "",
+    "example": "Minha mão está fria.",
+    "translation": "Mijn hand is koud.",
+    "category": "051-075"
+  },
+  {
+    "id": "65",
+    "language1": "port",
+    "language2": "port",
+    "language3": "haven",
+    "phonetics": "",
+    "example": "O navio chegou ao porto.",
+    "translation": "Het schip is aangekomen in de haven.",
+    "category": "051-075"
+  },
+  {
+    "id": "66",
+    "language1": "grande",
+    "language2": "large",
+    "language3": "groot",
+    "phonetics": "",
+    "example": "A cidade tem uma população grande.",
+    "translation": "De stad heeft een grote bevolking.",
+    "category": "051-075"
+  },
+  {
+    "id": "67",
+    "language1": "soletrar",
+    "language2": "spell",
+    "language3": "spellen",
+    "phonetics": "",
+    "example": "Ele pode soletrar palavras difíceis.",
+    "translation": "Hij kan moeilijke woorden spellen.",
+    "category": "051-075"
+  },
+  {
+    "id": "68",
+    "language1": "adicionar",
+    "language2": "add",
+    "language3": "toevoegen",
+    "phonetics": "",
+    "example": "Você pode adicionar açúcar ao café?",
+    "translation": "Kun je suiker aan de koffie toevoegen?",
+    "category": "051-075"
+  },
+  {
+    "id": "69",
+    "language1": "mesmo",
+    "language2": "even",
+    "language3": "zelfs",
+    "phonetics": "",
+    "example": "Ele não pode nem mesmo correr.",
+    "translation": "Hij kan niet eens rennen.",
+    "category": "051-075"
+  },
+  {
+    "id": "70",
+    "language1": "terra",
+    "language2": "land",
+    "language3": "land",
+    "phonetics": "",
+    "example": "O avião pousou na terra.",
+    "translation": "Het vliegtuig landde op de grond.",
+    "category": "051-075"
+  },
+  {
+    "id": "71",
+    "language1": "aqui",
+    "language2": "here",
+    "language3": "hier",
+    "phonetics": "",
+    "example": "Eu estou aqui para te ajudar.",
+    "translation": "Ik ben hier om te helpen.",
+    "category": "051-075"
+  },
+  {
+    "id": "72",
+    "language1": "necessário",
+    "language2": "must",
+    "language3": "moet",
+    "phonetics": "",
+    "example": "Você deve estudar para o teste.",
+    "translation": "Je moet studeren voor de toets.",
+    "category": "051-075"
+  },
+  {
+    "id": "73",
+    "language1": "grande",
+    "language2": "big",
+    "language3": "groot",
+    "phonetics": "",
+    "example": "Esse prédio é muito grande.",
+    "translation": "Dat gebouw is heel groot.",
+    "category": "051-075"
+  },
+  {
+    "id": "74",
+    "language1": "alto",
+    "language2": "high",
+    "language3": "hoog",
+    "phonetics": "",
+    "example": "A montanha é muito alta.",
+    "translation": "De berg is heel hoog.",
+    "category": "051-075"
+  },
+  {
+    "id": "75",
+    "language1": "tais",
+    "language2": "such",
+    "language3": "zulk",
+    "phonetics": "",
+    "example": "Eu nunca vi tal coisa.",
+    "translation": "Ik heb nog nooit zoiets gezien.",
+    "category": "051-075"
+  },
+  {
+    "id": "76",
+    "language1": "siga",
+    "language2": "follow",
+    "language3": "volgen",
+    "phonetics": "",
+    "example": "Siga-me até o mercado.",
+    "translation": "Volg me naar de markt.",
+    "category": "076-100"
+  },
+  {
+    "id": "77",
+    "language1": "ato",
+    "language2": "act",
+    "language3": "handelen",
+    "phonetics": "",
+    "example": "É hora de agir.",
+    "translation": "Het is tijd om te handelen.",
+    "category": "076-100"
+  },
+  {
+    "id": "78",
+    "language1": "por que",
+    "language2": "why",
+    "language3": "waarom",
+    "phonetics": "",
+    "example": "Por que você está triste?",
+    "translation": "Waarom ben je verdrietig?",
+    "category": "076-100"
+  },
+  {
+    "id": "79",
+    "language1": "perguntar",
+    "language2": "ask",
+    "language3": "vragen",
+    "phonetics": "",
+    "example": "Posso perguntar algo?",
+    "translation": "Mag ik iets vragen?",
+    "category": "076-100"
+  },
+  {
+    "id": "80",
+    "language1": "homens",
+    "language2": "men",
+    "language3": "mannen",
+    "phonetics": "",
+    "example": "Os homens estão trabalhando.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "81",
+    "language1": "mudança",
+    "language2": "change",
+    "language3": "verandering",
+    "phonetics": "",
+    "example": "A mudança foi difícil.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "82",
+    "language1": "fui",
+    "language2": "went",
+    "language3": "ging",
+    "phonetics": "",
+    "example": "Ele foi para a escola cedo.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "83",
+    "language1": "luz",
+    "language2": "light",
+    "language3": "licht",
+    "phonetics": "",
+    "example": "A luz do sol é forte.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "84",
+    "language1": "tipo",
+    "language2": "kind",
+    "language3": "soort",
+    "phonetics": "",
+    "example": "Ele é um tipo de líder.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "85",
+    "language1": "off",
+    "language2": "off",
+    "language3": "uit",
+    "phonetics": "",
+    "example": "A luz está desligada.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "86",
+    "language1": "precisa",
+    "language2": "need",
+    "language3": "nodig hebben",
+    "phonetics": "",
+    "example": "Eu preciso de um copo d'água.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "87",
+    "language1": "casa",
+    "language2": "house",
+    "language3": "huis",
+    "phonetics": "",
+    "example": "Minha casa é azul.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "88",
+    "language1": "imagem",
+    "language2": "picture",
+    "language3": "afbeelding",
+    "phonetics": "",
+    "example": "Essa é uma bela imagem.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "89",
+    "language1": "tentar",
+    "language2": "try",
+    "language3": "proberen",
+    "phonetics": "",
+    "example": "Vou tentar de novo.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "90",
+    "language1": "nós",
+    "language2": "us",
+    "language3": "ons",
+    "phonetics": "",
+    "example": "Eles convidaram nós para o jantar.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "91",
+    "language1": "novamente",
+    "language2": "again",
+    "language3": "opnieuw",
+    "phonetics": "",
+    "example": "Vamos começar novamente.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "92",
+    "language1": "animais",
+    "language2": "animal",
+    "language3": "dier",
+    "phonetics": "",
+    "example": "O cachorro é um animal fiel.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "93",
+    "language1": "ponto",
+    "language2": "point",
+    "language3": "punt",
+    "phonetics": "",
+    "example": "Esse é um ponto interessante.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "94",
+    "language1": "mãe",
+    "language2": "mother",
+    "language3": "moeder",
+    "phonetics": "",
+    "example": "Minha mãe cozinha muito bem.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "95",
+    "language1": "mundo",
+    "language2": "world",
+    "language3": "wereld",
+    "phonetics": "",
+    "example": "O mundo é grande e diverso.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "96",
+    "language1": "perto",
+    "language2": "near",
+    "language3": "dichtbij",
+    "phonetics": "",
+    "example": "O supermercado fica perto da minha casa.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "97",
+    "language1": "construir",
+    "language2": "build",
+    "language3": "bouwen",
+    "phonetics": "",
+    "example": "Eles querem construir uma nova escola.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "98",
+    "language1": "auto",
+    "language2": "self",
+    "language3": "zelf",
+    "phonetics": "",
+    "example": "Ele fez isso sozinho.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "99",
+    "language1": "terra",
+    "language2": "earth",
+    "language3": "aarde",
+    "phonetics": "",
+    "example": "A terra gira ao redor do sol.",
+    "translation": "",
+    "category": "076-100"
+  },
+  {
+    "id": "100",
+    "language1": "pai",
+    "language2": "father",
+    "language3": "vader",
+    "phonetics": "",
+    "example": "Meu pai é muito trabalhador.",
+    "translation": "",
+    "category": "076-100"
   },
   {
     "id": "101",
@@ -1998,256 +2748,6 @@
     "example": "Eles parecem felizes.",
     "translation": "Zij lijken gelukkig.",
     "category": "250-275"
-  },
-  {
-    "id": "26",
-    "language1": "você",
-    "language2": "you",
-    "language3": "jij",
-    "phonetics": "",
-    "example": "Você gosta de viajar?",
-    "translation": "Hou je van reizen?",
-    "category": "26-50"
-  },
-  {
-    "id": "27",
-    "language1": "ou",
-    "language2": "or",
-    "language3": "of",
-    "phonetics": "",
-    "example": "Você prefere café ou chá?",
-    "translation": "Heb je liever koffie of thee?",
-    "category": "26-50"
-  },
-  {
-    "id": "28",
-    "language1": "teve",
-    "language2": "had",
-    "language3": "had",
-    "phonetics": "",
-    "example": "Eu tive um ótimo dia ontem.",
-    "translation": "Ik had gisteren een geweldige dag.",
-    "category": "26-50"
-  },
-  {
-    "id": "29",
-    "language1": "o",
-    "language2": "the",
-    "language3": "de",
-    "phonetics": "",
-    "example": "O sol está brilhando.",
-    "translation": "De zon schijnt.",
-    "category": "26-50"
-  },
-  {
-    "id": "30",
-    "language1": "de",
-    "language2": "of",
-    "language3": "van",
-    "phonetics": "",
-    "example": "O capital do Brasil é Brasília.",
-    "translation": "De hoofdstad van Brazilië is Brasília.",
-    "category": "26-50"
-  },
-  {
-    "id": "31",
-    "language1": "a",
-    "language2": "to",
-    "language3": "naar",
-    "phonetics": "",
-    "example": "Eu quero viajar para a Itália.",
-    "translation": "Ik wil naar Italië reizen.",
-    "category": "26-50"
-  },
-  {
-    "id": "32",
-    "language1": "e",
-    "language2": "and",
-    "language3": "en",
-    "phonetics": "",
-    "example": "Eu gosto de maçãs e bananas.",
-    "translation": "Ik hou van appels en bananen.",
-    "category": "26-50"
-  },
-  {
-    "id": "33",
-    "language1": "uma",
-    "language2": "a",
-    "language3": "een",
-    "phonetics": "",
-    "example": "Eu vi um pássaro bonito.",
-    "translation": "Ik zag een mooie vogel.",
-    "category": "26-50"
-  },
-  {
-    "id": "34",
-    "language1": "em",
-    "language2": "in",
-    "language3": "in",
-    "phonetics": "",
-    "example": "Eu moro em Portugal.",
-    "translation": "Ik woon in Portugal.",
-    "category": "26-50"
-  },
-  {
-    "id": "35",
-    "language1": "nós",
-    "language2": "we",
-    "language3": "wij",
-    "phonetics": "",
-    "example": "Nós vamos ao parque amanhã.",
-    "translation": "Wij gaan morgen naar het park.",
-    "category": "26-50"
-  },
-  {
-    "id": "36",
-    "language1": "lata",
-    "language2": "can",
-    "language3": "kan",
-    "phonetics": "",
-    "example": "Eu posso falar português.",
-    "translation": "Ik kan Portugees spreken.",
-    "category": "26-50"
-  },
-  {
-    "id": "37",
-    "language1": "fora",
-    "language2": "out",
-    "language3": "uit",
-    "phonetics": "",
-    "example": "Eu saí para passear.",
-    "translation": "Ik ging naar buiten om te wandelen.",
-    "category": "26-50"
-  },
-  {
-    "id": "38",
-    "language1": "outro",
-    "language2": "other",
-    "language3": "ander",
-    "phonetics": "",
-    "example": "Há outra opção disponível.",
-    "translation": "Er is een andere optie beschikbaar.",
-    "category": "26-50"
-  },
-  {
-    "id": "39",
-    "language1": "foram",
-    "language2": "were",
-    "language3": "waren",
-    "phonetics": "",
-    "example": "Eles estavam felizes ontem.",
-    "translation": "Zij waren gisteren blij.",
-    "category": "26-50"
-  },
-  {
-    "id": "40",
-    "language1": "que",
-    "language2": "which",
-    "language3": "welke",
-    "phonetics": "",
-    "example": "Qual livro você quer ler?",
-    "translation": "Welk boek wil je lezen?",
-    "category": "26-50"
-  },
-  {
-    "id": "41",
-    "language1": "fazer",
-    "language2": "do",
-    "language3": "doen",
-    "phonetics": "",
-    "example": "O que você faz no trabalho?",
-    "translation": "Wat doe je voor werk?",
-    "category": "26-50"
-  },
-  {
-    "id": "42",
-    "language1": "seu",
-    "language2": "their",
-    "language3": "hun",
-    "phonetics": "",
-    "example": "Seus pais são muito simpáticos.",
-    "translation": "Hun ouders zijn erg vriendelijk.",
-    "category": "26-50"
-  },
-  {
-    "id": "43",
-    "language1": "tempo",
-    "language2": "time",
-    "language3": "tijd",
-    "phonetics": "",
-    "example": "Que horas são?",
-    "translation": "Hoe laat is het?",
-    "category": "26-50"
-  },
-  {
-    "id": "44",
-    "language1": "se",
-    "language2": "if",
-    "language3": "als",
-    "phonetics": "",
-    "example": "Se chover, eu fico em casa.",
-    "translation": "Als het regent, blijf ik thuis.",
-    "category": "26-50"
-  },
-  {
-    "id": "45",
-    "language1": "vontade",
-    "language2": "will",
-    "language3": "zullen",
-    "phonetics": "",
-    "example": "Eu vou viajar no próximo mês.",
-    "translation": "Ik ga volgende maand op reis.",
-    "category": "26-50"
-  },
-  {
-    "id": "46",
-    "language1": "como",
-    "language2": "how",
-    "language3": "hoe",
-    "phonetics": "",
-    "example": "Como você está hoje?",
-    "translation": "Hoe gaat het met je vandaag?",
-    "category": "26-50"
-  },
-  {
-    "id": "47",
-    "language1": "disse",
-    "language2": "said",
-    "language3": "zei",
-    "phonetics": "",
-    "example": "Ele disse que vem amanhã.",
-    "translation": "Hij zei dat hij morgen komt.",
-    "category": "26-50"
-  },
-  {
-    "id": "48",
-    "language1": "uma",
-    "language2": "an",
-    "language3": "een",
-    "phonetics": "",
-    "example": "Eu vi um elefante no zoológico.",
-    "translation": "Ik zag een olifant in de dierentuin.",
-    "category": "26-50"
-  },
-  {
-    "id": "49",
-    "language1": "cada",
-    "language2": "each",
-    "language3": "ieder",
-    "phonetics": "",
-    "example": "Cada aluno recebeu um prêmio.",
-    "translation": "Elke student kreeg een prijs.",
-    "category": "26-50"
-  },
-  {
-    "id": "50",
-    "language1": "dizer",
-    "language2": "tell",
-    "language3": "vertellen",
-    "phonetics": "",
-    "example": "Você pode me contar uma história?",
-    "translation": "Kun je me een verhaal vertellen?",
-    "category": "26-50"
   },
   {
     "id": "276",
@@ -4738,256 +5238,6 @@
     "example": "Ela pode falar três idiomas.",
     "translation": "Zij kan drie talen spreken.",
     "category": "500-525"
-  },
-  {
-    "id": "51",
-    "language1": "faz",
-    "language2": "does",
-    "language3": "doet",
-    "phonetics": "",
-    "example": "Ele faz o trabalho bem.",
-    "translation": "Hij doet het werk goed.",
-    "category": "51-75"
-  },
-  {
-    "id": "52",
-    "language1": "conjunto",
-    "language2": "set",
-    "language3": "set",
-    "phonetics": "",
-    "example": "O conjunto de xícaras está completo.",
-    "translation": "De set kopjes is compleet.",
-    "category": "51-75"
-  },
-  {
-    "id": "53",
-    "language1": "três",
-    "language2": "three",
-    "language3": "drie",
-    "phonetics": "",
-    "example": "Tenho três irmãos.",
-    "translation": "Ik heb drie broers.",
-    "category": "51-75"
-  },
-  {
-    "id": "54",
-    "language1": "quer",
-    "language2": "want",
-    "language3": "willen",
-    "phonetics": "",
-    "example": "Eu quero um sorvete.",
-    "translation": "Ik wil een ijsje.",
-    "category": "51-75"
-  },
-  {
-    "id": "55",
-    "language1": "ar",
-    "language2": "air",
-    "language3": "lucht",
-    "phonetics": "",
-    "example": "O ar está fresco hoje.",
-    "translation": "De lucht is fris vandaag.",
-    "category": "51-75"
-  },
-  {
-    "id": "56",
-    "language1": "bem",
-    "language2": "well",
-    "language3": "goed",
-    "phonetics": "",
-    "example": "Ele fala inglês muito bem.",
-    "translation": "Hij spreekt heel goed Engels.",
-    "category": "51-75"
-  },
-  {
-    "id": "57",
-    "language1": "também",
-    "language2": "also",
-    "language3": "ook",
-    "phonetics": "",
-    "example": "Eu também gosto de futebol.",
-    "translation": "Ik hou ook van voetbal.",
-    "category": "51-75"
-  },
-  {
-    "id": "58",
-    "language1": "jogar",
-    "language2": "play",
-    "language3": "spelen",
-    "phonetics": "",
-    "example": "Nós vamos jogar futebol.",
-    "translation": "We gaan voetbal spelen.",
-    "category": "51-75"
-  },
-  {
-    "id": "59",
-    "language1": "pequeno",
-    "language2": "small",
-    "language3": "klein",
-    "phonetics": "",
-    "example": "Eu moro em uma cidade pequena.",
-    "translation": "Ik woon in een kleine stad.",
-    "category": "51-75"
-  },
-  {
-    "id": "60",
-    "language1": "fim",
-    "language2": "end",
-    "language3": "einde",
-    "phonetics": "",
-    "example": "O filme chegou ao fim.",
-    "translation": "De film is afgelopen.",
-    "category": "51-75"
-  },
-  {
-    "id": "61",
-    "language1": "colocar",
-    "language2": "put",
-    "language3": "zetten",
-    "phonetics": "",
-    "example": "Eu coloquei o livro na estante.",
-    "translation": "Ik heb het boek op de plank gezet.",
-    "category": "51-75"
-  },
-  {
-    "id": "62",
-    "language1": "casa",
-    "language2": "home",
-    "language3": "thuis",
-    "phonetics": "",
-    "example": "Eu estou indo para casa.",
-    "translation": "Ik ga naar huis.",
-    "category": "51-75"
-  },
-  {
-    "id": "63",
-    "language1": "ler",
-    "language2": "read",
-    "language3": "lezen",
-    "phonetics": "",
-    "example": "Eu gosto de ler livros.",
-    "translation": "Ik hou van boeken lezen.",
-    "category": "51-75"
-  },
-  {
-    "id": "64",
-    "language1": "mão",
-    "language2": "hand",
-    "language3": "hand",
-    "phonetics": "",
-    "example": "Minha mão está fria.",
-    "translation": "Mijn hand is koud.",
-    "category": "51-75"
-  },
-  {
-    "id": "65",
-    "language1": "port",
-    "language2": "port",
-    "language3": "haven",
-    "phonetics": "",
-    "example": "O navio chegou ao porto.",
-    "translation": "Het schip is aangekomen in de haven.",
-    "category": "51-75"
-  },
-  {
-    "id": "66",
-    "language1": "grande",
-    "language2": "large",
-    "language3": "groot",
-    "phonetics": "",
-    "example": "A cidade tem uma população grande.",
-    "translation": "De stad heeft een grote bevolking.",
-    "category": "51-75"
-  },
-  {
-    "id": "67",
-    "language1": "soletrar",
-    "language2": "spell",
-    "language3": "spellen",
-    "phonetics": "",
-    "example": "Ele pode soletrar palavras difíceis.",
-    "translation": "Hij kan moeilijke woorden spellen.",
-    "category": "51-75"
-  },
-  {
-    "id": "68",
-    "language1": "adicionar",
-    "language2": "add",
-    "language3": "toevoegen",
-    "phonetics": "",
-    "example": "Você pode adicionar açúcar ao café?",
-    "translation": "Kun je suiker aan de koffie toevoegen?",
-    "category": "51-75"
-  },
-  {
-    "id": "69",
-    "language1": "mesmo",
-    "language2": "even",
-    "language3": "zelfs",
-    "phonetics": "",
-    "example": "Ele não pode nem mesmo correr.",
-    "translation": "Hij kan niet eens rennen.",
-    "category": "51-75"
-  },
-  {
-    "id": "70",
-    "language1": "terra",
-    "language2": "land",
-    "language3": "land",
-    "phonetics": "",
-    "example": "O avião pousou na terra.",
-    "translation": "Het vliegtuig landde op de grond.",
-    "category": "51-75"
-  },
-  {
-    "id": "71",
-    "language1": "aqui",
-    "language2": "here",
-    "language3": "hier",
-    "phonetics": "",
-    "example": "Eu estou aqui para te ajudar.",
-    "translation": "Ik ben hier om te helpen.",
-    "category": "51-75"
-  },
-  {
-    "id": "72",
-    "language1": "necessário",
-    "language2": "must",
-    "language3": "moet",
-    "phonetics": "",
-    "example": "Você deve estudar para o teste.",
-    "translation": "Je moet studeren voor de toets.",
-    "category": "51-75"
-  },
-  {
-    "id": "73",
-    "language1": "grande",
-    "language2": "big",
-    "language3": "groot",
-    "phonetics": "",
-    "example": "Esse prédio é muito grande.",
-    "translation": "Dat gebouw is heel groot.",
-    "category": "51-75"
-  },
-  {
-    "id": "74",
-    "language1": "alto",
-    "language2": "high",
-    "language3": "hoog",
-    "phonetics": "",
-    "example": "A montanha é muito alta.",
-    "translation": "De berg is heel hoog.",
-    "category": "51-75"
-  },
-  {
-    "id": "75",
-    "language1": "tais",
-    "language2": "such",
-    "language3": "zulk",
-    "phonetics": "",
-    "example": "Eu nunca vi tal coisa.",
-    "translation": "Ik heb nog nooit zoiets gezien.",
-    "category": "51-75"
   },
   {
     "id": "Nummer",
@@ -7488,256 +7738,6 @@
     "example": "A festa foi muito divertida.",
     "translation": "Het feest was erg leuk.",
     "category": "750-775"
-  },
-  {
-    "id": "76",
-    "language1": "siga",
-    "language2": "follow",
-    "language3": "volgen",
-    "phonetics": "",
-    "example": "Siga-me até o mercado.",
-    "translation": "Volg me naar de markt.",
-    "category": "76-100"
-  },
-  {
-    "id": "77",
-    "language1": "ato",
-    "language2": "act",
-    "language3": "handelen",
-    "phonetics": "",
-    "example": "É hora de agir.",
-    "translation": "Het is tijd om te handelen.",
-    "category": "76-100"
-  },
-  {
-    "id": "78",
-    "language1": "por que",
-    "language2": "why",
-    "language3": "waarom",
-    "phonetics": "",
-    "example": "Por que você está triste?",
-    "translation": "Waarom ben je verdrietig?",
-    "category": "76-100"
-  },
-  {
-    "id": "79",
-    "language1": "perguntar",
-    "language2": "ask",
-    "language3": "vragen",
-    "phonetics": "",
-    "example": "Posso perguntar algo?",
-    "translation": "Mag ik iets vragen?",
-    "category": "76-100"
-  },
-  {
-    "id": "80",
-    "language1": "homens",
-    "language2": "men",
-    "language3": "mannen",
-    "phonetics": "",
-    "example": "Os homens estão trabalhando.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "81",
-    "language1": "mudança",
-    "language2": "change",
-    "language3": "verandering",
-    "phonetics": "",
-    "example": "A mudança foi difícil.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "82",
-    "language1": "fui",
-    "language2": "went",
-    "language3": "ging",
-    "phonetics": "",
-    "example": "Ele foi para a escola cedo.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "83",
-    "language1": "luz",
-    "language2": "light",
-    "language3": "licht",
-    "phonetics": "",
-    "example": "A luz do sol é forte.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "84",
-    "language1": "tipo",
-    "language2": "kind",
-    "language3": "soort",
-    "phonetics": "",
-    "example": "Ele é um tipo de líder.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "85",
-    "language1": "off",
-    "language2": "off",
-    "language3": "uit",
-    "phonetics": "",
-    "example": "A luz está desligada.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "86",
-    "language1": "precisa",
-    "language2": "need",
-    "language3": "nodig hebben",
-    "phonetics": "",
-    "example": "Eu preciso de um copo d'água.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "87",
-    "language1": "casa",
-    "language2": "house",
-    "language3": "huis",
-    "phonetics": "",
-    "example": "Minha casa é azul.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "88",
-    "language1": "imagem",
-    "language2": "picture",
-    "language3": "afbeelding",
-    "phonetics": "",
-    "example": "Essa é uma bela imagem.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "89",
-    "language1": "tentar",
-    "language2": "try",
-    "language3": "proberen",
-    "phonetics": "",
-    "example": "Vou tentar de novo.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "90",
-    "language1": "nós",
-    "language2": "us",
-    "language3": "ons",
-    "phonetics": "",
-    "example": "Eles convidaram nós para o jantar.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "91",
-    "language1": "novamente",
-    "language2": "again",
-    "language3": "opnieuw",
-    "phonetics": "",
-    "example": "Vamos começar novamente.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "92",
-    "language1": "animais",
-    "language2": "animal",
-    "language3": "dier",
-    "phonetics": "",
-    "example": "O cachorro é um animal fiel.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "93",
-    "language1": "ponto",
-    "language2": "point",
-    "language3": "punt",
-    "phonetics": "",
-    "example": "Esse é um ponto interessante.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "94",
-    "language1": "mãe",
-    "language2": "mother",
-    "language3": "moeder",
-    "phonetics": "",
-    "example": "Minha mãe cozinha muito bem.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "95",
-    "language1": "mundo",
-    "language2": "world",
-    "language3": "wereld",
-    "phonetics": "",
-    "example": "O mundo é grande e diverso.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "96",
-    "language1": "perto",
-    "language2": "near",
-    "language3": "dichtbij",
-    "phonetics": "",
-    "example": "O supermercado fica perto da minha casa.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "97",
-    "language1": "construir",
-    "language2": "build",
-    "language3": "bouwen",
-    "phonetics": "",
-    "example": "Eles querem construir uma nova escola.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "98",
-    "language1": "auto",
-    "language2": "self",
-    "language3": "zelf",
-    "phonetics": "",
-    "example": "Ele fez isso sozinho.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "99",
-    "language1": "terra",
-    "language2": "earth",
-    "language3": "aarde",
-    "phonetics": "",
-    "example": "A terra gira ao redor do sol.",
-    "translation": "",
-    "category": "76-100"
-  },
-  {
-    "id": "100",
-    "language1": "pai",
-    "language2": "father",
-    "language3": "vader",
-    "phonetics": "",
-    "example": "Meu pai é muito trabalhador.",
-    "translation": "",
-    "category": "76-100"
   },
   {
     "id": "775",
