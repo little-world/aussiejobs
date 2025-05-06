@@ -1,52 +1,52 @@
 [
   {
     "code": "What is Rust's memory safety model called?",
-    " answers": ["Garbage Collection", "Reference Counting", "Ownership", "Memory Pooling"],
+    "answers": ["Garbage Collection", "Reference Counting", "Ownership", "Memory Pooling"],
     "correctAnswerIndex": 2
   },
   {
     "code": "Which feature in Rust helps prevent data races?",
-    " answers": ["Inheritance", "Borrow Checker", "Global Variables", "Automatic Garbage Collection"],
+    "answers": ["Inheritance", "Borrow Checker", "Global Variables", "Automatic Garbage Collection"],
     "correctAnswerIndex": 1
   },
   {
     "code": "What symbol is used to denote a reference in Rust?",
-    " answers": ["&", "*", "#", "@"],
+    "answers": ["&", "*", "#", "@"],
     "correctAnswerIndex": 0
   },
   {
     "code": "Which of these is NOT a primitive type in Rust?",
-    " answers": ["bool", "char", "string", "f64"],
+    "answers": ["bool", "char", "string", "f64"],
     "correctAnswerIndex": 2
   },
   {
     "code": "What does the '?' operator do in Rust?",
-    " answers": ["Performs null checking", "Propagates errors", "Creates an optional value", "Performs type casting"],
+    "answers": ["Performs null checking", "Propagates errors", "Creates an optional value", "Performs type casting"],
     "correctAnswerIndex": 1
   },
   {
     "code": "Which of the following is NOT a Rust compiler?",
-    " answers": ["rustc", "cargo", "rustup", "rustfmt"],
+    "answers": ["rustc", "cargo", "rustup", "rustfmt"],
     "correctAnswerIndex": 3
   },
   {
     "code": "What is the name of Rust's package manager?",
-    " answers": ["npm", "cargo", "pip", "gem"],
+    "answers": ["npm", "cargo", "pip", "gem"],
     "correctAnswerIndex": 1
   },
   {
     "code": "In Rust, what is the return type of a function that doesn't explicitly return a value?",
-    " answers": ["void", "undefined", "null", "unit type ()"],
+    "answers": ["void", "undefined", "null", "unit type ()"],
     "correctAnswerIndex": 3
   },
   {
     "code": "Which of these is not a valid way to create a string in Rust?",
-    " answers": ["String::from(\"hello\")", "\"hello\".to_string()", "String::new(\"hello\")", "let s = \"hello\";"],
+    "answers": ["String::from(\"hello\")", "\"hello\".to_string()", "String::new(\"hello\")", "let s = \"hello\";"],
     "correctAnswerIndex": 2
   },
   {
     "code": "What is the Rust convention for naming structs?",
-    " answers": ["snake_case", "camelCase", "PascalCase", "SCREAMING_SNAKE_CASE"],
+    "answers": ["snake_case", "camelCase", "PascalCase", "SCREAMING_SNAKE_CASE"],
     "correctAnswerIndex": 2
   }
 ]
