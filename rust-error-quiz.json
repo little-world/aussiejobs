@@ -1,0 +1,38 @@
+[
+    {
+        "questionText": "Which compiler error does this code produce?",
+        "questionCode": "struct Color { red: u8, green: u8, blue: u8 }\n  let c = Color { red: 0, green: 128, alpha: 255 }",
+        "options": [
+            "A. Missing field `blue` in initializer of `Color`",
+            "B. No field `alpha` on type `Color`",
+            "C. Mismatched types: expected `u8`, found `i32`",
+            "D. Borrow of moved value"
+        ],
+        "errorMessage": "error[E0609]: no field `alpha` on type `Color`\n  --> src/main.rs:6:30\n   |\n6 |     let c = Color { red: 0, green: 128, alpha: 255 };\n   |                             -----  ^^^^^ help: a field with a similar name exists: `blue`",
+        "solutionPrompt": "Which of the following changes will fix the error? (Select all that apply)",
+        "solutionOptions": [
+            "let c = Color { red: 0, green: 128, blue: 255 };",
+            "Add `alpha: u8` to the struct definition: struct Color { red: u8, green: u8, blue: u8, alpha: u8 }",
+            "Remove `alpha: 255` and leave out `blue` entirely",
+            "Rename `green` to `alpha` in struct definition"
+        ]
+    },
+ {
+        "questionText": "Which compiler error does this code produce?",
+        "questionCode": "struct Color { red: u8, green: u8, blue: u8 }\n  let c = Color { red: 0, green: 128, alpha: 255 }",
+        "options": [
+            "A. Missing field `blue` in initializer of `Color`",
+            "B. No field `alpha` on type `Color`",
+            "C. Mismatched types: expected `u8`, found `i32`",
+            "D. Borrow of moved value"
+        ],
+        "errorMessage": "error[E0609]: no field `alpha` on type `Color`\n  --> src/main.rs:6:30\n   |\n6 |     let c = Color { red: 0, green: 128, alpha: 255 };\n   |                             -----  ^^^^^ help: a field with a similar name exists: `blue`",
+        "solutionPrompt": "Which of the following changes will fix the error? (Select all that apply)",
+        "solutionOptions": [
+            "let c = Color { red: 0, green: 128, blue: 255 };",
+            "Add `alpha: u8` to the struct definition: struct Color { red: u8, green: u8, blue: u8, alpha: u8 }",
+            "Remove `alpha: 255` and leave out `blue` entirely",
+            "Rename `green` to `alpha` in struct definition"
+        ]
+    }
+]
