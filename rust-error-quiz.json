@@ -16,23 +16,524 @@
             "Remove `alpha: 255` and leave out `blue` entirely",
             "Rename `green` to `alpha` in struct definition"
         ]
-    },
- {
-        "questionText": "Which compiler error does this code produce?",
-        "questionCode": "struct Color { red: u8, green: u8, blue: u8 }\n  let c = Color { red: 0, green: 128, alpha: 255 }",
-        "options": [
-            "A. Missing field `blue` in initializer of `Color`",
-            "B. No field `alpha` on type `Color`",
-            "C. Mismatched types: expected `u8`, found `i32`",
-            "D. Borrow of moved value"
-        ],
-        "errorMessage": "error[E0609]: no field `alpha` on type `Color`\n  --> src/main.rs:6:30\n   |\n6 |     let c = Color { red: 0, green: 128, alpha: 255 };\n   |                             -----  ^^^^^ help: a field with a similar name exists: `blue`",
-        "solutionPrompt": "Which of the following changes will fix the error? (Select all that apply)",
-        "solutionOptions": [
-            "let c = Color { red: 0, green: 128, blue: 255 };",
-            "Add `alpha: u8` to the struct definition: struct Color { red: u8, green: u8, blue: u8, alpha: u8 }",
-            "Remove `alpha: 255` and leave out `blue` entirely",
-            "Rename `green` to `alpha` in struct definition"
-        ]
-    }
-]
+    },        
+
+        {
+          "questionText": "What compiler error does this code produce?",
+          "questionCode": "fn main() {\n    let s1 = String::from(\"hello\");\n    let s2 = s1;             // s1 is moved into s2\n    println!(\"{}\", s1);      // ❌ use of moved value\n}",
+          "options": [
+            "A. borrow of moved value: `s1`",
+            "B. cannot borrow `s1` as mutable because it is also borrowed",
+            "C. cannot return reference to local variable `s`",
+            "D. use of partially moved value: `person`"
+          ],
+          "errorMessage": "error[E0382]: borrow of moved value: `s1`\n --> src/main.rs:4:20\n  |\n2 |     let s1 = String::from(\"hello\");\n  |         -- move occurs because `s1` has type `String`, which does not implement the `Copy` trait\n3 |     let s2 = s1;\n  |              -- value moved here\n4 |     println!(\"{}\", s1);\n  |                    ^^ value borrowed here after move",
+          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+          "solutionOptions": [
+            "Clone before move: `let s2 = s1.clone();`",
+            "Use the moved variable instead: `println!(\"{}\", s2);`"
+          ]
+        },
+        {
+          "questionText": "What compiler error does this code produce?",
+          "questionCode": "fn main() {\n    let mut s = String::from(\"hello\");\n    let r1 = &s;             // immutable borrow\n    let r2 = &mut s;         // ❌ mutable borrow while `r1` is live\n    println!(\"{}, {}\", r1, r2);\n}",
+          "options": [
+            "A. borrow of moved value: `s`",
+            "B. cannot borrow `s` as mutable because it is also borrowed as immutable",
+            "C. cannot move out of `s` because it is borrowed",
+            "D. cannot return reference to local variable `s`"
+          ],
+          "errorMessage": "error[E0502]: cannot borrow `s` as mutable because it is also borrowed as immutable\n --> src/main.rs:4:15\n  |\n3 |     let r1 = &s;\n  |              -- immutable borrow occurs here\n4 |     let r2 = &mut s;\n  |               ^^^^^ mutable borrow occurs here\n5 |     println!(\"{}, {}\", r1, r2);\n  |                       -- immutable borrow later used here",
+          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+          "solutionOptions": [
+            "Scope the immutable borrow so it ends before the mutable borrow",
+            "Remove the immutable borrow before taking the mutable borrow"
+          ]
+        },
+        {
+          "questionText": "What compiler error does this code produce?",
+          "questionCode": "fn dangle() -> &String {\n    let s = String::from(\"hello\");\n    &s                       // ❌ returns reference to local data\n}\n\nfn main() {\n    let r = dangle();\n    println!(\"{}\", r);\n}",
+          "options": [
+            "A. cannot borrow `v` as mutable because it is also borrowed as immutable",
+            "B. borrow of moved value",
+            "C. cannot return reference to local variable `s`",
+            "D. use of partially moved value"
+          ],
+          "errorMessage": "error[E0515]: cannot return reference to local variable `s`\n --> src/main.rs:4:5\n  |\n2 | fn dangle() -> &String {\n  |             ------- lifetime `'static` required\n3 |     let s = String::from(\"hello\");\n  |         - `s` is created here\n4 |     &s\n  |     ^^ returns a reference to data owned by the current function",
+          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+          "solutionOptions": [
+            "Return the owned `String` instead of a reference: change signature to `fn dangle() -> String`",
+            "Return a `'static` string slice if appropriate"
+          ]
+        },
+        {
+          "questionText": "What compiler error does this code produce?",
+          "questionCode": "struct Person {\n    name: String,\n    age: u8,\n}\n\nfn main() {\n    let person = Person { name: String::from(\"Alice\"), age: 30 };\n    let Person { name, age } = person;           // moves entire `person`\n    println!(\"Age is {}\", person.age);           // ❌ use of moved value\n}",
+          "options": [
+            "A. borrow of moved value: `person`",
+            "B. cannot borrow `s` as mutable because it is also borrowed as immutable",
+            "C. cannot return reference to local variable `s`",
+            "D. use of partially moved value: `person`"
+          ],
+          "errorMessage": "error[E0382]: use of moved value: `person`\n --> src/main.rs:6:30\n  |\n2 | fn main() {\n  |           - value moved into this binding\n3 |     let person = Person { name: String::from(\"Alice\"), age: 30 };\n  |         ------ move occurs because `person` has type `Person`, which does not implement the `Copy` trait\n4 |     let Person { name, age } = person;\n  |                           ------ value moved here\n5 |     // `person` partially moved: both fields consumed by the pattern\n6 |     println!(\"Age is {}\", person.age);\n  |                              ^^^^^^ value used here after move",
+          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+          "solutionOptions": [
+            "Destructure by reference: `let Person { ref name, age } = person;`",
+            "Clone the moved field before using `person` again"
+          ]
+        },
+        {
+          "questionText": "What compiler error does this code produce?",
+          "questionCode": "fn main() {\n    let mut v = vec![1, 2, 3];\n    let first = &v[0];     // immutable borrow of `v`\n    v.push(4);             // ❌ mutable borrow while `first` exists\n    println!(\"First element: {}\", first);\n}",
+          "options": [
+            "A. use of partially moved value: `person`",
+            "B. cannot borrow `v` as mutable because it is also borrowed as immutable",
+            "C. borrow of moved value",
+            "D. cannot return reference to local variable `s`"
+          ],
+          "errorMessage": "error[E0502]: cannot borrow `v` as mutable because it is also borrowed as immutable\n --> src/main.rs:4:5\n  |\n3 |     let first = &v[0];\n  |                  -- immutable borrow occurs here\n4 |     v.push(4);\n  |     ^^^^^^^^ mutable borrow occurs here\n5 |     println!(\"First element: {}\", first);\n  |                                  ----- immutable borrow later used here",
+          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+          "solutionOptions": [
+            "Shorten the scope of the immutable borrow so it ends before the mutation",
+            "Encapsulate the borrow in its own block"
+          ]
+        }
+
+     
+            {
+              "questionText": "What compiler error does this code produce?",
+              "questionCode": "struct Point {\n    x: i32,\n    y: i32,\n}\n\nfn main() {\n    let p = Point { x: 5 };  // ❌ missing `y`\n    println!(\"Point is ({}, {})\", p.x, p.y);\n}",
+              "options": [
+                "A. missing field `y` in initializer of `Point`",
+                "B. no field `alpha` on type `Color`",
+                "C. field `email` of struct `user::User` is private",
+                "D. use of partially moved value: `person`"
+              ],
+              "errorMessage": "error[E0063]: missing field `y` in initializer of `Point`\n  --> src/main.rs:6:17\n   |\n6 |     let p = Point { x: 5 };\n   |                 ^^^^^^^^^ missing `y`",
+              "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+              "solutionOptions": [
+                "Provide all fields: `let p = Point { x: 5, y: 10 };`",
+                "Use struct update syntax: `let default = Point { x: 0, y: 0 }; let p = Point { x: 5, ..default };`"
+              ]
+            },
+            {
+              "questionText": "What compiler error does this code produce?",
+              "questionCode": "struct Color {\n    red: u8,\n    green: u8,\n    blue: u8,\n}\n\nfn main() {\n    let c = Color { red: 0, green: 128, alpha: 255 };  // ❌ `alpha` doesn’t exist\n    println!(\"Color is {:?}.\", c);\n}",
+              "options": [
+                "A. missing field `y` in initializer of `Point`",
+                "B. no field `alpha` on type `Color`",
+                "C. field `email` of struct `user::User` is private",
+                "D. use of partially moved value: `person`"
+              ],
+              "errorMessage": "error[E0609]: no field `alpha` on type `Color`\n  --> src/main.rs:6:30\n   |\n6 |     let c = Color { red: 0, green: 128, alpha: 255 };\n   |                             -----  ^^^^^ help: a field with a similar name exists: `blue`",
+              "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+              "solutionOptions": [
+                "Use a valid field name: `let c = Color { red: 0, green: 128, blue: 255 };`",
+                "Extend the struct: `struct Color { red: u8, green: u8, blue: u8, alpha: u8 }`"
+              ]
+            },
+            {
+              "questionText": "What compiler error does this code produce?",
+              "questionCode": "mod user {\n    pub struct User {\n        pub username: String,\n        email: String,                // ❌ private\n    }\n}\n\nfn main() {\n    let u = user::User {\n        username: String::from(\"alice\"),\n        email: String::from(\"a@example.com\"),\n    };\n    println!(\"Email: {}\", u.email); // ❌ field `email` is private\n}",
+              "options": [
+                "A. missing field `y` in initializer of `Point`",
+                "B. no field `alpha` on type `Color`",
+                "C. field `email` of struct `user::User` is private",
+                "D. use of partially moved value: `person`"
+              ],
+              "errorMessage": "error[E0616]: field `email` of struct `user::User` is private\n  --> src/main.rs:11:27\n   |\n11 |     println!(\"Email: {}\", u.email);\n   |                           ^^^^^ private field",
+              "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+              "solutionOptions": [
+                "Make the field public: `pub struct User { pub username: String, pub email: String }`",
+                "Provide a getter: `impl User { pub fn email(&self) -> &str { &self.email } }`"
+              ]
+            },
+            {
+              "questionText": "What compiler error does this code produce?",
+              "questionCode": "struct Person {\n    name: String,\n    age: u8,\n}\n\nfn main() {\n    let person = Person { name: String::from(\"Bob\"), age: 25 };\n    let Person { name, .. } = person;  // moves `name`, leaves `age`\n    println!(\"Age is {}\", person.age); // ❌ use of partially moved value\n}",
+              "options": [
+                "A. missing field `y` in initializer of `Point`",
+                "B. no field `alpha` on type `Color`",
+                "C. field `email` of struct `user::User` is private",
+                "D. use of partially moved value: `person`"
+              ],
+              "errorMessage": "error[E0385]: use of partially moved value: `person`\n  --> src/main.rs:6:30\n   |\n5 |     let Person { name, .. } = person;\n   |                         ------ value partially moved here\n6 |     println!(\"Age is {}\", person.age);\n   |                              ^^^^^^ value used here after partial move",
+              "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+              "solutionOptions": [
+                "Destructure by reference: `let Person { ref name, age } = person;`",
+                "Clone the moved field: `let name_clone = person.name.clone(); let age = person.age;`"
+              ]
+            },
+            {
+              "questionText": "What compiler error does this code produce?",
+              "questionCode": "#[derive(Copy, Clone)]\nstruct Wrapper {\n    data: String,    // String is not `Copy`\n}\n\nfn main() {\n    let w = Wrapper { data: String::from(\"hi\") };\n    let w2 = w;      // ❌ copy\n    println!(\"{}\", w.data);\n}",
+              "options": [
+                "A. missing field `y` in initializer of `Point`",
+                "B. no field `alpha` on type `Color`",
+                "C. field `email` of struct `user::User` is private",
+                "D. the trait `Copy` may not be implemented for this type"
+              ],
+              "errorMessage": "error[E0204]: the trait `Copy` may not be implemented for this type\n  --> src/main.rs:2:10\n   |\n2 | #[derive(Copy, Clone)]\n   |          ^^^^ `Wrapper` cannot implement `Copy` because field `data` does not implement `Copy`",
+              "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+              "solutionOptions": [
+                "Remove the `Copy` derive: `#[derive(Clone)] struct Wrapper { data: String }`",
+                "Use only Copy-compatible fields: `#[derive(Copy, Clone)] struct Wrapper { data: u32 }`"
+              ]
+            },
+            
+                {
+                  "questionText": "What compiler error does this code produce?",
+                  "questionCode": "trait Printable {\n    fn print(&self);\n}\n\nstruct Data;\n\nfn print_it<T: Printable>(x: &T) {\n    x.print();\n}\n\nfn main() {\n    let d = Data;\n    print_it(&d); // ❌ Data does not implement Printable\n}",
+                  "options": [
+                    "A. the trait bound `Data: Printable` is not satisfied",
+                    "B. no method named `print` found for struct `Data`",
+                    "C. method `perimeter` is not a member of trait `Printable`",
+                    "D. conflicting implementations of trait `Printable` for type `Data`"
+                  ],
+                  "errorMessage": "error[E0277]: the trait bound `Data: Printable` is not satisfied\n  --> src/main.rs:10:15\n   |\n10 |     print_it(&d);\n   |               ^^ the trait `Printable` is not implemented for `Data`",
+                  "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                  "solutionOptions": [
+                    "Implement `Printable` for `Data`",
+                    "Remove the `Printable` bound from `print_it`"
+                  ]
+                },
+                {
+                  "questionText": "What compiler error does this code produce?",
+                  "questionCode": "struct User { name: String }\n\nimpl User {\n    fn greet(&self) {\n        println!(\"Hello, {}!\", self.name);\n    }\n}\n\nfn main() {\n    let u = User { name: \"Alice\".into() };\n    u.greet();     // OK\n    u.print();     // ❌ no method `print`\n}",
+                  "options": [
+                    "A. no method named `print` found for struct `User` in the current scope",
+                    "B. the trait bound `User: Printable` is not satisfied",
+                    "C. method `perimeter` is not a member of trait `User`",
+                    "D. conflicting implementations of method `print` for type `User`"
+                  ],
+                  "errorMessage": "error[E0599]: no method named `print` found for struct `User` in the current scope\n  --> src/main.rs:11:7\n   |\n11 |     u.print();\n   |       ^^^^^ method not found in `User`",
+                  "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                  "solutionOptions": [
+                    "Add a `fn print(&self)` method to the `impl User` block",
+                    "Call the existing `greet` method instead of `print`"
+                  ]
+                },
+                {
+                  "questionText": "What compiler error does this code produce?",
+                  "questionCode": "trait Shape {\n    fn area(&self) -> f64;\n}\n\nstruct Circle { radius: f64 }\n\nimpl Shape for Circle {\n    fn area(&self) -> f64 {\n        std::f64::consts::PI * self.radius * self.radius\n    }\n    fn perimeter(&self) -> f64 { // ❌ perimeter not in Shape\n        2.0 * std::f64::consts::PI * self.radius\n    }\n}",
+                  "options": [
+                    "A. method `perimeter` is not a member of trait `Shape`",
+                    "B. the trait bound `Circle: Shape` is not satisfied",
+                    "C. conflicting implementations of trait `Shape` for type `Circle`",
+                    "D. missing associated type `Item` in trait `Shape`"
+                  ],
+                  "errorMessage": "error[E0407]: method `perimeter` is not a member of trait `Shape`\n  --> src/main.rs:8:5\n   |\n8 |     fn perimeter(&self) -> f64 {\n   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^ `perimeter` is not defined in trait `Shape`",
+                  "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                  "solutionOptions": [
+                    "Add `fn perimeter(&self) -> f64;` to the `Shape` trait definition",
+                    "Move `perimeter` into an inherent `impl Circle` block instead of the `Shape` impl"
+                  ]
+                },
+                {
+                  "questionText": "What compiler error does this code produce?",
+                  "questionCode": "trait MyTrait { fn do_it(&self); }\nstruct S;\n\nimpl MyTrait for S {\n    fn do_it(&self) { println!(\"First\"); }\n}\n\n// Later, in the same crate:\nimpl MyTrait for S {\n    fn do_it(&self) { println!(\"Second\"); }\n}",
+                  "options": [
+                    "A. conflicting implementations of trait `MyTrait` for type `S`",
+                    "B. no method named `do_it` found for type `S`",
+                    "C. the trait bound `S: MyTrait` is not satisfied",
+                    "D. missing associated type `Item` in trait `MyTrait`"
+                  ],
+                  "errorMessage": "error[E0119]: conflicting implementations of trait `MyTrait` for type `S`\n  --> src/main.rs:10:1\n   |\n3 | impl MyTrait for S {\n   | ------------------ first implementation here\n...\n10 | impl MyTrait for S {\n   | ^^^^^^^^^^^^^^^^^^^ conflicting implementation for `S`",
+                  "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                  "solutionOptions": [
+                    "Remove or consolidate the duplicate `impl MyTrait for S` blocks",
+                    "Use a newtype wrapper and implement `MyTrait` for the wrapper"
+                  ]
+                },
+                {
+                  "questionText": "What compiler error does this code produce?",
+                  "questionCode": "trait Iterator {\n    type Item;\n    fn next(&mut self) -> Option<Self::Item>;\n}\n\nstruct Counter;\n\nimpl Iterator for Counter {\n    // forgot to define `type Item = ...`\n    fn next(&mut self) -> Option<Self::Item> {\n        None\n    }\n}",
+                  "options": [
+                    "A. the value of the associated type `Item` must be specified",
+                    "B. no method named `next` found for type `Counter`",
+                    "C. conflicting implementations of trait `Iterator` for `Counter`",
+                    "D. the trait bound `Counter: Iterator` is not satisfied"
+                  ],
+                  "errorMessage": "error[E0191]: the value of the associated type `Item` (from trait `Iterator`) must be specified\n  --> src/main.rs:8:1\n   |\n8 | impl Iterator for Counter {\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^ missing `type Item = _;`",
+                  "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                  "solutionOptions": [
+                    "Specify `type Item = u32;` in the `impl Iterator for Counter` block",
+                    "Switch to a design without associated types (e.g. use a generic trait)"
+                  ]
+                },
+                
+                    {
+                      "questionText": "What compiler error does this code produce?",
+                      "questionCode": "trait MyTrait {\n    fn do_it(&self);\n    fn generic<T>(&self, x: T);\n}\n\nstruct S;\nimpl MyTrait for S {\n    fn do_it(&self) {}\n    fn generic<T>(&self, _x: T) {}\n}\n\nfn main() {\n    let obj: Box<dyn MyTrait> = Box::new(S);\n}",
+                      "options": [
+                        "A. the trait `MyTrait` cannot be made into an object",
+                        "B. method `generic` has wrong number of parameters",
+                        "C. conflicting implementations of `MyTrait`",
+                        "D. ambiguous associated type `X`"
+                      ],
+                      "errorMessage": "error[E0038]: the trait `MyTrait` cannot be made into an object\n  --> src/main.rs:10:24\n   |\n10 |     let obj: Box<dyn MyTrait> = Box::new(S);\n   |                        ^^^^^^^^^^^ `MyTrait` cannot be made into an object",
+                      "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                      "solutionOptions": [
+                        "Restrict the generic method to `Self: Sized`: `fn generic<T>(&self, x: T) where Self: Sized;`",
+                        "Split off the generic method into a separate trait and keep `MyTrait` object-safe"
+                      ]
+                    },
+                    {
+                      "questionText": "What compiler error does this code produce?",
+                      "questionCode": "trait Foo {\n    fn foo<T: Default>(x: T) -> Self;\n}\n\nstruct Bar;\n\nimpl Foo for Bar {\n    fn foo(x: bool) -> Self { Bar }\n}",
+                      "options": [
+                        "A. method `foo` has 0 type parameters but its trait declaration has 1",
+                        "B. method `foo` has an incompatible receiver type",
+                        "C. mismatched types in return value of `foo`",
+                        "D. ambiguous associated type `Item`"
+                      ],
+                      "errorMessage": "error[E0049]: method `foo` has 0 type parameters but its trait declaration has 1\n  --> src/main.rs:8:5\n   |\n3 |     fn foo<T: Default>(x: T) -> Self;\n   |             ^^^^^^^^ trait method has 1 type parameter\n...\n8 |     fn foo(x: bool) -> Self { Bar }\n   |     ^^^^^ wrong number of type parameters",
+                      "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                      "solutionOptions": [
+                        "Include the type parameter in the impl signature: `fn foo<T: Default>(x: T) -> Self`",
+                        "Remove the generic parameter from the trait if not needed"
+                      ]
+                    },
+                    {
+                      "questionText": "What compiler error does this code produce?",
+                      "questionCode": "trait Foo {\n    fn foo(&self, x: u8) -> bool;\n}\n\nstruct Bar;\n\nimpl Foo for Bar {\n    fn foo(&self) -> bool { true }\n}",
+                      "options": [
+                        "A. method `foo` has 1 parameter but the trait declaration has 2",
+                        "B. method `foo` has wrong number of type parameters",
+                        "C. mismatched return type in `foo`",
+                        "D. cannot borrow `self` as mutable"
+                      ],
+                      "errorMessage": "error[E0050]: method `foo` has 1 parameter but the trait declaration has 2\n  --> src/main.rs:10:5\n   |\n2 |     fn foo(&self, x: u8) -> bool;\n   |            ----------- declaration has 2 parameters\n...\n10|     fn foo(&self) -> bool { true }\n   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^ wrong number of parameters",
+                      "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                      "solutionOptions": [
+                        "Match the signature exactly: `fn foo(&self, x: u8) -> bool`",
+                        "Remove parameter `x` from the trait if not needed"
+                      ]
+                    },
+                    {
+                      "questionText": "What compiler error does this code produce?",
+                      "questionCode": "trait Foo {\n    fn foo(x: u16);\n    fn bar(&self);\n}\n\nstruct Bar;\n\nimpl Foo for Bar {\n    fn foo(x: i16) { }\n    fn bar(&mut self) { }\n}",
+                      "options": [
+                        "A. method `foo` has an incompatible signature",
+                        "B. trait bound `Bar: Foo` is not satisfied",
+                        "C. method `bar` is not a member of trait `Foo`",
+                        "D. ambiguous associated type `X`"
+                      ],
+                      "errorMessage": "error[E0053]: method `foo` has an incompatible signature\n  --> src/main.rs:15:5\n   |\n2 |     fn foo(x: u16);\n   |             ---- expected `u16`\n...\n15|     fn foo(x: i16) { }\n   |     ^^^^^^^^^^^^^^^ found `i16` instead of `u16`\n\nerror[E0053]: method `bar` has an incompatible receiver\n  --> src/main.rs:16:5\n   |\n3 |     fn bar(&self);\n   |            ----- expected `&self`\n...\n16|     fn bar(&mut self) { }\n   |     ^^^^^^^^^^^^^^^^^ wrong receiver type",
+                      "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                      "solutionOptions": [
+                        "Use the correct parameter types: `fn foo(x: u16)` and `fn bar(&self)`",
+                        "Adjust the trait to match the impl if different behavior is intended"
+                      ]
+                    },
+                    {
+                      "questionText": "What compiler error does this code produce?",
+                      "questionCode": "struct S;\n\nimpl<T> S {\n    fn make(&self) -> T {\n        unimplemented!()\n    }\n}",
+                      "options": [
+                        "A. the type parameter `T` is not constrained by the impl trait, self type, or predicates",
+                        "B. method `make` has incompatible return type",
+                        "C. ambiguous associated type `X`",
+                        "D. conflicting implementations of `S`"
+                      ],
+                      "errorMessage": "error[E0207]: the type parameter `T` is not constrained by the impl trait, self type, or predicates\n  --> src/main.rs:5:6\n   |\n4 | impl<T> S {\n   |      - unconstrained type parameter\n5 |     fn make(&self) -> T {\n   |      ^^^^^^^^^^^^^^^^^^^ type parameter `T` not used in trait or self",
+                      "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                      "solutionOptions": [
+                        "Remove the unused `<T>`: `impl S { fn make(&self) { ... } }`",
+                        "Constrain it by implementing a trait: `impl<T: Default> Maker<T> for S`"
+                      ]
+                    },
+                    {
+                      "questionText": "What compiler error does this code produce?",
+                      "questionCode": "trait Trait { type X; }\n\nfn main() {\n    let _: Trait::X;\n}",
+                      "options": [
+                        "A. ambiguous associated type `X`",
+                        "B. no method named `X` found in `Trait`",
+                        "C. trait bound `Trait: Trait` is not satisfied",
+                        "D. cannot borrow `Trait` as mutable"
+                      ],
+                      "errorMessage": "error[E0223]: ambiguous associated type `X`\n  --> src/main.rs:3:17\n   |\n3 |     let _: Trait::X;\n   |                 ^ ambiguous associated type\n   = help: use fully-qualified syntax: `<Type as Trait>::X`",
+                      "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                      "solutionOptions": [
+                        "Specify the implementor: `<Foo as Trait>::X`",
+                        "Remove the associated type if only one implementation exists"
+                      ]
+                    },
+                    {
+                      "questionText": "What compiler error does this code produce?",
+                      "questionCode": "trait Foo {\n    fn foo(&self) -> i32;\n}\n\nstruct Bar;\n\nimpl Foo for Bar {\n    fn foo(&self) -> u8 { 0 }\n}",
+                      "options": [
+                        "A. mismatched types: expected `i32`, found `u8`",
+                        "B. no method named `foo` found for `Bar`",
+                        "C. method `foo` has wrong number of parameters",
+                        "D. ambiguous associated type `Item`"
+                      ],
+                      "errorMessage": "error[E0308]: mismatched types\n  --> src/main.rs:5:5\n   |\n5 |     fn foo(&self) -> u8 { 0 }\n   |         ^^^^^^^^^^^^^ expected `i32`, found `u8`\n   = note: expected type `i32`\n              found type `u8`",
+                      "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                      "solutionOptions": [
+                        "Change the return type to `i32`: `fn foo(&self) -> i32 { 0 }`",
+                        "Cast the `u8` to `i32`: `fn foo(&self) -> i32 { 0_u8 as i32 }`"
+                      ]
+                    },
+                    
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "fn main() {\n    println!(\"x is {}\", x);  // ❌ `x` wasn’t declared\n}",
+                          "options": [
+                            "A. cannot find value `x` in this scope",
+                            "B. unresolved import `crate::utils`",
+                            "C. cannot find type `Point` in this scope",
+                            "D. wrong number of type arguments: expected 1, found 0"
+                          ],
+                          "errorMessage": "error[E0425]: cannot find value `x` in this scope\n  --> src/main.rs:2:28\n   |\n2 |     println!(\"x is {}\", x);\n   |                            ^ not found in this scope",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Declare `x` before using it: `let x = 42;`",
+                            "Fix a typo if you meant another variable"
+                          ]
+                        },
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "mod utils;\n\nfn main() {\n    use crate::utils::helper; // ❌ `utils` isn’t defined in this crate\n    helper();\n}",
+                          "options": [
+                            "A. unresolved import `crate::utils`",
+                            "B. cannot find value `x` in this scope",
+                            "C. cannot find type `Point` in this scope",
+                            "D. non‐exhaustive patterns: `Blue` not covered"
+                          ],
+                          "errorMessage": "error[E0432]: unresolved import `crate::utils`\n  --> src/main.rs:3:9\n   |\n3 |     use crate::utils::helper;\n   |         ^^^^^^^^^^^^^^^^^^^^ no `utils` in the root",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Create the module file at `src/utils.rs` or `src/utils/mod.rs`",
+                            "Correct the import path to the actual module location"
+                          ]
+                        },
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "fn main() {\n    let p: Point = Point { x: 0, y: 0 }; // ❌ no `Point` defined\n}",
+                          "options": [
+                            "A. cannot find type `Point` in this scope",
+                            "B. unresolved import `crate::utils`",
+                            "C. wrong number of generic arguments: expected 1, found 0",
+                            "D. non‐exhaustive patterns: `Blue` not covered"
+                          ],
+                          "errorMessage": "error[E0412]: cannot find type `Point` in this scope\n  --> src/main.rs:2:11\n   |\n2 |     let p: Point = Point { x: 0, y: 0 };\n   |           ^^^^^ not found in this scope",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Define the type: `struct Point { x: i32, y: i32 }`",
+                            "Import it from its module: `use crate::geometry::Point;`"
+                          ]
+                        },
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "struct Wrapper<T>(T);\n\nfn main() {\n    let w: Wrapper = Wrapper(5); // ❌ forgot `<i32>`\n}",
+                          "options": [
+                            "A. wrong number of type arguments: expected 1, found 0",
+                            "B. cannot find value `x` in this scope",
+                            "C. unresolved import `crate::utils`",
+                            "D. non‐exhaustive patterns: `Blue` not covered"
+                          ],
+                          "errorMessage": "error[E0107]: wrong number of type arguments: expected 1, found 0\n  --> src/main.rs:4:13\n   |\n4 |     let w: Wrapper = Wrapper(5);\n   |             ^^^^^^^ expected 1 type argument",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Supply the type parameter: `let w: Wrapper<i32> = Wrapper(5);`",
+                            "Make `Wrapper` non-generic if you only need one type"
+                          ]
+                        },
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "enum Color { Red, Green, Blue }\n\nfn main() {\n    let c = Color::Red;\n    match c {\n        Color::Red => println!(\"Red\"),\n        Color::Green => println!(\"Green\"),\n        // ❌ missing `Blue`\n    }\n}",
+                          "options": [
+                            "A. non‐exhaustive patterns: `Blue` not covered",
+                            "B. cannot find type `Point` in this scope",
+                            "C. wrong number of type arguments: expected 1, found 0",
+                            "D. use of partially moved value: `person`"
+                          ],
+                          "errorMessage": "error[E0004]: non‐exhaustive patterns: `Blue` not covered\n  --> src/main.rs:6:11\n   |\n6 |     match c {\n   |           ^ pattern `Blue` not covered",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Add the missing match arm: `Color::Blue => println!(\"Blue\"),`",
+                            "Use a catch-all pattern: `_ => unreachable!(),`"
+                          ]
+                        },
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "fn get_ref() -> &String {\n    &String::from(\"hello\") // ❌ borrowing a temporary\n}\n\nfn main() {\n    let r = get_ref();\n    println!(\"{}\", r);\n}",
+                          "options": [
+                            "A. `String::from(\"hello\")` does not live long enough",
+                            "B. cannot find value `x` in this scope",
+                            "C. unresolved import `crate::utils`",
+                            "D. wrong number of type arguments: expected 1, found 0"
+                          ],
+                          "errorMessage": "error[E0597]: `String::from(\"hello\")` does not live long enough\n  --> src/main.rs:2:5\n   |\n2 |     &String::from(\"hello\")\n   |     ^^^^^^^^^^^^^^^^^^^^^ borrowed value does not live long enough",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Return the owned `String` instead of a reference: `fn get_string() -> String`",
+                            "Use a `'static` string slice: `fn get_ref() -> &'static str`"
+                          ]
+                        },
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "fn longest(x: &str, y: &str) -> &str {\n    if x.len() > y.len() { x } else { y }\n}\n\nfn main() {\n    let s1 = String::from(\"long\");\n    let r;\n    {\n        let s2 = String::from(\"short\");\n        r = longest(&s1, &s2); // ❌ `s2` doesn’t live long enough\n    }\n    println!(\"{}\", r);\n}",
+                          "options": [
+                            "A. lifetime mismatch: reference may outlive borrowed value",
+                            "B. non‐exhaustive patterns: `Blue` not covered",
+                            "C. wrong number of type arguments: expected 1, found 0",
+                            "D. cannot find value `x` in this scope"
+                          ],
+                          "errorMessage": "error[E0623]: lifetime mismatch\n  --> src/main.rs:9:13\n   |\n9 |         r = longest(&s1, &s2);\n   |             ^^^^^^^^^^^^^^^^ returns a reference to data owned by the current function",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Ensure both inputs live long enough (move `s2`’s scope)",
+                            "Return an owned `String` instead of `&str`",
+                            "Annotate lifetimes explicitly if safe"
+                          ]
+                        },
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "#![feature(let_chains)]\n\nfn main() {\n    if let Some(x) = Some(5) && x > 3 {\n        println!(\"{}\", x);\n    }\n}",
+                          "options": [
+                            "A. use of unstable library feature 'let_chains'",
+                            "B. non‐exhaustive patterns: `Blue` not covered",
+                            "C. cannot find value `x` in this scope",
+                            "D. wrong number of type arguments: expected 1, found 0"
+                          ],
+                          "errorMessage": "error[E0658]: use of unstable library feature 'let_chains'\n  --> src/main.rs:4:8\n   |\n4 |     if let Some(x) = Some(5) && x > 3 {\n   |        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n   = note: see issue #53667 for more information",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Use the stable equivalent nested `if let` syntax",
+                            "Switch to nightly Rust and enable `#![feature(let_chains)]`"
+                          ]
+                        },
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "struct A;\nstruct A; // ❌ `A` already defined",
+                          "options": [
+                            "A. the name `A` is defined multiple times",
+                            "B. use of partially moved value: `person`",
+                            "C. unresolved import `crate::utils`",
+                            "D. cannot find type `Point` in this scope"
+                          ],
+                          "errorMessage": "error[E0428]: the name `A` is defined multiple times\n  --> src/main.rs:2:8\n   |\n1 | struct A;\n   |        - first definition here\n2 | struct A;\n   |        ^ `A` is defined again",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Remove or rename one of the `struct A` definitions",
+                            "Place them in separate modules to avoid conflict"
+                          ]
+                        },
+                        {
+                          "questionText": "What compiler error does this code produce?",
+                          "questionCode": "struct Node {\n    next: Node, // ❌ infinite recursion in type layout\n}",
+                          "options": [
+                            "A. cycle detected when computing layout of `Node`",
+                            "B. non‐exhaustive patterns: `Blue` not covered",
+                            "C. wrong number of type arguments: expected 1, found 0",
+                            "D. cannot find value `x` in this scope"
+                          ],
+                          "errorMessage": "error[E0391]: cycle detected when computing layout of `Node`\n  --> src/main.rs:2:5\n   |\n2 |     next: Node,\n   |     ^^^^^^^^^^ recursive without indirection",
+                          "solutionPrompt": "Which of the following will fix the error? (Select all that apply)",
+                          "solutionOptions": [
+                            "Break the cycle with a pointer: `next: Box<Node>`",
+                            "Use an `Option<Box<Node>>` if `next` may be absent"
+                          ]
+                        }
+                      ]
