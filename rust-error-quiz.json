@@ -97,7 +97,7 @@
             "Shorten the scope of the immutable borrow so it ends before the mutation",
             "Encapsulate the borrow in its own block"
           ]
-        }
+        },
 
      
             {
