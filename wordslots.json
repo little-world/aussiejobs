@@ -1,0 +1,72 @@
+[
+  {
+    "word": "train",
+    "row": 0,
+    "col": 0,
+    "direction": "across",
+    "clue": "5-letter vehicle on tracks"
+  },
+  {
+    "word": "giant",
+    "row": 0,
+    "col": 2,
+    "direction": "down",
+    "clue": "Very large person"
+  },
+  {
+    "word": "ring",
+    "row": 2,
+    "col": 0,
+    "direction": "across",
+    "clue": "Circle of jewelry"
+  },
+  {
+    "word": "tag",
+    "row": 4,
+    "col": 0,
+    "direction": "across",
+    "clue": "Label or game of chase"
+  },
+  {
+    "word": "net",
+    "row": 1,
+    "col": 4,
+    "direction": "down",
+    "clue": "Used to catch fish"
+  },
+  {
+    "word": "art",
+    "row": 3,
+    "col": 2,
+    "direction": "across",
+    "clue": "Creative expression"
+  },
+  {
+    "word": "rat",
+    "row": 2,
+    "col": 3,
+    "direction": "down",
+    "clue": "Sneaky rodent"
+  },
+  {
+    "word": "ant",
+    "row": 5,
+    "col": 1,
+    "direction": "across",
+    "clue": "Tiny insect in colonies"
+  },
+  {
+    "word": "lag",
+    "row": 3,
+    "col": 5,
+    "direction": "down",
+    "clue": "Slowdown in speed"
+  },
+  {
+    "word": "tan",
+    "row": 5,
+    "col": 4,
+    "direction": "across",
+    "clue": "Skin color from the sun"
+  }
+]
